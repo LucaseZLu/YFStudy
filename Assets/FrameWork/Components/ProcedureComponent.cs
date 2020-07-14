@@ -10,14 +10,39 @@ public class ProcedureComponent : YouYouBaseComponent,IUpdateComponent
     protected override void OnAwake()
     {
         base.OnAwake();
-        GameEntity.RegisterUpdateComponent(this);
+        GameEntry.RegisterUpdateComponent(this);
         m_ProcedureManager=new ProcedureManager();
     }
-    
-    public Dictionary<string,object>ParamDic
+
+    protected override void OnStart()
     {
-        get { return m_ProcedureManager.ParamDic; }
+        base.OnStart();
+        //要在start的时候初始化
+        m_ProcedureManager.Init();
     }
+    
+    /// <summary>
+    /// 设置参数值
+    /// </summary>
+    /// <param name="key"></param>
+    /// <param name="value"></param>
+    /// <typeparam name="TData">泛型类型</typeparam>
+    public void SetData<TData>(string key, TData value)
+    {
+        m_ProcedureManager.CurrFsm.SetData<TData>(key,value);
+    }
+
+    /// <summary>
+    /// 获取参数值
+    /// </summary>
+    /// <param name="key"></param>
+    /// <typeparam name="TData"></typeparam>
+    /// <returns></returns>
+    public TData GetData<TData>(string key)
+    {
+        return m_ProcedureManager.CurrFsm.GetData<TData>(key);
+    }
+    
     
     /// <summary>
     /// 当前的流程状态
@@ -53,12 +78,7 @@ public class ProcedureComponent : YouYouBaseComponent,IUpdateComponent
         m_ProcedureManager.OnUpdate();
     }
     
-    protected override void OnStart()
-    {
-        base.OnStart();
-        //要在start的时候初始化
-        m_ProcedureManager.Init();
-    }
+
 
 
 }

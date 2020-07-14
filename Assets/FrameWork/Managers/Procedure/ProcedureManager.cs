@@ -30,6 +30,11 @@ public class ProcedureManager : ManagerBase,System.IDisposable
     private Fsm<ProcedureManager> m_CurrFsm;
 
     /// <summary>
+    /// 当前流程状态机
+    /// </summary>
+    public Fsm<ProcedureManager> CurrFsm => m_CurrFsm;
+
+    /// <summary>
     /// 当前的流程状态
     /// </summary>
     public ProcedureState CurProcedureState
@@ -63,18 +68,9 @@ public class ProcedureManager : ManagerBase,System.IDisposable
         states[7] = new ProcedureWorldMap();
         states[8] = new ProcedureGameLevel();
         
-        m_CurrFsm = GameEntity.Fsm.Create(this, states);
+        m_CurrFsm = GameEntry.Fsm.Create(this, states);
     }
 
-    /// <summary>
-    /// 当前流程状态机参数字典
-    /// </summary>
-    public Dictionary<string,object>ParamDic
-    {
-        get { return m_CurrFsm.ParamDic; }
-    }
-
-    
     public void ChangeState(ProcedureState state)
     {
         m_CurrFsm.ChangeState((byte)state);

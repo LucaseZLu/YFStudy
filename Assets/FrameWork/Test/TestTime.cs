@@ -6,7 +6,7 @@ public class TestTime:MonoBehaviour
     {
         if (Input.GetKeyUp(KeyCode.A))
         {
-            TimeAction action = GameEntity.Time.CreateTimeAction();
+            TimeAction action = GameEntry.Time.CreateTimeAction();
             action.Init(1,1,8, () =>
                 {
                     Debug.Log("定时器开始执行");

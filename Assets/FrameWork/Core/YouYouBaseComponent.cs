@@ -3,7 +3,7 @@ public abstract class YouYouBaseComponent:YouYouComponent
     protected override void OnAwake()
     {
         base.OnAwake();
-        GameEntity.RegisterBaseComponent(this);//加入组件列表
+        GameEntry.RegisterBaseComponent(this);//加入组件列表
     }
 
 

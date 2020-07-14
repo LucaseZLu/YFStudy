@@ -11,7 +11,7 @@ public class TimeComponent : YouYouBaseComponent,IUpdateComponent
     protected override void OnAwake()
     {
         base.OnAwake();
-        GameEntity.RegisterUpdateComponent(this);
+        GameEntry.RegisterUpdateComponent(this);
         m_TimeManager=new TimeManager();
     }
 
@@ -25,7 +25,7 @@ public class TimeComponent : YouYouBaseComponent,IUpdateComponent
     /// <returns></returns>
     public TimeAction CreateTimeAction()
     {
-        return GameEntity.Pool.DequeueClassObject<TimeAction>();
+        return GameEntry.Pool.DequeueClassObject<TimeAction>();
         
     }
     
@@ -45,7 +45,7 @@ public class TimeComponent : YouYouBaseComponent,IUpdateComponent
     internal void RemoveTimeAction(TimeAction action)
     {
         m_TimeManager.RemoveTimeAction(action);
-        GameEntity.Pool.EnqueueClassObject(action);
+        GameEntry.Pool.EnqueueClassObject(action);
     }
 
     #endregion

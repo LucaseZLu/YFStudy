@@ -1,6 +1,9 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using YouYou;
+using Object = UnityEngine.Object;
 
 public class PoolComponent : YouYouBaseComponent,IUpdateComponent
 {
@@ -11,9 +14,10 @@ public class PoolComponent : YouYouBaseComponent,IUpdateComponent
         base.OnAwake();
         PoolManager=new PoolManager();
         
-        GameEntity.RegisterUpdateComponent(this);
+        GameEntry.RegisterUpdateComponent(this);
         m_NextRunTime = Time.time;
         InitGameObjectPool();
+        SetClassObjectResideCount<VarInt>(10);
     }
 
     #region 设置类常驻数量
@@ -55,8 +59,74 @@ public class PoolComponent : YouYouBaseComponent,IUpdateComponent
     {
         PoolManager.ClassObjectPool.Enqueue(obj);
     }
+    
+    #endregion
+
+    #region 变量的对象池
+
+    /// <summary>
+    /// 变量对象池锁
+    /// </summary>
+    private readonly object m_VarObjectLock=new Object();
+
+#if UNITY_EDITOR
+    /// <summary>
+    /// 监视面板显示信息
+    /// </summary>
+    public Dictionary<Type, int> VarObjectInspectorDic=new Dictionary<Type, int>();
+#endif
+    
+    /// <summary>
+    /// 取出一个变量对象
+    /// </summary>
+    /// <typeparam name="T"></typeparam>
+    /// <returns></returns>
+    public T DequeueVarObject<T>() where T:VariableBase,new ()
+    {
+        lock (m_VarObjectLock)
+        {
+            T item=DequeueClassObject<T>();
+#if UNITY_EDITOR
+            Type t = item.GetType();
+            if (VarObjectInspectorDic.ContainsKey(t))
+            {
+                VarObjectInspectorDic[t]++;
+            }
+            else
+            {
+                VarObjectInspectorDic[t] = 1;
+            }
+#endif
+            return item;
+        }
+    }
+    /// <summary>
+    /// 变量对象回池
+    /// </summary>
+    /// <param name="item"></param>
+    /// <typeparam name="T"></typeparam>
+    public void EnqueueVarObject<T>(T item) where T:VariableBase
+    {
+        lock (m_VarObjectLock)
+        {
+            EnqueueClassObject(item);
+#if UNITY_EDITOR
+            Type t = item.GetType();
+            if (VarObjectInspectorDic.ContainsKey(t))
+            {
+                VarObjectInspectorDic[t]--;
+                if (VarObjectInspectorDic[t] == 0)
+                {
+                    VarObjectInspectorDic.Remove(t);
+                }
+            }
+#endif
+        }
+    }
+    
 
     #endregion
+    
     public override void Shutdown()
     {
         PoolManager.Dispose();

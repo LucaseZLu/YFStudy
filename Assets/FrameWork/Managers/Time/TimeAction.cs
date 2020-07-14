@@ -69,7 +69,7 @@ public class TimeAction
 
    public void Run()
    {
-      GameEntity.Time.RegisterTimeAction(this);
+      GameEntry.Time.RegisterTimeAction(this);
       //把自己加入时间管理器的列表中
       m_CurrRunTime = Time.time;
       
@@ -88,7 +88,7 @@ public class TimeAction
       }
       IsRuning = false;
       
-      GameEntity.Time.RemoveTimeAction(this);
+      GameEntry.Time.RemoveTimeAction(this);
    }
 
    
