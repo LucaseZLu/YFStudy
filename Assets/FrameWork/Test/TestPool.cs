@@ -10,7 +10,7 @@ public class TestPool : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        GameEntity.Pool.SetClassObjectResideCount<CusUserData>(3);
+        GameEntry.Pool.SetClassObjectResideCount<CusUserData>(3);
     }
 
     // Update is called once per frame
@@ -45,13 +45,13 @@ public class TestPool : MonoBehaviour
         for (int i = 0; i < 20; i++)
         {
             yield return new WaitForSeconds(0.5f);
-            GameEntity.Pool.GameObjectSpawn(1,trans1, (Transform instace) =>
+            GameEntry.Pool.GameObjectSpawn(1,trans1, (Transform instace) =>
             {
                 instace.transform.localPosition+=new Vector3(0,0,i*2);
                 instace.gameObject.SetActive(true);
                 StartCoroutine(Despawn(1, instace));
             });
-            GameEntity.Pool.GameObjectSpawn(2,trans2, (Transform instace) =>
+            GameEntry.Pool.GameObjectSpawn(2,trans2, (Transform instace) =>
             {
                 instace.transform.localPosition+=new Vector3(0,5,i*2);
                 instace.gameObject.SetActive(true);
@@ -63,7 +63,7 @@ public class TestPool : MonoBehaviour
     private IEnumerator Despawn(byte poolId, Transform instance)
     {
         yield return new WaitForSeconds(20f);
-        GameEntity.Pool.GameObjectDeSpawn(poolId,instance);
+        GameEntry.Pool.GameObjectDeSpawn(poolId,instance);
     }
     
 //    private IEnumerator EnqueueClassObject(object obj)

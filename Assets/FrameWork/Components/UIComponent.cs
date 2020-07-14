@@ -7,12 +7,12 @@ public class UIComponent : YouYouBaseComponent,IUpdateComponent
     protected override void OnAwake()
     {
         base.OnAwake();
-        GameEntity.RegisterUpdateComponent(this );
+        GameEntry.RegisterUpdateComponent(this );
     }
 
     public void OnUpdate()
     {
-        
+     //xxxx    
     }
     public override void Shutdown()
     {

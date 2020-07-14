@@ -8,7 +8,7 @@ public class TestEvent : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        GameEntity.Event.CommonEvent.AddEventListener(CommonEventId.RegComplete,OnRegComplete);
+        GameEntry.Event.CommonEvent.AddEventListener(CommonEventId.RegComplete,OnRegComplete);
     }
 
     private void OnRegComplete(object userdata)
@@ -18,7 +18,7 @@ public class TestEvent : MonoBehaviour
 
     private void OnDestroy()
     {
-        GameEntity.Event.CommonEvent.RemoveEventListener(CommonEventId.RegComplete,OnRegComplete);
+        GameEntry.Event.CommonEvent.RemoveEventListener(CommonEventId.RegComplete,OnRegComplete);
     }
 
     // Update is called once per frame
@@ -26,7 +26,7 @@ public class TestEvent : MonoBehaviour
     {
         if (Input.GetKeyUp(KeyCode.A))
         {
-            GameEntity.Event.CommonEvent.Dispatch(CommonEventId.RegComplete,123);
+            GameEntry.Event.CommonEvent.Dispatch(CommonEventId.RegComplete,123);
         }
     }
 }

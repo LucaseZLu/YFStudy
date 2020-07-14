@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class GameEntity : MonoBehaviour
+public class GameEntry : MonoBehaviour
 {
     #region 组件属性
 
