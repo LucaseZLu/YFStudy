@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\laizh\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\laizh\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_YFrameWork.1384736390.00" t="ExcludeRecursive" />
+    <e p="E:\Unity\UnityProject\YFrameWork" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Editor" t="Include">
+          <e p="PathologicalGames" t="Include">
+            <e p="Common" t="Include">
+              <e p="PGEditorUtils.cs" t="Include" />
+            </e>
+            <e p="PoolManager" t="Include">
+              <e p="PreRuntimePoolItemInspector.cs" t="Include" />
+              <e p="SpawnPoolInspector.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="FrameWork" t="Include">
+          <e p="Components" t="Include">
+            <e p="DataComponent.cs" t="Include" />
+            <e p="DataTableComponent.cs" t="Include" />
+            <e p="DownloadComponent.cs" t="Include" />
+            <e p="EventComponent.cs" t="Include" />
+            <e p="FsmComponent.cs" t="Include" />
+            <e p="GameObjComponent.cs" t="Include" />
+            <e p="HttpComponent.cs" t="Include" />
+            <e p="LocalizationComponent.cs" t="Include" />
+            <e p="PoolComponent.cs" t="Include" />
+            <e p="ProcedureComponent.cs" t="Include" />
+            <e p="ResourceComponent.cs" t="Include" />
+            <e p="SceneComponent.cs" t="Include" />
+            <e p="SettingComponent.cs" t="Include" />
+            <e p="SocketComponent.cs" t="Include" />
+            <e p="TimeComponent.cs" t="Include" />
+            <e p="UIComponent.cs" t="Include" />
+          </e>
+          <e p="Core" t="Include">
+            <e p="IUpdateComponent.cs" t="Include" />
+            <e p="YouYouBaseComponent.cs" t="Include" />
+            <e p="YouYouComponent.cs" t="Include" />
+          </e>
+          <e p="Editor" t="Include">
+            <e p="PoolComponentInspector.cs" t="Include" />
+          </e>
+          <e p="GameEntity.cs" t="Include" />
+          <e p="Managers" t="Include">
+            <e p="Data" t="Include">
+              <e p="DataManager.cs" t="Include" />
+            </e>
+            <e p="DataTable" t="Include">
+              <e p="DataTableManager.cs" t="Include" />
+            </e>
+            <e p="Download" t="Include">
+              <e p="DownloadManager.cs" t="Include" />
+            </e>
+            <e p="Event" t="Include">
+              <e p="CommonEvent.cs" t="Include" />
+              <e p="CommonEventId.cs" t="Include" />
+              <e p="EventManager.cs" t="Include" />
+              <e p="SocketEvent.cs" t="Include" />
+            </e>
+            <e p="Fsm" t="Include">
+              <e p="Fsm.cs" t="Include" />
+              <e p="FsmBase.cs" t="Include" />
+              <e p="FsmManager.cs" t="Include" />
+              <e p="FsmState.cs" t="Include" />
+            </e>
+            <e p="GameObj" t="Include">
+              <e p="GameObjManager.cs" t="Include" />
+            </e>
+            <e p="Http" t="Include">
+              <e p="HttpManager.cs" t="Include" />
+            </e>
+            <e p="Localization" t="Include">
+              <e p="LocalizationManager.cs" t="Include" />
+            </e>
+            <e p="ManagerBase.cs" t="Include" />
+            <e p="Pool" t="Include">
+              <e p="ClassObjectPool.cs" t="Include" />
+              <e p="GameObjectPool.cs" t="Include" />
+              <e p="GameObjectPoolEntity.cs" t="Include" />
+              <e p="PoolManager.cs" t="Include" />
+            </e>
+            <e p="Procedure" t="Include">
+              <e p="ProcedureManager.cs" t="Include" />
+              <e p="ProcedureState" t="Include">
+                <e p="ProcedureBase.cs" t="Include" />
+                <e p="ProcedureChangeScene.cs" t="Include" />
+                <e p="ProcedureCheckVersion.cs" t="Include" />
+                <e p="ProcedureEnterGame.cs" t="Include" />
+                <e p="ProcedureGameLevel.cs" t="Include" />
+                <e p="ProcedureLaunch.cs" t="Include" />
+                <e p="ProcedureLogOn.cs" t="Include" />
+                <e p="ProcedurePreload.cs" t="Include" />
+                <e p="ProcedureSelectRole.cs" t="Include" />
+                <e p="ProcedureWorldMap.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Resource" t="Include">
+              <e p="ResourceManager.cs" t="Include" />
+            </e>
+            <e p="Scene" t="Include">
+              <e p="SceneManager.cs" t="Include" />
+            </e>
+            <e p="Setting" t="Include">
+              <e p="SettingManager.cs" t="Include" />
+            </e>
+            <e p="Socket" t="Include">
+              <e p="SocketManager.cs" t="Include" />
+            </e>
+            <e p="Time" t="Include">
+              <e p="TimeAction.cs" t="Include" />
+              <e p="TimeManager.cs" t="Include" />
+            </e>
+            <e p="UI" t="Include">
+              <e p="UIManager.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Test" t="Include">
+            <e p="CusUserData.cs" t="Include" />
+            <e p="TestEvent.cs" t="Include" />
+            <e p="TestPool.cs" t="Include" />
+            <e p="TestProcedure.cs" t="Include" />
+            <e p="TestTime.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="PathologicalGames" t="Include">
+            <e p="PoolManager" t="Include">
+              <e p="PoolManager.cs" t="Include" />
+              <e p="PreRuntimePoolItem.cs" t="Include" />
+              <e p="SpawnPool.cs" t="Include" />
+            </e>
+            <e p="readme.txt" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="YFrameWork.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="716a0646-aab3-4044-bbf2-e12b49ffb39e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Managers/Resource/ResourceManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Managers/DataTable/DataTableManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Test/TestProcedure.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Managers/Procedure/ProcedureManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Managers/Procedure/ProcedureState/ProcedurePreload.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Managers/Procedure/ProcedureState/ProcedureGameLevel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Managers/Procedure/ProcedureState/ProcedureSelectRole.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/PathologicalGames/PoolManager/PoolManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Managers/Procedure/ProcedureState/ProcedureCheckVersion.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/PathologicalGames/PoolManager/SpawnPool.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Managers/Procedure/ProcedureState/ProcedureBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Managers/Procedure/ProcedureState/ProcedureChangeScene.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/PathologicalGames/PoolManager/PreRuntimePoolItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Managers/Procedure/ProcedureState/ProcedureLogOn.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Managers/Procedure/ProcedureState/ProcedureEnterGame.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Managers/Procedure/ProcedureState/ProcedureLaunch.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Managers/Procedure/ProcedureState/ProcedureWorldMap.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Managers/Localization/LocalizationManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Core/YouYouComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Core/YouYouBaseComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Components/SceneComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Core/IUpdateComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Components/LocalizationComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Test/TestTime.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Components/PoolComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Components/DataTableComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Test/CusUserData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Components/UIComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Editor/PoolComponentInspector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Components/TimeComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Components/SettingComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Components/ResourceComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Components/SocketComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Test/TestEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/GameEntity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Test/TestPool.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Components/DownloadComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Components/ProcedureComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Managers/ManagerBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Components/EventComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Components/HttpComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Components/DataComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Components/GameObjComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Components/FsmComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Managers/UI/UIManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Managers/Fsm/FsmBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Managers/Fsm/FsmManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Managers/Fsm/Fsm.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Managers/Fsm/FsmState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Managers/Data/DataManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Managers/Http/HttpManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Managers/Pool/GameObjectPoolEntity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Managers/Pool/GameObjectPool.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Managers/Pool/PoolManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Managers/Pool/ClassObjectPool.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Managers/Time/TimeManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Managers/Time/TimeAction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Managers/Event/EventManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Managers/Event/CommonEventId.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Managers/Event/SocketEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Managers/Event/CommonEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Managers/Scene/SceneManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Managers/Socket/SocketManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Managers/GameObj/GameObjManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Managers/Setting/SettingManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FrameWork/Managers/Download/DownloadManager.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/FrameWork/Managers/Scene/SceneManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameWork/Managers/Setting/SettingManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameWork/Managers/Socket/SocketManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameWork/Managers/UI/UIManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameWork/Components/YouYouComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameWork/Components/IUpdateComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameWork/Components/DataComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameWork/Components/DataTableComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameWork/Components/DownloadComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameWork/Components/GameObjComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameWork/Components/HttpComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameWork/Components/LocalizationComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameWork/Components/ResourceComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameWork/Components/SceneComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameWork/Components/SettingComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameWork/Components/SocketComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameWork/Components/UIComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameWork/Managers/Event/CommonEventId.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameWork/Test/TestEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameWork/Components/EventComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameWork/Managers/Event/SocketEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameWork/Managers/Event/EventManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameWork/Managers/Event/CommonEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameWork/Managers/Time/TimeManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameWork/Managers/Time/TimeAction.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameWork/Test/TestTime.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameWork/Test/CusUserData.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameWork/Components/TimeComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameWork/Managers/Pool/ClassObjectPool.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameWork/Editor/PoolComponentInspector.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameWork/Managers/Pool/GameObjectPoolEntity.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameWork/Managers/Pool/PoolManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameWork/Managers/Pool/GameObjectPool.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameWork/Components/PoolComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameWork/Test/TestPool.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameWork/Managers/Fsm/FsmBase.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameWork/Managers/Fsm/FsmState.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameWork/Managers/Fsm/FsmManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameWork/Managers/Procedure/ProcedureState/ProcedureLogOn.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameWork/Managers/Procedure/ProcedureState/ProcedurePreload.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameWork/Components/FsmComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameWork/Core/YouYouBaseComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameWork/Core/YouYouComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameWork/GameEntity.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameWork/Test/TestProcedure.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameWork/Managers/Procedure/ProcedureState/ProcedureEnterGame.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameWork/Managers/Procedure/ProcedureState/ProcedureLaunch.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameWork/Managers/Procedure/ProcedureState/ProcedureCheckVersion.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameWork/Managers/Fsm/Fsm.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameWork/Managers/Procedure/ProcedureManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameWork/Components/ProcedureComponent.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UTqb12zHWzsYdUAV0oV1iVjfnE" />
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="13044">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="13044" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="716a0646-aab3-4044-bbf2-e12b49ffb39e" name="Default Changelist" comment="" />
+      <created>1559490167914</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559490167914</updated>
+      <workItem from="1559490175159" duration="6242000" />
+      <workItem from="1559499299098" duration="268000" />
+      <workItem from="1559569925748" duration="6983000" />
+      <workItem from="1559663857537" duration="6296000" />
+      <workItem from="1559755156576" duration="1939000" />
+      <workItem from="1560269719706" duration="613000" />
+      <workItem from="1560874006314" duration="4207000" />
+      <workItem from="1561310021820" duration="2538000" />
+      <workItem from="1561312618161" duration="124000" />
+      <workItem from="1561484536826" duration="1616000" />
+      <workItem from="1561570748861" duration="1278000" />
+      <workItem from="1562258744233" duration="3806000" />
+      <workItem from="1562517076028" duration="599000" />
+      <workItem from="1562600012926" duration="5352000" />
+      <workItem from="1565531374111" duration="3527000" />
+      <workItem from="1566148606564" duration="2641000" />
+      <workItem from="1567443275393" duration="2373000" />
+      <workItem from="1567527495909" duration="6328000" />
+      <workItem from="1568464543385" duration="2959000" />
+      <workItem from="1575391005767" duration="3597000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/FrameWork/Test/TestEvent.cs</url>
+          <line>28</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/FrameWork/Test/TestEvent.cs" initialLine="28">
+            <startOffsets>
+              <option value="669" />
+            </startOffsets>
+            <endOffsets>
+              <option value="738" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/FrameWork/GameEntity.cs</url>
+          <line>163</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/FrameWork/GameEntity.cs" initialLine="163">
+            <startOffsets>
+              <option value="3009" />
+            </startOffsets>
+            <endOffsets>
+              <option value="3052" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/FrameWork/Test/TestEvent.cs</url>
+          <line>10</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/FrameWork/Test/TestEvent.cs" initialLine="10">
+            <startOffsets>
+              <option value="219" />
+            </startOffsets>
+            <endOffsets>
+              <option value="306" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/FrameWork/Test/TestPool.cs</url>
+          <line>44</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/FrameWork/Test/TestPool.cs" initialLine="44">
+            <startOffsets>
+              <option value="1239" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1267" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/FrameWork/Test/TestPool.cs</url>
+          <line>38</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/FrameWork/Test/TestPool.cs" initialLine="38">
+            <startOffsets>
+              <option value="1170" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1171" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
