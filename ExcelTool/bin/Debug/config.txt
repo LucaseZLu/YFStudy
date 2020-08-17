@@ -1,0 +1,7 @@
+﻿H:\Project\Unity\YFStudy\数据表
+H:\Project\Unity\YFStudy\Assets\Download\DataTable\
+H:\Project\Unity\YFStudy\Assets\GameScripts\Data\DataTable\Create\
+H:\Project\Unity\YFStudy\Assets\Download\xLuaLogic\DataNode\DataTable\Create\
+H:\Project\Unity\YFStudy\数据表\ServerOut\DataTable\
+H:\Project\Unity\YFStudy\数据表\ServerOut\DataTable\Create\
+
