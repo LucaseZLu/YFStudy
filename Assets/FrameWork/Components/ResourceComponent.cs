@@ -11,13 +11,13 @@ public class ResourceComponent : YouYouBaseComponent
 
     protected override void OnAwake()
     {
-#if DISABLE_ASSETBUNDLE
+        base.OnAwake();
+// #if DISABLE_ASSETBUNDLE
+//         LocalFilePath = Application.dataPath + "/";
+// #else
+//         LocalFilePath = Application.persistentDataPath + "/";
+// #endif
         LocalFilePath = Application.dataPath + "/";
-#else
-        LocalFilePath = Application.persistentDataPath + "/";
-#endif
-        
-        
     }
 
     /// <summary>

@@ -174,6 +174,7 @@ public class GameEntry : MonoBehaviour
         Scene = GetBaseComponent<SceneComponent>();
         Setting = GetBaseComponent<SettingComponent>();
         GameObj = GetBaseComponent<GameObjComponent>();
+        Resource = GetBaseComponent<ResourceComponent>();
         Download = GetBaseComponent<DownloadComponent>();
         UI = GetBaseComponent<UIComponent>();
     }

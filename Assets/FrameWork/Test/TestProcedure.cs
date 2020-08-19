@@ -25,21 +25,26 @@ public class TestProcedure : MonoBehaviour
 
     private void Update()
     {
+        // if (Input.GetKeyUp(KeyCode.A))
+        // {
+        //     Debug.Log("当前流程" + GameEntry.Procedure.CurProcedure);
+        // }
+        //
+        // if (Input.GetKeyUp(KeyCode.B))
+        // {
+        //     GameEntry.Procedure.SetData("code", 12);
+        //     GameEntry.Procedure.SetData("name", "游戏");
+        //     GameEntry.Procedure.ChangeState(ProcedureState.CheckVersion);
+        // }
+        //
+        // if (Input.GetKeyUp(KeyCode.C))
+        // {
+        //     GameEntry.Procedure.ChangeState(ProcedureState.EnterGame);
+        // }
+        
         if (Input.GetKeyUp(KeyCode.A))
         {
-            Debug.Log("当前流程" + GameEntry.Procedure.CurProcedure);
-        }
-
-        if (Input.GetKeyUp(KeyCode.B))
-        {
-            GameEntry.Procedure.SetData("code", 12);
-            GameEntry.Procedure.SetData("name", "游戏");
-            GameEntry.Procedure.ChangeState(ProcedureState.CheckVersion);
-        }
-
-        if (Input.GetKeyUp(KeyCode.C))
-        {
-            GameEntry.Procedure.ChangeState(ProcedureState.EnterGame);
+            GameEntry.Procedure.ChangeState(ProcedureState.Preload);
         }
     }
 }
