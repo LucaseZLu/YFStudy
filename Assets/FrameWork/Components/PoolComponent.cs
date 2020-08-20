@@ -17,7 +17,16 @@ public class PoolComponent : YouYouBaseComponent,IUpdateComponent
         GameEntry.RegisterUpdateComponent(this);
         m_NextRunTime = Time.time;
         InitGameObjectPool();
-        SetClassObjectResideCount<VarInt>(10);
+        InitClassReside();
+    }
+    
+    /// <summary>
+    /// 初始化常用类常驻数量
+    /// </summary>
+    private void InitClassReside()
+    {
+        SetClassObjectResideCount<HttpRoutine>(3);
+        SetClassObjectResideCount<Dictionary<string,object>>(3);
     }
 
     #region 设置类常驻数量

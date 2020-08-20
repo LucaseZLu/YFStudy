@@ -2,7 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class GameEntry : MonoBehaviour
+namespace YouYou
+{
+    public class GameEntry : MonoBehaviour
 {
     #region 组件属性
 
@@ -243,4 +245,5 @@ public class GameEntry : MonoBehaviour
 
     #endregion
 
+}
 }

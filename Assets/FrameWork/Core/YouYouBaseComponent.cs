@@ -1,14 +1,17 @@
-public abstract class YouYouBaseComponent:YouYouComponent
+namespace YouYou
 {
-    protected override void OnAwake()
+    public abstract class YouYouBaseComponent:YouYouComponent
     {
-        base.OnAwake();
-        GameEntry.RegisterBaseComponent(this);//加入组件列表
+        protected override void OnAwake()
+        {
+            base.OnAwake();
+            GameEntry.RegisterBaseComponent(this);//加入组件列表
+        }
+
+
+        /// <summary>
+        /// 关闭
+        /// </summary>
+        public abstract void Shutdown();
     }
-
-
-    /// <summary>
-    /// 关闭
-    /// </summary>
-    public abstract void Shutdown();
 }

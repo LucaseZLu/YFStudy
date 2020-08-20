@@ -13,6 +13,10 @@ using YouYou;
 /// </summary>
 public class SysDataManager
 {
+    /// <summary>
+    /// 当前服务器时间
+    /// </summary>
+    public long CurrServerTime;
     public SysDataManager()
     {
         

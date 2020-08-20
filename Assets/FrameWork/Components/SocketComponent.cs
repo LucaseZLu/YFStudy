@@ -2,9 +2,13 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class SocketComponent : YouYouBaseComponent
+namespace YouYou
 {
-    public override void Shutdown()
+    public class SocketComponent : YouYouBaseComponent
     {
+        public override void Shutdown()
+        {
+        }
     }
 }
+

@@ -2,30 +2,34 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class DataTableComponent : YouYouBaseComponent
+namespace YouYou
 {
-    /// <summary>
-    /// 表格管理器
-    /// </summary>
-    public DataTableManager DataTableManager
+    public class DataTableComponent : YouYouBaseComponent
     {
-        get;
-        private set;
-    }
+        /// <summary>
+        /// 表格管理器
+        /// </summary>
+        public DataTableManager DataTableManager
+        {
+            get;
+            private set;
+        }
 
-    protected override void OnAwake()
-    {
-        base.OnAwake();
-        DataTableManager=new DataTableManager();
-    }
+        protected override void OnAwake()
+        {
+            base.OnAwake();
+            DataTableManager=new DataTableManager();
+        }
 
-    public override void Shutdown()
-    {
-        DataTableManager.Clear();
-    }
+        public override void Shutdown()
+        {
+            DataTableManager.Clear();
+        }
     
-    public void LoadDataTableAsync()
-    {
-        DataTableManager.LoadDataTableAsync();
+        public void LoadDataTableAsync()
+        {
+            DataTableManager.LoadDataTableAsync();
+        }
     }
+
 }

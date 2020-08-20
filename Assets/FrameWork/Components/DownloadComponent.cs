@@ -2,9 +2,13 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class DownloadComponent : YouYouBaseComponent
+namespace YouYou
 {
-    public override void Shutdown()
+    public class DownloadComponent : YouYouBaseComponent
     {
+        public override void Shutdown()
+        {
+        }
     }
 }
+

@@ -19,9 +19,24 @@ namespace YouYou
         {
             base.OnEnter();
             Debug.Log("ProcedureLaunch OnEnter");
+            
+            //访问账号服务器
+            // string url = GameEntry.Http.RealWebAccountUrl + "/api/init";
+            //
+            // Dictionary<string,object>dic=GameEntry.Pool.DequeueClassObject<Dictionary<string,object>>();
+            // dic.Clear();
+            // dic["ChannelId"] = 0;
+            // dic["InnerVersion"] = 1001;
+            // GameEntry.Http.SendData(url,OnWebAccountInit,true,dic);
+
         }
 
-        
+        private void OnWebAccountInit(HttpCallBackArgs args)
+        {
+            Debug.Log("haserror="+args.HasError);
+            Debug.Log("Value="+args.Value);
+        }
+
 
         public override void OnUpdate()
         {

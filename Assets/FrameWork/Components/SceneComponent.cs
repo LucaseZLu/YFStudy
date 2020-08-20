@@ -2,9 +2,13 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class SceneComponent : YouYouBaseComponent
+namespace YouYou
 {
-    public override void Shutdown()
+    public class SceneComponent : YouYouBaseComponent
     {
+        public override void Shutdown()
+        {
+        }
     }
 }
+

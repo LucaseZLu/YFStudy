@@ -83,6 +83,6 @@ public class ProcedureManager : ManagerBase,System.IDisposable
     
     public void Dispose()
     {
-        m_CurrFsm.ShutDown();
+        //m_CurrFsm.ShutDown();
     }
 }

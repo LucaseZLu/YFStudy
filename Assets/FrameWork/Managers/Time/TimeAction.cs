@@ -3,7 +3,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class TimeAction
+namespace YouYou
+{
+   public class TimeAction
 {
    public bool IsRuning { get; private set; }
    /// <summary>
@@ -127,3 +129,5 @@ public class TimeAction
 
    }
 }
+}
+

@@ -42,10 +42,10 @@ public class Fsm<T>:FsmBase where T :class
             m_StateDic[(byte)i] = state;
             
             //设置默认状态
-            CurrStateType = 0;
-            m_CurrState = m_StateDic[CurrStateType];
-
         }
+        CurrStateType = 0;
+        m_CurrState = m_StateDic[CurrStateType];
+        m_CurrState.OnEnter();
     }
     
     /// <summary>
