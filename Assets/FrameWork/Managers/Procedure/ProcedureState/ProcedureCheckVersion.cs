@@ -18,6 +18,7 @@ namespace YouYou
         {
             base.OnEnter();
             Debug.Log("ProcedureCheckVersion OnEnter");
+            GameEntry.Procedure.ChangeState(ProcedureState.Preload);
         }
 
         public override void OnUpdate()

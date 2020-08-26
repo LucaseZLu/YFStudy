@@ -43,9 +43,9 @@ public class Fsm<T>:FsmBase where T :class
             
             //设置默认状态
         }
-        CurrStateType = 0;
-        m_CurrState = m_StateDic[CurrStateType];
-        m_CurrState.OnEnter();
+        CurrStateType = byte.MaxValue;
+        // m_CurrState = m_StateDic[CurrStateType];
+        // m_CurrState.OnEnter();
     }
     
     /// <summary>

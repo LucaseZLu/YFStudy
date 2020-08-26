@@ -28,13 +28,15 @@ namespace YouYou
             // dic["ChannelId"] = 0;
             // dic["InnerVersion"] = 1001;
             // GameEntry.Http.SendData(url,OnWebAccountInit,true,dic);
+            OnWebAccountInit(null);
 
         }
 
         private void OnWebAccountInit(HttpCallBackArgs args)
         {
-            Debug.Log("haserror="+args.HasError);
-            Debug.Log("Value="+args.Value);
+            // Debug.Log("haserror="+args.HasError);
+            // Debug.Log("Value="+args.Value);
+            GameEntry.Procedure.ChangeState(ProcedureState.CheckVersion);
         }
 
 

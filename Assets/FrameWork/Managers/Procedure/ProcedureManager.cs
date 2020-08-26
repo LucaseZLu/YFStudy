@@ -69,6 +69,9 @@ public class ProcedureManager : ManagerBase,System.IDisposable
         states[8] = new ProcedureGameLevel();
         
         m_CurrFsm = GameEntry.Fsm.Create(this, states);
+        m_CurrFsm.ChangeState(0);
+        // m_CurrState = m_StateDic[CurrStateType];
+        // m_CurrState.OnEnter();
     }
 
     public void ChangeState(ProcedureState state)

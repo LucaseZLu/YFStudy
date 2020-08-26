@@ -32,7 +32,7 @@ namespace YouYou
         private UIGroup[] UiGroups;
 
         private Dictionary<byte, UIGroup> m_UiGroupsDic;
-        
+
         /// <summary>
         /// 标准分辨率比值
         /// </summary>
@@ -42,6 +42,32 @@ namespace YouYou
         /// 当前分辨率比值
         /// </summary>
         private float m_CurrScreen = 0;
+
+        private UIManager m_UiManager;
+
+        private UILayer m_UILayer;
+
+        private UIPool m_UiPool;
+
+        [Header("释放间隔(秒)")][SerializeField]
+        private float m_ClearInterval = 120;
+
+        /// <summary>
+        /// UI 回池后过期时间
+        /// </summary>
+        public float UIExpire=120f;
+
+        /// <summary>
+        /// UI对象池中最大的数量
+        /// </summary>
+        public int UIPoolMaxCount=5;
+
+        /// <summary>
+        /// 下次运行时间
+        /// </summary>
+        private float m_NextRunTime = 0f;
+        
+        
         protected override void OnAwake()
         {
             base.OnAwake();
@@ -59,6 +85,12 @@ namespace YouYou
                 UIGroup group = UiGroups[i];
                 m_UiGroupsDic[group.Id] = group;
             }
+            
+            m_UiManager=new UIManager();
+            m_UILayer=new UILayer();
+            m_UILayer.Init(UiGroups);
+            
+            m_UiPool=new UIPool();
         }
         
         /// <summary>
@@ -108,10 +140,61 @@ namespace YouYou
             m_UiGroupsDic.TryGetValue(id,out group);
             return group;
         }
+
+        public void OpenUIForm(int uiFormId, object userData = null)
+        {
+            m_UiPool.CheckByOPenUI();
+            m_UiManager.OpenUIForm(uiFormId,userData);
+        }
+
         
+        internal void CloseUIForm(int uiFormId)
+        {
+            m_UiManager.CloseUIForm(uiFormId);
+        }
+        
+        internal void CloseUIForm(UIFormBase formBase)
+        {
+            m_UiManager.CloseUIForm(formBase);
+        }
+
+        /// <summary>
+        /// 设置层级
+        /// </summary>
+        /// <param name="formBase"></param>
+        /// <param name="isAdd"></param>
+        public void SetSortingOrder(UIFormBase formBase, bool isAdd)
+        {
+            m_UILayer.SetSortingOrder(formBase,isAdd);
+        }
+        
+        /// <summary>
+        /// 从UI对象池中获取UI
+        /// </summary>
+        /// <param name="uiformId"></param>
+        /// <returns></returns>
+        internal UIFormBase Dequeue( int uiformId )
+        {
+            return m_UiPool.Dequeue(uiformId);
+        }
+        
+        /// <summary>
+        /// ui回池
+        /// </summary>
+        /// <param name="form"></param>
+        internal void Enqueue(UIFormBase form)
+        {
+            m_UiPool.Enqueue(form);
+        }
+
         public void OnUpdate()
         {
-            //xxxx    
+            if (Time.time > m_NextRunTime + m_ClearInterval)
+            {
+                m_NextRunTime = Time.time;
+                //释放UI对象
+                m_UiPool.CheckClear();
+            }
         }
         public override void Shutdown()
         {
