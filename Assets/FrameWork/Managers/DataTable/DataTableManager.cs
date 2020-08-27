@@ -15,6 +15,8 @@ public class DataTableManager : ManagerBase
    /// <summary>
    /// 章表
    /// </summary>
+   
+   public LocalizationDBModel LocalizationDBModel{ get; private set; }
    public ChapterDBModel ChapterDbModel { get; private set; }
    public Sys_CodeDBModel Sys_CodeDBModel{ get; private set; }
    public Sys_EffectDBModel Sys_EffectDBModel{ get; private set; }
@@ -30,6 +32,7 @@ public class DataTableManager : ManagerBase
    private void InitDBModel()
    {
       //每个表都new
+      LocalizationDBModel=new LocalizationDBModel();
       ChapterDbModel=new ChapterDBModel();
       Sys_CodeDBModel=new Sys_CodeDBModel();
       Sys_EffectDBModel=new Sys_EffectDBModel();
@@ -41,7 +44,7 @@ public class DataTableManager : ManagerBase
    
    public void LoadDataTable()
    {
-      
+      LocalizationDBModel.LoadData();  
       ChapterDbModel.LoadData();
       Sys_CodeDBModel.LoadData();
       Sys_EffectDBModel.LoadData();
@@ -65,6 +68,7 @@ public class DataTableManager : ManagerBase
    public void Clear()
    {
       //每个表都Clear
+      LocalizationDBModel.Clear();
       ChapterDbModel.Clear();
       Sys_CodeDBModel.Clear();
       Sys_EffectDBModel.Clear();
