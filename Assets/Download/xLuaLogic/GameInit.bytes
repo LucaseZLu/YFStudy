@@ -16,15 +16,18 @@ function GameInit.InitCtrlAndViews()
 end
 
 function GameInit.LoadDataTables()
-    ----章表
-    --require('DataNode/DataTable/Create/ChapterEntity');
-    --require('DataNode/DataTable/Create/ChapterDBModel');
-    --ChapterDBModel.LoadList();
-    --
-    ----任务表
-    --require('DataNode/DataTable/Create/TaskEntity');
-    --require('DataNode/DataTable/Create/TaskDBModel');
-    --TaskDBModel.LoadList();
+    --章表
+    require('DataNode/DataTable/Create/ChapterEntity');
+    require('DataNode/DataTable/Create/ChapterDBModel');
+    ChapterDBModel.LoadList();
+
+    local row = ChapterDBModel.GetEntity(2)
+    print(row.ChapterName)
+    
+    --任务表
+    require('DataNode/DataTable/Create/TaskEntity');
+    require('DataNode/DataTable/Create/TaskDBModel');
+    TaskDBModel.LoadList();
 end
 
 ----初始化通讯协议
