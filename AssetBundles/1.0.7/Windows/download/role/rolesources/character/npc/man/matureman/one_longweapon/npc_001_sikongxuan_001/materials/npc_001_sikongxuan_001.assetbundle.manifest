@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3573380651
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 01d9b96d209920604b450a564b0e4b15
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 51c330083d5400b0454ce4c6d8549953
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/One_LongWeapon/Npc_001_sikongxuan_001/Materials/Npc_001_sikongxuan_001.mat
+- Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/One_LongWeapon/Npc_001_sikongxuan_001/Materials/Npc_001_sikongxuan_001.tga
+Dependencies: []

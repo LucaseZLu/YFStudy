@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 463563894
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 38427bc629794c3ba4af9162a61f5d85
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 51c330083d5400b0454ce4c6d8549953
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Role/RoleSources/Character/Npc/Man/Strong/No_Weapon/Npc_001_qiaofeng_001/Materials/Npc_001_qiaofeng_001.tga
+- Assets/Download/Role/RoleSources/Character/Npc/Man/Strong/No_Weapon/Npc_001_qiaofeng_001/Materials/Npc_001_qiaofeng_001.mat
+Dependencies: []

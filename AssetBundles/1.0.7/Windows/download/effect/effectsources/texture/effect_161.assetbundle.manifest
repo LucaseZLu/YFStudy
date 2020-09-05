@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1603368648
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1cbacce0db6705b5307a471b6c56373c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 525b72fdacf3aef7d65f355ad8f17a96
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Effect/EffectSources/texture/effect_161.png
+Dependencies: []

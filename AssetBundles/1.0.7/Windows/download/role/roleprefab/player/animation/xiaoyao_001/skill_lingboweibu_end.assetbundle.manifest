@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3642552183
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 16846b376235fd0a70d8f50fa4d6ad7f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af57576da81d5d3ce45807ac11234de6
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Role/RolePrefab/Player/Animation/Xiaoyao_001/Skill_lingboweibu_End.anim
+Dependencies: []

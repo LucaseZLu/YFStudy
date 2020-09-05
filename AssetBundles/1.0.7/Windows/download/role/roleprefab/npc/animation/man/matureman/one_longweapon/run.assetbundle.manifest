@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1639701651
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d7798839945b2dd5a9d776b244fc1dfb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af57576da81d5d3ce45807ac11234de6
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Role/RolePrefab/Npc/Animation/Man/MatureMan/One_LongWeapon/Run.anim
+Dependencies: []

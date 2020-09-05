@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3543396110
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b6072a8e65feff8156c5493773ff7770
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 525b72fdacf3aef7d65f355ad8f17a96
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Effect/EffectSources/texture/effect_131.tga
+Dependencies: []

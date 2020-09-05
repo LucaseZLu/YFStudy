@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1616862229
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5f63cc3ee22baf4a291f557c381e4626
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 568bf43fb5cf90f4195ed6f07073b9b6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Effect/RoleEffectPrefab/boss_xianglongshibazhang_002.prefab
+Dependencies:
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_083.assetbundle

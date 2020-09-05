@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3363137123
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0a084b473d2ab3bd1fe291c7effc292c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 35b36f5babfbffec6f91a1d6c810571d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Effect/EffectSources/model/qibo004.FBX
+Dependencies: []

@@ -6,18 +6,18 @@ using UnityEngine;
 namespace YouYou
 {
     /// <summary>
-    /// YouYou组件基类
+    /// YouYou缁勪欢鍩虹被
     /// </summary>
     public abstract class YouYouComponent : MonoBehaviour
     {
-        #region InstanceId 组件实例编号
+        #region InstanceId 缁勪欢瀹炰緥缂栧彿
         /// <summary>
-        /// 组件实例编号
+        /// 缁勪欢瀹炰緥缂栧彿
         /// </summary>
         private int m_InstanceId;
 
         /// <summary>
-        /// 组件实例编号
+        /// 缁勪欢瀹炰緥缂栧彿
         /// </summary>
         public int InstanceId
         {
@@ -49,7 +49,7 @@ namespace YouYou
         protected virtual void BeforOnDestroy() { }
 
         /// <summary>
-        /// 关闭方法
+        /// 鍏抽棴鏂规硶
         /// </summary>
         public abstract void Shutdown();
     }

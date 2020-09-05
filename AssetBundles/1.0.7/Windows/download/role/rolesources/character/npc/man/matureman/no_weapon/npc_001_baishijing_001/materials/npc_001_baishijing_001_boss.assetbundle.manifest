@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2014033878
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f565c255b634996a79a96e4bb45c7350
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 45875108e441588ead174e12e00e97b4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/No_Weapon/Npc_001_baishijing_001/Materials/Npc_001_baishijing_001_boss.mat
+Dependencies:
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/man/matureman/no_weapon/npc_001_baishijing_001/materials/npc_001_baishijing_001.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/effect_wufeng001.assetbundle

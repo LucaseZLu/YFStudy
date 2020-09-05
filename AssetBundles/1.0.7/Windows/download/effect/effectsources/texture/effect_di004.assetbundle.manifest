@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1704069817
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3a393385f8275541a198816de814af0b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 525b72fdacf3aef7d65f355ad8f17a96
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Effect/EffectSources/texture/effect_di004.tga
+Dependencies: []

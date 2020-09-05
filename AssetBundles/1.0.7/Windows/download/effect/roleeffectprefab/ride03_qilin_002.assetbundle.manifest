@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1252122901
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a47c8938b29a11002a030f77b3a1ff9d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 307fb22a68ed8acea9b81494e6ed2d20
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Effect/RoleEffectPrefab/ride03_qilin_002.prefab
+Dependencies:
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_342_02.assetbundle

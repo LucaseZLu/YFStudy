@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 3471743317
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 92321c3bac9a35cc5303b23de94ef38c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d5efa9d08a5f6adb1210385a4e6e0ffe
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 44ba4c7a3b18aa343aa85d476231f4bd, type: 3}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Effect/RoleEffectPrefab/dali_liuxingganyue_003.prefab
+Dependencies:
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_563.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/model/qibo004.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/model/qibo009.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/player/weapon/dali/jian_001_002/jian_001_002.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_dao001.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/lighting_020_01.assetbundle

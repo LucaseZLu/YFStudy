@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1227698564
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3d3905d87162865a19ce8f1f8e804b08
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 45875108e441588ead174e12e00e97b4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Effect/EffectSources/texture/mateials/effect_fz008.mat
+Dependencies:
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/effect_fz008.assetbundle

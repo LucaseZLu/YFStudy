@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 768194803
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6bb74b292e1fd9ac834e15d733bdb00b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 45875108e441588ead174e12e00e97b4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Role/RoleSources/Character/Player/Opening/Player/Materials/Sz_shaolin_xsz.mat
+Dependencies:
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/player/shaolin_001/sz_shaolin_xsz/materials/sz_shaolin_xsz.assetbundle

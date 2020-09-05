@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1088443407
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eec6c3c81ad48e2954623034e863e909
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 525b72fdacf3aef7d65f355ad8f17a96
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Effect/EffectSources/texture/effect_650.png
+Dependencies: []

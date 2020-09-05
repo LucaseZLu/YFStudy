@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3049194833
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ea09728670f0d706bd82f41b86e64931
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af57576da81d5d3ce45807ac11234de6
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Role/RolePrefab/Ride/Animation/Leo/Stand.anim
+Dependencies: []

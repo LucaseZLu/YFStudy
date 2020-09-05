@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1578608377
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 83130e9ac96eff2cb5506ccec4c0d6d2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8542ed9d93673e256be30bb0523839d9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Role/RolePrefab/Npc/Building/Npc_001_caoyao_001.prefab
+Dependencies:
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/building/npc_001_caoyao_001/materials/npc_001_caoyao_001.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/building/npc_001_caoyao_001/npc_001_caoyao_001.assetbundle

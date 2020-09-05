@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 3333088150
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 050486612a17af8a27a0156486c75d87
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ec303583e0f7d412f8f2b66e752c1b54
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Role/RoleSources/Character/Npc/Woman/MatureFemale/NewSceneGuide/Npc_001_xinshoujieyin_001.mat
+- Assets/Download/Role/RoleSources/Character/Npc/Woman/MatureFemale/NewSceneGuide/Npc_001_xinshoujieyin_001.tga
+- Assets/Download/Role/RoleSources/Character/Npc/Woman/MatureFemale/NewSceneGuide/Npc_001_xinshoujieyin_001.FBX
+Dependencies:
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/woman/maturefemale/newsceneguide/materials/npc_001_xinshoujieyin_001.assetbundle

@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 3871896704
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b608f7b7189cd7c92bd3572aeed45e74
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/DataTable/Localization/Chinese.bytes
+- Assets/Download/DataTable/Sys_Prefab.bytes
+- Assets/Download/DataTable/Chapter.bytes
+- Assets/Download/DataTable/Sys_Effect.bytes
+- Assets/Download/DataTable/Sys_Sound.bytes
+- Assets/Download/DataTable/Sys_UIForm.bytes
+- Assets/Download/DataTable/Sys_StorySound.bytes
+- Assets/Download/DataTable/Localization/English.bytes
+- Assets/Download/DataTable/Sys_Code.bytes
+Dependencies: []

@@ -6,7 +6,7 @@ using UnityEngine;
 namespace YouYou
 {
     /// <summary>
-    /// Á÷³Ì×´Ì¬
+    /// æµç¨‹çŠ¶æ€
     /// </summary>
     public enum ProcedureState
     {
@@ -22,17 +22,17 @@ namespace YouYou
     }
 
     /// <summary>
-    /// Á÷³Ì¹ÜÀíÆ÷
+    /// æµç¨‹ç®¡ç†å™¨
     /// </summary>
     public class ProcedureManager : ManagerBase, System.IDisposable
     {
         /// <summary>
-        /// Á÷³Ì×´Ì¬»ú
+        /// æµç¨‹çŠ¶æ€æœº
         /// </summary>
         private Fsm<ProcedureManager> m_CurrFsm;
 
         /// <summary>
-        /// µ±Ç°Á÷³Ì×´Ì¬»ú
+        /// å½“å‰æµç¨‹çŠ¶æ€æœº
         /// </summary>
         public Fsm<ProcedureManager> CurrFsm
         {
@@ -43,7 +43,7 @@ namespace YouYou
         }
 
         /// <summary>
-        /// µ±Ç°µÄÁ÷³Ì×´Ì¬
+        /// å½“å‰çš„æµç¨‹çŠ¶æ€
         /// </summary>
         public ProcedureState CurrProcedureState
         {
@@ -54,7 +54,7 @@ namespace YouYou
         }
 
         /// <summary>
-        /// µ±Ç°µÄÁ÷³Ì
+        /// å½“å‰çš„æµç¨‹
         /// </summary>
         public FsmState<ProcedureManager> CurrProcedure
         {
@@ -70,7 +70,7 @@ namespace YouYou
         }
 
         /// <summary>
-        /// ³õÊ¼»¯
+        /// åˆå§‹åŒ–
         /// </summary>
         public void Init()
         {
@@ -86,10 +86,11 @@ namespace YouYou
             states[8] = new ProcedureGameLevel();
 
             m_CurrFsm = GameEntry.Fsm.Create(this, states);
+            m_CurrFsm.ChangeState(0);
         }
 
         /// <summary>
-        /// ÇĞ»»×´Ì¬
+        /// åˆ‡æ¢çŠ¶æ€
         /// </summary>
         /// <param name="state"></param>
         public void ChangeState(ProcedureState state)

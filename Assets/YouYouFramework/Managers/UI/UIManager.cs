@@ -98,9 +98,9 @@ namespace YouYou
         private void LoadUIAsset(string assetPath, BaseAction<ResourceEntity> onComplete)
         {
 #if DISABLE_ASSETBUNDLE && UNITY_EDITOR
-            string path = string.Format("Assets/Download/UI/UIPrefab/{0}.prefab", assetPath);
+            string path = string.Format("Assets/Download/UI/{0}.prefab", assetPath);
             //加载镜像
-            Object obj = UnityEditor.AssetDatabase.LoadAssetAtPath<GameObject>(path);
+            GameObject obj = UnityEditor.AssetDatabase.LoadAssetAtPath<GameObject>(path);
             if (onComplete != null)
             {
                 ResourceEntity entity=new ResourceEntity();
@@ -117,6 +117,7 @@ namespace YouYou
                 }
             });
 #endif
+            
         }
         #endregion
 

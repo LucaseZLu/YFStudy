@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2152454726
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9c6abfe84345526edb386fc2394c26e6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 52a414f981dc5a178b0e58574e6cbefd
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Effect/RoleEffectPrefab/boss_zhaohuan.prefab
+Dependencies:
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/model/qibo006.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_577.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_342_01.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_330_03.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_631.assetbundle

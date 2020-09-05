@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1113648203
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0b2682ba962de63ae10a24184ddc68ed
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 45875108e441588ead174e12e00e97b4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Effect/EffectSources/texture/mateials/effect_133_01.mat
+Dependencies:
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/effect_133.assetbundle

@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1349111529
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 08a8e057f3b7b2ebdc77ff5abb6e4c6a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 40df7f67bec2175d976f165e3a52230a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Effect/EffectSources/model/mesh_fenghuangwei.FBX
+Dependencies:
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/model/materials/qicheng_001_fenghuang_001.assetbundle

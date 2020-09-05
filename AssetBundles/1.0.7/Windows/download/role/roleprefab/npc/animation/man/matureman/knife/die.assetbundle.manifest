@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2393626625
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 462612be4efc1d26b139a41e5e293d01
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af57576da81d5d3ce45807ac11234de6
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Role/RolePrefab/Npc/Animation/Man/MatureMan/Knife/Die.anim
+Dependencies: []

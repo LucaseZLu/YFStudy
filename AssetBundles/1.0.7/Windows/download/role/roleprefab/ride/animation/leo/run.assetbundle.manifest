@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 100261424
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dac04eeef28bff22fada5a6a9f1f4e54
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af57576da81d5d3ce45807ac11234de6
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Role/RolePrefab/Ride/Animation/Leo/Run.anim
+Dependencies: []

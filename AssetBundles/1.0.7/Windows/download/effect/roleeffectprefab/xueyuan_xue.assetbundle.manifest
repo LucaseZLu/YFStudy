@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1197305352
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e6fb7d40e2929f06344555ba04575eef
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 74fe6d153890736c7049abc605c35065
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 841b7718783fc4a41bee9448116642e0, type: 3}
+Assets:
+- Assets/Download/Effect/RoleEffectPrefab/xueyuan_xue.prefab
+Dependencies:
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/xueyuan_xue.assetbundle

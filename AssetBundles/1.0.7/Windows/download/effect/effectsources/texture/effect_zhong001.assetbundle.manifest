@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2653453289
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4a35558e06376850631c4cb1c7c57fa7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 525b72fdacf3aef7d65f355ad8f17a96
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Effect/EffectSources/texture/effect_zhong001.tga
+Dependencies: []

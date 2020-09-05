@@ -30,6 +30,17 @@ function GameInit.LoadDataTables()
     TaskDBModel.LoadList();
 end
 
+function GameInit.AddTotalLoadTableCount()
+
+    
+end
+
+
+function GameInit.LoadOneTableComplete()
+
+
+end
+
 ----初始化通讯协议
 --function GameInit.InitProto()
 --    require("Common/json");

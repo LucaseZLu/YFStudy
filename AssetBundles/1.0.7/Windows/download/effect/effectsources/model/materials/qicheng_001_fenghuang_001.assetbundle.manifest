@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3052359896
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b5fb6d5741a35dcbcd3a0acdab830eb6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a4e20c9d8e7103fcef39ad820c79bacf
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Effect/EffectSources/model/Materials/Qicheng_001_fenghuang_001.mat
+Dependencies: []

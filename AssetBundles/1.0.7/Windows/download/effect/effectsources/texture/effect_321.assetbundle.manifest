@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2524158081
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 390150034df42898569ea25ae5890a3f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 525b72fdacf3aef7d65f355ad8f17a96
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Effect/EffectSources/texture/effect_321.png
+Dependencies: []

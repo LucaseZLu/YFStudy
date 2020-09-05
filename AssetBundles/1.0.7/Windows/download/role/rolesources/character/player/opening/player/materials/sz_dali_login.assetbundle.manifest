@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2666998584
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3ecf24fc0c7328d748a2b7d95be45a63
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 45875108e441588ead174e12e00e97b4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Role/RoleSources/Character/Player/Opening/Player/Materials/Sz_dali_login.mat
+Dependencies:
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/player/dali_001/zy_dali_001_hlt/materials/zy_dali_001_hlt.assetbundle

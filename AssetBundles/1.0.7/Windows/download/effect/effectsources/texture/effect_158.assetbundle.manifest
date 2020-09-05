@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3491975112
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a861700e227ac6520f18b4c14688a5a2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 525b72fdacf3aef7d65f355ad8f17a96
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Effect/EffectSources/texture/effect_158.tga
+Dependencies: []

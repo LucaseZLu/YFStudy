@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 4119302372
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 01cf950ee436b0e01d894fc9847a219f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 40df7f67bec2175d976f165e3a52230a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Role/RoleSources/Character/Npc/Building/fb_banghui_jubaopen/fb_banghui_jubaopen01.FBX
+Dependencies:
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/building/fb_banghui_jubaopen/materials/fb_banghui_jubaopen01.assetbundle

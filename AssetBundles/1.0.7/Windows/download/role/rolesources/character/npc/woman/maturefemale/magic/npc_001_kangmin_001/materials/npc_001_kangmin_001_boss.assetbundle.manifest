@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3831138845
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fd732d816a6cc331caa76202bd3bd423
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 45875108e441588ead174e12e00e97b4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Role/RoleSources/Character/Npc/Woman/MatureFemale/Magic/Npc_001_kangmin_001/Materials/Npc_001_kangmin_001_boss.mat
+Dependencies:
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/woman/maturefemale/magic/npc_001_kangmin_001/materials/npc_001_kangmin_001.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/effect_wufeng001.assetbundle

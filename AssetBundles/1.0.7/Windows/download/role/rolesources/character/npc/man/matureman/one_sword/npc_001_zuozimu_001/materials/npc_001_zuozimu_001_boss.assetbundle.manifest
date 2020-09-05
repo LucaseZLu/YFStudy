@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1590218832
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 13c9b84fdd2c107116539f1d51935fda
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 45875108e441588ead174e12e00e97b4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/One_Sword/Npc_001_zuozimu_001/Materials/Npc_001_zuozimu_001_boss.mat
+Dependencies:
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/man/matureman/one_sword/npc_001_zuozimu_001/materials/npc_001_zuozimu_001.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/effect_wufeng001.assetbundle

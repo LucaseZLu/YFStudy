@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1330674093
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f92b75271cbe10f64970c4185c888185
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8215722b766c6decafa3f90512650b44
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Role/RoleSources/Character/Npc/Man/Strong/One_Sword/Npc_001_fengboe_001/Materials/Npc_001_fengboe_001.mat
+- Assets/Download/Role/RoleSources/Character/Npc/Man/Strong/One_Sword/Npc_001_fengboe_001/Materials/Npc_001_fengboe_001.tga
+Dependencies:
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/effect_wufeng001.assetbundle

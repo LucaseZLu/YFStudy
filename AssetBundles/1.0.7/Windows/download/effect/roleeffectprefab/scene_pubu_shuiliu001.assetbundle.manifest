@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1518862763
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e498d288927221e5d6b753fd18884291
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 920a31ad29d238db7f39e8ddec25dbab
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 841b7718783fc4a41bee9448116642e0, type: 3}
+Assets:
+- Assets/Download/Effect/RoleEffectPrefab/scene_pubu_shuiliu001.prefab
+Dependencies:
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/model/plane00.assetbundle

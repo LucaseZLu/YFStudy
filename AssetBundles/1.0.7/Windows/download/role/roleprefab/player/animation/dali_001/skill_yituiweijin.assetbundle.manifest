@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2240721382
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b5a98d5784d341bb279fdf89aa6742eb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af57576da81d5d3ce45807ac11234de6
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Role/RolePrefab/Player/Animation/Dali_001/Skill_Yituiweijin.anim
+Dependencies: []

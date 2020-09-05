@@ -7,17 +7,17 @@ using UnityEngine;
 namespace YouYou
 {
     /// <summary>
-    /// ×ÊÔ´×é¼ş
+    /// èµ„æºç»„ä»¶
     /// </summary>
     public class ResourceComponent : YouYouBaseComponent, IUpdateComponent
     {
         /// <summary>
-        /// ±¾µØÎÄ¼şÂ·¾¶
+        /// æœ¬åœ°æ–‡ä»¶è·¯å¾„
         /// </summary>
         public string LocalFilePath;
 
         /// <summary>
-        /// ×ÊÔ´¹ÜÀíÆ÷
+        /// èµ„æºç®¡ç†å™¨
         /// </summary>
         public ResourceManager ResourceManager
         {
@@ -26,7 +26,7 @@ namespace YouYou
         }
 
         /// <summary>
-        /// ×ÊÔ´¼ÓÔØ¹ÜÀíÆ÷
+        /// èµ„æºåŠ è½½ç®¡ç†å™¨
         /// </summary>
         public ResourceLoaderManager ResourceLoaderManager
         {
@@ -49,9 +49,9 @@ namespace YouYou
 #endif
         }
 
-        #region InitStreamingAssetsBundleInfo ³õÊ¼»¯Ö»¶ÁÇø×ÊÔ´°üĞÅÏ¢
+        #region InitStreamingAssetsBundleInfo åˆå§‹åŒ–åªè¯»åŒºèµ„æºåŒ…ä¿¡æ¯
         /// <summary>
-        /// ³õÊ¼»¯Ö»¶ÁÇø×ÊÔ´°üĞÅÏ¢
+        /// åˆå§‹åŒ–åªè¯»åŒºèµ„æºåŒ…ä¿¡æ¯
         /// </summary>
         public void InitStreamingAssetsBundleInfo()
         {
@@ -59,9 +59,9 @@ namespace YouYou
         }
         #endregion
 
-        #region InitAssetInfo ³õÊ¼»¯×ÊÔ´ĞÅÏ¢
+        #region InitAssetInfo åˆå§‹åŒ–èµ„æºä¿¡æ¯
         /// <summary>
-        /// ³õÊ¼»¯×ÊÔ´ĞÅÏ¢
+        /// åˆå§‹åŒ–èµ„æºä¿¡æ¯
         /// </summary>
         public void InitAssetInfo()
         {
@@ -70,7 +70,7 @@ namespace YouYou
         #endregion
 
         /// <summary>
-        /// »ñÈ¡Â·¾¶µÄ×îºóÃû³Æ
+        /// è·å–è·¯å¾„çš„æœ€ååç§°
         /// </summary>
         /// <param name="path"></param>
         /// <returns></returns>
@@ -97,7 +97,7 @@ namespace YouYou
         }
 
         /// <summary>
-        /// »ñÈ¡³¡¾°µÄ×ÊÔ´°üÂ·¾¶
+        /// è·å–åœºæ™¯çš„èµ„æºåŒ…è·¯å¾„
         /// </summary>
         /// <param name="sceneName"></param>
         /// <returns></returns>

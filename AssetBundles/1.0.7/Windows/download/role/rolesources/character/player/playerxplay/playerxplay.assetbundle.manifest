@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1461335673
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a5fa83160c0b07c668ea854e1357fea1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 45875108e441588ead174e12e00e97b4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Role/RoleSources/Character/Player/PlayerXplay/PlayerXplay.mat
+Dependencies: []

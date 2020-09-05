@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3237358864
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7056619e954e14c92fb683b14130bb8d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 51c330083d5400b0454ce4c6d8549953
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Role/RoleSources/Character/Monster/Monster_001_cike_001/Materials/Monster_001_cike_001.mat
+- Assets/Download/Role/RoleSources/Character/Monster/Monster_001_cike_001/Materials/Monster_001_cike_001.tga
+Dependencies: []

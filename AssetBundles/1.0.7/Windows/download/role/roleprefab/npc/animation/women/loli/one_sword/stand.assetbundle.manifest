@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3867225363
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 89a8c8484babc145dbc336671342e03d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af57576da81d5d3ce45807ac11234de6
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Role/RolePrefab/Npc/Animation/Women/Loli/One_Sword/Stand.anim
+Dependencies: []

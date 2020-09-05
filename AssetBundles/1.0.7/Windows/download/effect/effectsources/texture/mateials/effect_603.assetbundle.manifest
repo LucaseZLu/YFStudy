@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3605905326
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3a15107493d34183a7ce3538e16f9290
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 45875108e441588ead174e12e00e97b4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Effect/EffectSources/texture/mateials/effect_603.mat
+Dependencies:
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/effect_603.assetbundle

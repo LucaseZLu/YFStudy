@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2584712457
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 604e9268e811d349c384c3c7460aed2a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c802a704b053c3d3d492c281ae7ec2ab
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Role/RolePrefab/Npc/Man/Midget/No_Weapon/Npc_001_jianghuxieshi_001.prefab
+Dependencies:
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/man/midget/no_weapon/npc_001_jianghuxieshi_001/materials/npc_001_jianghuxieshi_001.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/man/midget/no_weapon/npc_001_jianghuxieshi_001/npc_001_jianghuxieshi_001.assetbundle

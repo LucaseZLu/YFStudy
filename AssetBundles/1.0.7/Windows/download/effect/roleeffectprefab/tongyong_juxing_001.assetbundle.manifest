@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3978130830
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a7ee8168113f3d1275fde1780a3efafa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a33cf649865cb3c0056ee5671e5f04e3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Effect/RoleEffectPrefab/tongyong_juxing_001.prefab
+Dependencies:
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/model/qibo006.assetbundle

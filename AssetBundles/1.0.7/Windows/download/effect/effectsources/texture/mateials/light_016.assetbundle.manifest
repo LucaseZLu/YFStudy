@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2518943209
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1600f14eaaa05b4960b30b00042dbaa6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8215722b766c6decafa3f90512650b44
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Effect/EffectSources/texture/mateials/light_016.mat
+Dependencies:
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/light_016.assetbundle

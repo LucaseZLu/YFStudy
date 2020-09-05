@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2676954406
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5a01aa748100090a55923ac225fb6ec8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8215722b766c6decafa3f90512650b44
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Role/RoleSources/Character/Monster/Monster_000_wudunv_001/Materials/Monster_000_wudunv_001.tga
+- Assets/Download/Role/RoleSources/Character/Monster/Monster_000_wudunv_001/Materials/Monster_000_wudunv_001.mat
+Dependencies: []

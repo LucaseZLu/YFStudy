@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2474618893
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 500033759cff2e6fcdf30c80dd73a5f8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8215722b766c6decafa3f90512650b44
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Role/RoleSources/Character/Player/Loli/Materials/Sz_001_xiaoyaonvcloth_001_hht
+  1.mat
+Dependencies:
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/player/loli/sz_001_xiaoyaonvcloth_001_hht.assetbundle

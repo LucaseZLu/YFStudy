@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1498111889
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4ebc394b2e9ebed63879a911314687d6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a4e20c9d8e7103fcef39ad820c79bacf
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Effect/EffectSources/model/Materials/BaseWhite.mat
+Dependencies: []

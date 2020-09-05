@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2813955173
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ee4c665e3654c864d5dbe3fbe2fc0d99
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 525b72fdacf3aef7d65f355ad8f17a96
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Role/RoleSources/Character/Player/Weapon/Xiaoyao/Fu_010_002/Fu_010_004.png
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 845378526
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7a5d4ffe36908509183e8ab9bc02d26e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af57576da81d5d3ce45807ac11234de6
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Role/RolePrefab/Player/Animation/Dali_001/Skill_Huadiweilao.anim
+Dependencies: []

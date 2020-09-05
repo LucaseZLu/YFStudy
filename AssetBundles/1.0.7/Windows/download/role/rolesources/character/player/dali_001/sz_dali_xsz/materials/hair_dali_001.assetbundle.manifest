@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3502903537
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c17309547126bf398b9ba8134f4e42d9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a4e20c9d8e7103fcef39ad820c79bacf
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Role/RoleSources/Character/Player/Dali_001/Sz_dali_xsz/Materials/Hair_dali_001.mat
+Dependencies: []

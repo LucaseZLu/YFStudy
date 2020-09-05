@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3592920918
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f3ca95400be89f911d5c942f67cd2bcf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 51c330083d5400b0454ce4c6d8549953
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Role/RoleSources/Character/Player/Shaolin_001/Zy_shaolin_001_zjt/Materials/Zy_shaolin_001_zjt.mat
+- Assets/Download/Role/RoleSources/Character/Player/Shaolin_001/Zy_shaolin_001_zjt/Materials/Zy_shaolin_001_zjt.tga
+Dependencies: []

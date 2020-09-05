@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3772547870
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 61ec5cf6d6b57e5dd8ca35c192facc02
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af57576da81d5d3ce45807ac11234de6
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Role/RolePrefab/Npc/Animation/Man/Special/Run.anim
+Dependencies: []

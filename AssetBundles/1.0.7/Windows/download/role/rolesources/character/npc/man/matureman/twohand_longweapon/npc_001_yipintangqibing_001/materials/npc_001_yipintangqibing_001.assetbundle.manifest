@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 1386726753
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e565839ad75b32809fa7f8c7a09db362
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8215722b766c6decafa3f90512650b44
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/Twohand_LongWeapon/Npc_001_yipintangqibing_001/Materials/Npc_001_yipintangqibing_001.jpg
+- Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/Twohand_LongWeapon/Npc_001_yipintangqibing_001/Materials/Npc_001_yipintangqibing_001.mat
+Dependencies: []

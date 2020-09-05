@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3467373514
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 47bb38126946bcf63051507eb2cfb929
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 45875108e441588ead174e12e00e97b4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Role/RoleSources/Character/Player/Opening/Player/Materials/Sz_xiaoyao_login.mat
+Dependencies:
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/player/xiaoyao_001/zy_xiaoyao_001_llt/materials/zy_xiaoyao_001_llt.assetbundle

@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3601144286
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9447242b0332e1546a0f33897463d3f9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 51c330083d5400b0454ce4c6d8549953
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Role/RoleSources/Character/Player/Tianshan_001/Cloth_001_tianshan_001_004/Materials/Cloth_001_tianshan_001_004.mat
+- Assets/Download/Role/RoleSources/Character/Player/Tianshan_001/Cloth_001_tianshan_001_004/Materials/Cloth_001_tianshan_001_004.jpg
+Dependencies: []

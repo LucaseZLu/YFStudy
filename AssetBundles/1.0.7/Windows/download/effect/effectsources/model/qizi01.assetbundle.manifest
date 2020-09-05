@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 117229040
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cf11c28487c9091e6bf8a3040ca4c920
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 95522753467fe2c40ffeae69a96f6c06
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Effect/EffectSources/model/qizi01.FBX
+Dependencies: []

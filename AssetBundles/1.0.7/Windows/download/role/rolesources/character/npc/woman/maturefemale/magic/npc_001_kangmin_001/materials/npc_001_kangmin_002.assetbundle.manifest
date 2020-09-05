@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3491343593
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 426e60c4af578dd857c3b3857cd8cdf0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8215722b766c6decafa3f90512650b44
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Role/RoleSources/Character/Npc/Woman/MatureFemale/Magic/Npc_001_kangmin_001/Materials/Npc_001_kangmin_002.tga
+- Assets/Download/Role/RoleSources/Character/Npc/Woman/MatureFemale/Magic/Npc_001_kangmin_001/Materials/Npc_001_kangmin_002.mat
+Dependencies: []

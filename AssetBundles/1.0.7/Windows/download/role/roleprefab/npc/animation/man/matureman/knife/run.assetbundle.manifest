@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1030902384
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6a52860e6919d1a76a7bdbb512331703
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af57576da81d5d3ce45807ac11234de6
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Role/RolePrefab/Npc/Animation/Man/MatureMan/Knife/Run.anim
+Dependencies: []

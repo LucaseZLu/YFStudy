@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1409243415
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9bc3f872ce505e18081af4d6e8006fb8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 525b72fdacf3aef7d65f355ad8f17a96
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Effect/EffectSources/texture/effect_bing002.tga
+Dependencies: []

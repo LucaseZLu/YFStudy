@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 131973418
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7022573aa6cb97c1b27240c7b9e97c60
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7c92feb8daf166311b3e47737bd87795
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/UI/UIRes/Loading/Init_BG.png
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1785709779
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5e9a8dc2d0fc9f72c4e7e8933a1f31c1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af57576da81d5d3ce45807ac11234de6
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Role/RolePrefab/Npc/Animation/Man/MatureMan/One_Sword/Npc_001_dingchunqiu_001/Hit.anim
+Dependencies: []

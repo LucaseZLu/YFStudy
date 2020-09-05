@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 1081356141
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 94f0ffc5960d606630a246dca36ac6b3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/xLuaLogic/DataNode/DataTable/Create/Sys_UIFormEntity.bytes
+- Assets/Download/xLuaLogic/DataNode/DataTable/Create/Sys_UIFormDBModel.bytes
+- Assets/Download/xLuaLogic/DataNode/DataTable/Create/Sys_StorySoundEntity.bytes
+- Assets/Download/xLuaLogic/DataNode/DataTable/Create/Sys_SoundEntity.bytes
+- Assets/Download/xLuaLogic/DataNode/DataTable/Create/Sys_PrefabEntity.bytes
+- Assets/Download/xLuaLogic/Modules/Task/UI_TaskCtrl.bytes
+- Assets/Download/xLuaLogic/Common/Define.bytes
+- Assets/Download/xLuaLogic/DataNode/DataTable/Create/Sys_EffectDBModel.bytes
+- Assets/Download/xLuaLogic/DataNode/DataTable/Create/Sys_StorySoundDBModel.bytes
+- Assets/Download/xLuaLogic/DataNode/DataTable/Create/Sys_PrefabDBModel.bytes
+- Assets/Download/xLuaLogic/DataNode/DataTable/Create/Sys_CodeDBModel.bytes
+- Assets/Download/xLuaLogic/DataNode/DataTable/Create/Sys_SoundDBModel.bytes
+- Assets/Download/xLuaLogic/Common/json.bytes
+- Assets/Download/xLuaLogic/DataNode/DataTable/Create/ChapterDBModel.bytes
+- Assets/Download/xLuaLogic/DataNode/DataTable/Create/ChapterEntity.bytes
+- Assets/Download/xLuaLogic/Main.bytes
+- Assets/Download/xLuaLogic/DataNode/DataTable/Create/Sys_CodeEntity.bytes
+- Assets/Download/xLuaLogic/DataNode/DataTable/Create/Sys_EffectEntity.bytes
+- Assets/Download/xLuaLogic/Modules/Task/UI_TaskView.bytes
+- Assets/Download/xLuaLogic/GameInit.bytes
+Dependencies: []

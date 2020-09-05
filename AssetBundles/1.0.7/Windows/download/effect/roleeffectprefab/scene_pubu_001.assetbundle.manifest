@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 929833698
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fd27773123caca681f6ed9350cfbe321
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 90c842aa54c4b1d02c188cf3c20cd62a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: dad03ea456ca8af42bdfebac890c329c, type: 3}
+Assets:
+- Assets/Download/Effect/RoleEffectPrefab/scene_pubu_001.prefab
+Dependencies:
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_water13.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_water08.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_water06.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/model/mesh_pubu.assetbundle

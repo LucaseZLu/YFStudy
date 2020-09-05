@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1747292363
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 668e04f091de497fb027e3317563d877
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d5efa9d08a5f6adb1210385a4e6e0ffe
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 181329b7fe02d134f8a7fd9e09f9bfe2, type: 3}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Effect/RoleEffectPrefab/boss_youju_dunxuan_002.prefab
+Dependencies:
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/model/qibo006.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_153.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_534.assetbundle

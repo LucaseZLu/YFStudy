@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3035954684
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 69f2e75d531420fed77e225a43bf284a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d6eea2cdb046ba7c7fe3f3886765843c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Role/RoleSources/Character/Npc/Building/fb_banghui_qizi01/fb_banghui_qizi01.FBX
+Dependencies:
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/building/fb_banghui_qizi01/materials/fb_banghui_qizi01.assetbundle

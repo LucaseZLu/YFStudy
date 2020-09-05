@@ -20,19 +20,20 @@ namespace YouYou
             base.OnEnter();
             GameEntry.Log(LogCategory.Procedure, "OnEnter ProcedureLaunch");
 
-            //访问账号服务器
-            string url = GameEntry.Http.RealWebAccountUrl + "/api/init";
-
-            Dictionary<string, object> dic = GameEntry.Pool.DequeueClassObject<Dictionary<string, object>>();
-            dic.Clear();
-
-            GameEntry.Data.SysDataManager.CurrChannelConfig.ChannelId = 0;
-            GameEntry.Data.SysDataManager.CurrChannelConfig.InnerVersion = 1001;
-
-            dic["ChannelId"] = GameEntry.Data.SysDataManager.CurrChannelConfig.ChannelId;
-            dic["InnerVersion"] = GameEntry.Data.SysDataManager.CurrChannelConfig.InnerVersion;
-
-            GameEntry.Http.SendData(url, OnWebAccountInit, true, false, dic);
+            // //访问账号服务器
+            // string url = GameEntry.Http.RealWebAccountUrl + "/api/init";
+            //
+            // Dictionary<string, object> dic = GameEntry.Pool.DequeueClassObject<Dictionary<string, object>>();
+            // dic.Clear();
+            //
+            // GameEntry.Data.SysDataManager.CurrChannelConfig.ChannelId = 0;
+            // GameEntry.Data.SysDataManager.CurrChannelConfig.InnerVersion = 1001;
+            //
+            // dic["ChannelId"] = GameEntry.Data.SysDataManager.CurrChannelConfig.ChannelId;
+            // dic["InnerVersion"] = GameEntry.Data.SysDataManager.CurrChannelConfig.InnerVersion;
+            //
+            // GameEntry.Http.SendData(url, OnWebAccountInit, true, false, dic);
+            GameEntry.Procedure.ChangeState(ProcedureState.Preload);
         }
 
         private void OnWebAccountInit(HttpCallBackArgs args)

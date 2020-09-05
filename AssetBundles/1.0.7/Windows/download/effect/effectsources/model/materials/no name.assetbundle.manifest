@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1924192656
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 616d52e95275bf1a2e1a3d10711a91bf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a4e20c9d8e7103fcef39ad820c79bacf
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Effect/EffectSources/model/Materials/No Name.mat
+Dependencies: []

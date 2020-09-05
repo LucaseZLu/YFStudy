@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1372981182
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ab34cdfebf66c5e8ce772e2d4706c3aa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af57576da81d5d3ce45807ac11234de6
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Role/RolePrefab/Npc/Animation/Animal/Tiger/Hit.anim
+Dependencies: []

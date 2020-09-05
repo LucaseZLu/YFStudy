@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 4199476344
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 41f1a73730bab4e7e8748fdf4766df44
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8215722b766c6decafa3f90512650b44
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Role/RoleSources/Character/Npc/Man/Special/Npc_001_duanyanqing_001/Materials/Npc_001_duanyanqing_001.mat
+- Assets/Download/Role/RoleSources/Character/Npc/Man/Special/Npc_001_duanyanqing_001/Materials/Npc_001_duanyanqing_001.tga
+Dependencies:
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/effect_wufeng001.assetbundle

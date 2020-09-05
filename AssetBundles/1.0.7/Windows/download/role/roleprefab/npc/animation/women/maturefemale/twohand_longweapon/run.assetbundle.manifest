@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1175411165
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7d6225f8e098c3053f521a99a828cbb9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af57576da81d5d3ce45807ac11234de6
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Role/RolePrefab/Npc/Animation/Women/MatureFemale/TwoHand_LongWeapon/Run.anim
+Dependencies: []

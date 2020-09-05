@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3928367847
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d5af1b381d4895d9e0795af1e200100e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8215722b766c6decafa3f90512650b44
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Role/RoleSources/Character/Npc/Man/Fat/No_Weapon/Npc_001_baobutong_001/Materials/Npc_001_baobutong_002.mat
+Dependencies:
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/man/fat/no_weapon/npc_001_baobutong_001/materials/npc_001_baobutong_001.assetbundle

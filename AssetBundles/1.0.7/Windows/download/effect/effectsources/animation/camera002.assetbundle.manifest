@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1411950960
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d77908e06a202be86aade07584a07d15
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af57576da81d5d3ce45807ac11234de6
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Effect/EffectSources/Animation/Camera002.anim
+Dependencies: []

@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3762881294
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1556ee49d2834f3e8afc4957d3e470ae
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8215722b766c6decafa3f90512650b44
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Role/RoleSources/Character/Npc/Animal/Leopard/Npc_001_baozi_001/Materials/Npc_001_baozi_003.tga
+- Assets/Download/Role/RoleSources/Character/Npc/Animal/Leopard/Npc_001_baozi_001/Materials/Npc_001_baozi_003.mat
+Dependencies: []

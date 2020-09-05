@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 177220411
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6441d60b4c547f3371408d10fd293ba8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c6a0cadf2099d5c140bfc97a5b64da28
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Effect/EffectSources/model/Fu_01.FBX
+Dependencies:
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/model/materials/fu_001_001.assetbundle

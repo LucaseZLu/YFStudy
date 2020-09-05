@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3441799250
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ab8334373b223203d41c61f7ef1c1fd5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 45875108e441588ead174e12e00e97b4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Effect/EffectSources/texture/mateials/effect_bing008.mat
+Dependencies:
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/effect_bing008.assetbundle

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1860494586
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2483d904e3d9e0697256f6cfa90fd010
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 45875108e441588ead174e12e00e97b4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Effect/EffectSources/texture/mateials/effect_xin004.mat
+Dependencies:
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/effect_xin004.assetbundle

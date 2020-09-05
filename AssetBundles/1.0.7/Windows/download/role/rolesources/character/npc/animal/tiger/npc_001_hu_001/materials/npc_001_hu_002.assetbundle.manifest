@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 1618656835
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b67c192707ad6bf4a2eff4850faf6255
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8215722b766c6decafa3f90512650b44
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Role/RoleSources/Character/Npc/Animal/Tiger/Npc_001_hu_001/Materials/Npc_001_hu_002.mat
+- Assets/Download/Role/RoleSources/Character/Npc/Animal/Tiger/Npc_001_hu_001/Materials/Npc_001_hu_002.tga
+Dependencies: []

@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 117748984
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 10469a35e690c3e18bb3781f46f5de80
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c802a704b053c3d3d492c281ae7ec2ab
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Role/RoleSources/Character/Npc/Woman/Loli/No_Weapon/Npc_001_xiaoyaojieyin_001/Npc_001_xiaoyaojieyin_001.FBX
+Dependencies:
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/woman/loli/no_weapon/npc_001_xiaoyaojieyin_001/materials/npc_001_xiaoyaojieyin_001.assetbundle

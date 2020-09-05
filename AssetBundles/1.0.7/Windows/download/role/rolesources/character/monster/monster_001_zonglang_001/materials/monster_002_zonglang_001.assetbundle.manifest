@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2709308072
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 16f594a802add02512b7ed723c8a2fa6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8215722b766c6decafa3f90512650b44
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Role/RoleSources/Character/Monster/Monster_001_zonglang_001/Materials/Monster_002_zonglang_001.tga
+- Assets/Download/Role/RoleSources/Character/Monster/Monster_001_zonglang_001/Materials/Monster_002_zonglang_001.mat
+Dependencies: []

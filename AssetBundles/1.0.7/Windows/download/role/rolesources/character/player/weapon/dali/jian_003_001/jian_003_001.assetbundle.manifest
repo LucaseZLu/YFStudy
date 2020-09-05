@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3137619930
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cc95d6b5b86585ea2a3465b18994c7bf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8542ed9d93673e256be30bb0523839d9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Role/RoleSources/Character/Player/Weapon/Dali/Jian_003_001/Jian_003_001.FBX
+Dependencies:
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/player/weapon/dali/jian_003_001/materials/jian_003_001.assetbundle

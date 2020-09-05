@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3851241956
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dc1551a86566f65f676e5f76f162f503
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af57576da81d5d3ce45807ac11234de6
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Role/RolePrefab/Npc/Animation/Man/Midget/Magic/Dead.anim
+Dependencies: []

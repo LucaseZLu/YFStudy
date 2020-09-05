@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4036654090
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 94b96a27d9db17231751dc3b168399d0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 45875108e441588ead174e12e00e97b4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Effect/EffectSources/texture/mateials/effect_438.mat
+Dependencies:
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/effect_438.assetbundle

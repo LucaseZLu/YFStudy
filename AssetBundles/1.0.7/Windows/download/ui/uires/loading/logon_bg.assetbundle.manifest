@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4109366099
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 10cfae491e4c09af6c0d171465b0cf77
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 525b72fdacf3aef7d65f355ad8f17a96
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/UI/UIRes/Loading/LogOn_BG.png
+Dependencies: []

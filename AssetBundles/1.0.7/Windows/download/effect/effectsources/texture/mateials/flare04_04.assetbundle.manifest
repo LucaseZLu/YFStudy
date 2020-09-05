@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3740312533
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 33a9679a2a62032cb5550034f339cc3a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 45875108e441588ead174e12e00e97b4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Effect/EffectSources/texture/mateials/flare04_04.mat
+Dependencies:
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/flare04_04.assetbundle

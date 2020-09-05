@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3014028233
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0197df12d340de93971476894f1165a5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af57576da81d5d3ce45807ac11234de6
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Role/RolePrefab/Npc/Animation/Animal/Mouse/Stand.anim
+Dependencies: []

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 4215373001
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 01d21d89c2f0089943b5f1a5885d5b01
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c802a704b053c3d3d492c281ae7ec2ab
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Role/RolePrefab/Player/Dali_001/Sz_dali_001_xmt/Sz_dali_001_xmt.prefab
+Dependencies:
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/player/dali_001/sz_dali_001_xmt/sz_dali_001_xmt.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/player/dali_001/sz_dali_001_xmt/materials/sz_dali_001_xmt.assetbundle

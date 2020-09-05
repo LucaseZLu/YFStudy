@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 1461598846
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 460f05334c9694771f89a49a2c5dccda
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8215722b766c6decafa3f90512650b44
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Role/RoleSources/Character/Player/Weapon/Shaolin/Gun_001_009/Materials/Gun_001_009.jpg
+- Assets/Download/Role/RoleSources/Character/Player/Weapon/Shaolin/Gun_001_009/Materials/Gun_001_009.mat
+Dependencies: []

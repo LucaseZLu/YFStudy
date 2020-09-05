@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3320894921
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e5b6e21304bec7d67975b32d1eedb4a6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af57576da81d5d3ce45807ac11234de6
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Role/RolePrefab/Npc/Animation/Women/MatureFemale/Magic/Attack.anim
+Dependencies: []

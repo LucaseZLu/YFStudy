@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 414912082
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 955c30efb6b7aaa0d649d86fd8c82687
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8215722b766c6decafa3f90512650b44
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Role/RoleSources/Character/Npc/Building/Npc_001_caoyao_001/Materials/Npc_001_caoyao_001.tga
+- Assets/Download/Role/RoleSources/Character/Npc/Building/Npc_001_caoyao_001/Materials/npc_001_caoyao_001.mat
+Dependencies: []

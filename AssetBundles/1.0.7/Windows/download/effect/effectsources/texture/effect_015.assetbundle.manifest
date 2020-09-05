@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 259932247
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ca321b447a7deefda9e3da18ae30a4b9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 525b72fdacf3aef7d65f355ad8f17a96
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Effect/EffectSources/texture/effect_015.png
+Dependencies: []

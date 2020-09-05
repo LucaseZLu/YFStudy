@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 297872982
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e22afd4878e4eb005157049f62bbabc5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 45875108e441588ead174e12e00e97b4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Effect/EffectSources/texture/mateials/effect_342_01.mat
+Dependencies:
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/effect_342.assetbundle

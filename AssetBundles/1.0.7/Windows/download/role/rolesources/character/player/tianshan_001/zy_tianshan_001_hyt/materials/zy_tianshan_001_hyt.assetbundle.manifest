@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 1104839057
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bc3bc3051dee90ba35d0bd36e3396387
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8215722b766c6decafa3f90512650b44
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Role/RoleSources/Character/Player/Tianshan_001/Zy_tianshan_001_hyt/Materials/Zy_tianshan_001_hyt.mat
+- Assets/Download/Role/RoleSources/Character/Player/Tianshan_001/Zy_tianshan_001_hyt/Materials/Zy_tianshan_001_hyt.tga
+Dependencies: []

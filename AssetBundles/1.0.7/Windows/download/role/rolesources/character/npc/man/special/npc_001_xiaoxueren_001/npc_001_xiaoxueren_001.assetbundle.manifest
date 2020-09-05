@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1844294120
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7e89985ea1cfa8c98685a5226531970d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c802a704b053c3d3d492c281ae7ec2ab
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Role/RoleSources/Character/Npc/Man/Special/Npc_001_xiaoxueren_001/Npc_001_xiaoxueren_001.FBX
+Dependencies:
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/man/special/npc_001_xiaoxueren_001/materials/npc_001_xiaoxueren_001.assetbundle

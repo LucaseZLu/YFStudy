@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 294163119
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0e59d4c707b2b471cbb0bd4a512191da
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af57576da81d5d3ce45807ac11234de6
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Role/RolePrefab/Npc/Animation/Women/MatureFemale/TwoHand_LongWeapon/Attack_Stand.anim
+Dependencies: []

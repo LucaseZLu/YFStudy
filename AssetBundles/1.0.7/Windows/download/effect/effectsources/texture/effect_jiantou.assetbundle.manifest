@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2437956098
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 73a4fecfba5f592c65e078e002643be9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 525b72fdacf3aef7d65f355ad8f17a96
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Effect/EffectSources/texture/effect_jiantou.tga
+Dependencies: []

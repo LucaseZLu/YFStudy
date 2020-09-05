@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1219568047
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9095ec9f1a6893f4b9f834e2413663a0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 45875108e441588ead174e12e00e97b4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Role/RoleSources/Character/Npc/Man/Fat/One_Sword/Npc_001_nanhaieshen_001/Materials/Npc_001_nanhaieshen_001_boss.mat
+Dependencies:
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/man/fat/one_sword/npc_001_nanhaieshen_001/materials/npc_001_nanhaieshen_001.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/effect_wufeng001.assetbundle

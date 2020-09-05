@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1851791545
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8db706f81b7a87e89c410c48dda0f426
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af57576da81d5d3ce45807ac11234de6
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Role/RolePrefab/Npc/Animation/Women/MatureFemale/One_Sword/Hit.anim
+Dependencies: []

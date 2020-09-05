@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1577198101
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f9b491075ef67157432b2662b3eea9fd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 35b36f5babfbffec6f91a1d6c810571d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Effect/EffectSources/model/mesh_zudangmen.FBX
+Dependencies: []
