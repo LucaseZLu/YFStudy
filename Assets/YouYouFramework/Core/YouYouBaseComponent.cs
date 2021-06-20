@@ -10,7 +10,7 @@ namespace YouYou
         {
             base.OnAwake();
 
-            //°Ñ×Ô¼º¼ÓÈë»ù´¡×é¼þÁÐ±í
+            //ï¿½ï¿½ï¿½Ô¼ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ð±ï¿½
             GameEntry.RegisterBaseComponent(this);
         }
     }

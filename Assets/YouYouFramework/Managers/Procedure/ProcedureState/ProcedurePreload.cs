@@ -46,7 +46,9 @@ namespace YouYou
             GameEntry.Event.CommonEvent.Dispatch(SysEventId.PreloadBegin);
 
             m_TargetProgress = 99;
+#if !DISABLE_ASSETBUNDLE
             GameEntry.Resource.InitAssetInfo();
+#endif
             GameEntry.DataTable.LoadDataTableAsync();
         }
 
@@ -116,6 +118,11 @@ namespace YouYou
 
         private void LoadShader()
         {
+#if DISABLE_ASSETBUNDLE
+            m_TargetProgress = 100;
+            return;
+#endif
+
             GameEntry.Resource.ResourceLoaderManager.LoadAssetBundle(ConstDefine.CusShadersAssetBundlePath, onComplete: (AssetBundle bundle) =>
             {
                 bundle.LoadAllAssets();

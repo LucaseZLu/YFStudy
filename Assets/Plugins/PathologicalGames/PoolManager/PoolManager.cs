@@ -38,7 +38,8 @@ namespace PathologicalGames
 	/// </summary>
 	public static class InstanceHandler  
 	{
-		public delegate GameObject InstantiateDelegate(GameObject prefab, Vector3 pos, Quaternion rot);
+        //[改造] 增加resourceEntity
+        public delegate GameObject InstantiateDelegate(GameObject prefab, Vector3 pos, Quaternion rot, object resourceEntity = null);
 		public delegate void DestroyDelegate(GameObject instance);
 
 		/// <summary>
@@ -64,11 +65,11 @@ namespace PathologicalGames
 		/// <param name="pos">The position to spawn the instance</param>
 		/// <param name="rot">The rotation of the new instance</param>
 		/// <returns>Transform</returns>
-		internal static GameObject InstantiatePrefab(GameObject prefab, Vector3 pos, Quaternion rot)
+		internal static GameObject InstantiatePrefab(GameObject prefab, Vector3 pos, Quaternion rot, object resourceEntity = null)
 		{
 			if (InstanceHandler.InstantiateDelegates != null)
 			{
-				return InstanceHandler.InstantiateDelegates(prefab, pos, rot);
+				return InstanceHandler.InstantiateDelegates(prefab, pos, rot, resourceEntity);
 			}
 			else
 			{
@@ -321,7 +322,7 @@ namespace PathologicalGames
 
             this._pools.Add(spawnPool.poolName, spawnPool);
 
-			Debug.Log(string.Format("Added pool '{0}'", spawnPool.poolName));
+			//Debug.Log(string.Format("Added pool '{0}'", spawnPool.poolName));
 
 			if (this.onCreatedDelegates.ContainsKey(spawnPool.poolName))
 				 this.onCreatedDelegates[spawnPool.poolName](spawnPool);

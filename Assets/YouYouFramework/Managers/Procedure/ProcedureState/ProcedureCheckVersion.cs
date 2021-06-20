@@ -18,8 +18,11 @@ namespace YouYou
         {
             base.OnEnter();
             GameEntry.Log(LogCategory.Procedure, "OnEnter ProcedureCheckVersion");
-
+#if DISABLE_ASSETBUNDLE
+            GameEntry.Procedure.ChangeState(ProcedureState.Preload);
+#else
             GameEntry.Resource.InitStreamingAssetsBundleInfo();
+#endif
         }
 
         public override void OnUpdate()

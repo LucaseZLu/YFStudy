@@ -6,7 +6,7 @@ using DG.Tweening;
 public static class GameObjectUtilEx
 {
     /// <summary>
-    /// »ñÈ¡»ò´´½¨×é½¨
+    /// ï¿½ï¿½È¡ï¿½ò´´½ï¿½ï¿½é½¨
     /// </summary>
     /// <typeparam name="T"></typeparam>
     /// <param name="obj"></param>
@@ -22,7 +22,7 @@ public static class GameObjectUtilEx
     }
 
     /// <summary>
-    /// ÉèÖÃÎïÌåµÄ¸¸ÎïÌå
+    /// ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä¸ï¿½ï¿½ï¿½ï¿½ï¿½
     /// </summary>
     /// <param name="obj"></param>
     /// <param name="parent"></param>
@@ -35,7 +35,7 @@ public static class GameObjectUtilEx
     }
 
     /// <summary>
-    /// ÉèÖÃÎïÌåµÄ²ã
+    /// ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä²ï¿½
     /// </summary>
     /// <param name="obj"></param>
     /// <param name="layerName"></param>
@@ -96,10 +96,10 @@ public static class GameObjectUtilEx
         }
     }
 
-    //UIÀ©Õ¹=================================
+    //UIï¿½ï¿½Õ¹=================================
 
     /// <summary>
-    /// ÉèÖÃTextÖµ
+    /// ï¿½ï¿½ï¿½ï¿½TextÖµ
     /// </summary>
     /// <param name="txtObj"></param>
     /// <param name="text"></param>
@@ -120,7 +120,7 @@ public static class GameObjectUtilEx
     }
 
     /// <summary>
-    /// ÉèÖÃ»¬¶¯ÌõµÄÖµ
+    /// ï¿½ï¿½ï¿½Ã»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Öµ
     /// </summary>
     /// <param name="sliderObj"></param>
     /// <param name="value"></param>
@@ -133,7 +133,7 @@ public static class GameObjectUtilEx
     }
 
     /// <summary>
-    /// ÉèÖÃÍ¼Æ¬Ãû³Æ
+    /// ï¿½ï¿½ï¿½ï¿½Í¼Æ¬ï¿½ï¿½ï¿½ï¿½
     /// </summary>
     /// <param name="imgObj"></param>
     /// <param name="imgName"></param>

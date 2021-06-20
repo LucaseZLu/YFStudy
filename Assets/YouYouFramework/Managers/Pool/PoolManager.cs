@@ -6,12 +6,12 @@ using System;
 namespace YouYou
 {
     /// <summary>
-    /// ³Ø¹ÜÀíÆ÷
+    /// æ± ç®¡ç†å™¨
     /// </summary>
     public class PoolManager : ManagerBase, IDisposable
     {
         /// <summary>
-        /// Àà¶ÔÏó³Ø
+        /// ç±»å¯¹è±¡æ± 
         /// </summary>
         public ClassObjectPool ClassObjectPool
         {
@@ -20,7 +20,7 @@ namespace YouYou
         }
 
         /// <summary>
-        /// ÓÎÏ·ÎïÌå¶ÔÏó³Ø
+        /// æ¸¸æˆç‰©ä½“å¯¹è±¡æ± 
         /// </summary>
         public GameObjectPool GameObjectPool
         {
@@ -29,7 +29,7 @@ namespace YouYou
         }
 
         /// <summary>
-        /// ×ÊÔ´°ü³Ø
+        /// èµ„æºåŒ…æ± 
         /// </summary>
         public ResourcePool AssetBundlePool
         {
@@ -38,7 +38,7 @@ namespace YouYou
         }
 
         /// <summary>
-        /// ·ÖÀà×ÊÔ´³Ø
+        /// åˆ†ç±»èµ„æºæ± 
         /// </summary>
         public Dictionary<AssetCategory, ResourcePool> AssetPool
         {
@@ -54,7 +54,7 @@ namespace YouYou
             AssetBundlePool = new ResourcePool("AssetBundlePool");
 
             AssetPool = new Dictionary<AssetCategory, ResourcePool>();
-            //È·±£ÓÎÏ·¸Õ¿ªÊ¼ÔËĞĞµÄÊ±ºò ·ÖÀà×ÊÔ´³ØÒÑ¾­³õÊ¼»¯ºÃÁË
+            //ç¡®ä¿æ¸¸æˆåˆšå¼€å§‹è¿è¡Œçš„æ—¶å€™ åˆ†ç±»èµ„æºæ± å·²ç»åˆå§‹åŒ–å¥½äº†
             var enumerator = Enum.GetValues(typeof(AssetCategory)).GetEnumerator();
             while (enumerator.MoveNext())
             {
@@ -68,7 +68,7 @@ namespace YouYou
         }
 
         /// <summary>
-        /// ÊÍ·ÅÀà¶ÔÏó³Ø
+        /// é‡Šæ”¾ç±»å¯¹è±¡æ± 
         /// </summary>
         public void ReleaseClassObjectPool()
         {
@@ -76,7 +76,7 @@ namespace YouYou
         }
 
         /// <summary>
-        /// ÊÍ·Å×ÊÔ´°ü³Ø
+        /// é‡Šæ”¾èµ„æºåŒ…æ± 
         /// </summary>
         public void ReleaseAssetBundlePool()
         {
@@ -84,7 +84,7 @@ namespace YouYou
         }
 
         /// <summary>
-        /// ÊÍ·Å·ÖÀà×ÊÔ´³ØÖĞËùÓĞ×ÊÔ´
+        /// é‡Šæ”¾åˆ†ç±»èµ„æºæ± ä¸­æ‰€æœ‰èµ„æº
         /// </summary>
         public void ReleaseAssetPool()
         {

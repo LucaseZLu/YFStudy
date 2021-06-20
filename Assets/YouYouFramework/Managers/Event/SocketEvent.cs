@@ -7,7 +7,7 @@ using XLua;
 namespace YouYou
 {
     /// <summary>
-    /// SocketÊÂ¼þ
+    /// Socketï¿½Â¼ï¿½
     /// </summary>
     public class SocketEvent: IDisposable
     {
@@ -15,9 +15,9 @@ namespace YouYou
         public delegate void OnActionHandler(byte[] buffer);
         private Dictionary<ushort, LinkedList<OnActionHandler>> dic = new Dictionary<ushort, LinkedList<OnActionHandler>>();
 
-        #region AddEventListener Ìí¼Ó¼àÌý
+        #region AddEventListener ï¿½ï¿½Ó¼ï¿½ï¿½ï¿½
         /// <summary>
-        /// Ìí¼Ó¼àÌý
+        /// ï¿½ï¿½Ó¼ï¿½ï¿½ï¿½
         /// </summary>
         /// <param name="key"></param>
         /// <param name="handler"></param>
@@ -35,9 +35,9 @@ namespace YouYou
         }
         #endregion
 
-        #region RemoveEventListener ÒÆ³ý¼àÌý
+        #region RemoveEventListener ï¿½Æ³ï¿½ï¿½ï¿½ï¿½ï¿½
         /// <summary>
-        /// ÒÆ³ý¼àÌý
+        /// ï¿½Æ³ï¿½ï¿½ï¿½ï¿½ï¿½
         /// </summary>
         /// <param name="key"></param>
         /// <param name="handler"></param>
@@ -57,9 +57,9 @@ namespace YouYou
         }
         #endregion
 
-        #region Dispatch ÅÉ·¢
+        #region Dispatch ï¿½É·ï¿½
         /// <summary>
-        /// ÅÉ·¢
+        /// ï¿½É·ï¿½
         /// </summary>
         /// <param name="key"></param>
         /// <param name="p"></param>

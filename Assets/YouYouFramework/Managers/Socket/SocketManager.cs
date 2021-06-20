@@ -8,7 +8,7 @@ namespace YouYou
     public class SocketManager : ManagerBase, IDisposable
     {
         /// <summary>
-        /// SocketTcp·ÃÎÊÆ÷Á´±í
+        /// SocketTcpï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
         /// </summary>
         private LinkedList<SocketTcpRoutine> m_SocketTcpRoutineList;
 
@@ -18,7 +18,7 @@ namespace YouYou
         }
 
         /// <summary>
-        /// ×¢²áSocketTcp·ÃÎÊÆ÷
+        /// ×¢ï¿½ï¿½SocketTcpï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
         /// </summary>
         /// <param name="routine"></param>
         internal void RegisterSocketTcpRoutine(SocketTcpRoutine routine)
@@ -27,7 +27,7 @@ namespace YouYou
         }
 
         /// <summary>
-        /// ÒÆ³ýSocketTcp·ÃÎÊÆ÷
+        /// ï¿½Æ³ï¿½SocketTcpï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
         /// </summary>
         /// <param name="routine"></param>
         internal void RemoveSocketTcpRoutine(SocketTcpRoutine routine)

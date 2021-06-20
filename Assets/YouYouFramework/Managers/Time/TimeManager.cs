@@ -8,7 +8,7 @@ namespace YouYou
     public class TimeManager : ManagerBase, IDisposable
     {
         /// <summary>
-        /// ¶¨Ê±Æ÷Á´±í
+        /// ï¿½ï¿½Ê±ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
         /// </summary>
         private LinkedList<TimeAction> m_TimeActionList;
 
@@ -18,7 +18,7 @@ namespace YouYou
         }
 
         /// <summary>
-        /// ×¢²á¶¨Ê±Æ÷
+        /// ×¢ï¿½á¶¨Ê±ï¿½ï¿½
         /// </summary>
         /// <param name="action"></param>
         internal void RegisterTimeAction(TimeAction action)
@@ -27,7 +27,7 @@ namespace YouYou
         }
 
         /// <summary>
-        /// ÒÆ³ý¶¨Ê±Æ÷
+        /// ï¿½Æ³ï¿½ï¿½ï¿½Ê±ï¿½ï¿½
         /// </summary>
         /// <param name="action"></param>
         internal void RemoveTimeAction(TimeAction action)

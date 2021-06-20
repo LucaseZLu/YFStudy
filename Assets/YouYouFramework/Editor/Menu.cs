@@ -85,8 +85,8 @@ public class Menu
         sbr.AppendFormat("    {0}Ctrl.OnBeforDestroy();\n", viewName);
         sbr.AppendFormat("end");
 
-        string path = Application.dataPath + "/Download/xLuaLogic/Modules/Temp/" + viewName + "View.bytes";
-
+        string path = Application.dataPath + "/Download/xLuaLogic/Modules/" + viewName + "View.bytes";
+       // path= path.Replace("/", "\\");
         using (FileStream fs = new FileStream(path, FileMode.Create))
         {
             using (StreamWriter sw = new StreamWriter(fs))

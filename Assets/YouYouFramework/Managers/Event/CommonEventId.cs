@@ -1,4 +1,4 @@
-﻿namespace YouYou
+namespace YouYou
 {
     public class CommonEventId
     {

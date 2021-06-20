@@ -6,7 +6,7 @@ using UnityEngine;
 namespace YouYou
 {
     /// <summary>
-    /// ÉèÖÃ×é¼þ
+    /// ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
     /// </summary>
     public class SettingComponent : YouYouBaseComponent
     {

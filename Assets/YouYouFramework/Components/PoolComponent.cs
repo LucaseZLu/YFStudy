@@ -239,16 +239,21 @@ namespace YouYou
             if (Time.time > m_ReleaseAssetBundleNextRunTime + ReleaseAssetBundleInterval)
             {
                 m_ReleaseAssetBundleNextRunTime = Time.time;
+#if !DISABLE_ASSETBUNDLE
                 PoolManager.ReleaseAssetBundlePool();
                 GameEntry.Log(LogCategory.Normal, "释放AssetBundle池");
+#endif
             }
 
             if (Time.time > m_ReleaseAssetNextRunTime + ReleaseAssetInterval)
             {
                 m_ReleaseAssetNextRunTime = Time.time;
+#if !DISABLE_ASSETBUNDLE
                 PoolManager.ReleaseAssetPool();
-                Resources.UnloadUnusedAssets();
                 GameEntry.Log(LogCategory.Normal, "释放Asset池");
+#endif
+                LuaManager.luaEnv.FullGc();
+                Resources.UnloadUnusedAssets();
             }
         }
 
@@ -274,9 +279,9 @@ namespace YouYou
         /// <param name="poolId"></param>
         /// <param name="prefab"></param>
         /// <param name="onComplete"></param>
-        public void GameObjectSpawn(byte poolId, Transform prefab, System.Action<Transform> onComplete)
+        public void GameObjectSpawn(byte poolId, System.Action<Transform> onComplete)
         {
-            PoolManager.GameObjectPool.Spawn(poolId, prefab, onComplete);
+            PoolManager.GameObjectPool.Spawn(poolId, onComplete);
         }
 
         /// <summary>
@@ -326,7 +331,13 @@ namespace YouYou
             ResourceEntity resourceEntity = null;
             if (m_InstanceResourceDic.TryGetValue(instanceId, out resourceEntity))
             {
+#if DISABLE_ASSETBUNDLE
+                resourceEntity.Target = null;
+                GameEntry.Pool.EnqueueClassObject(resourceEntity);
+#else
                 UnspawnResourceEntity(resourceEntity);
+#endif
+               
                 m_InstanceResourceDic.Remove(instanceId);
             }
         }

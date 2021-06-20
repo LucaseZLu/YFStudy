@@ -6,12 +6,12 @@ using UnityEngine;
 namespace YouYou
 {
     /// <summary>
-    /// 事件管理器
+    /// 锟铰硷拷锟斤拷锟斤拷锟斤拷
     /// </summary>
     public class EventManager : ManagerBase, IDisposable
     {
         /// <summary>
-        /// Socket事件
+        /// Socket锟铰硷拷
         /// </summary>
         public SocketEvent SocketEvent
         {
@@ -20,7 +20,7 @@ namespace YouYou
         }
 
         /// <summary>
-        /// 通用事件
+        /// 通锟斤拷锟铰硷拷
         /// </summary>
         public CommonEvent CommonEvent
         {

@@ -3,22 +3,22 @@ using System.Collections;
 using UnityEngine.UI;
 
 /// <summary>
-/// ×Ô¶¯¼ÓÔØÍ¼Æ¬
+/// ï¿½Ô¶ï¿½ï¿½ï¿½ï¿½ï¿½Í¼Æ¬
 /// </summary>
 public class AutoLoadTexture : MonoBehaviour
 {
     /// <summary>
-    /// Í¼Æ¬Ãû³Æ
+    /// Í¼Æ¬ï¿½ï¿½ï¿½ï¿½
     /// </summary>
     public string ImgName;
 
     /// <summary>
-    /// Í¼Æ¬Â·¾¶
+    /// Í¼Æ¬Â·ï¿½ï¿½
     /// </summary>
     public string ImgPath;
 
     /// <summary>
-    /// ÊÇ·ñÉèÖÃÍ¼Æ¬Ô­±¾´óÐ¡
+    /// ï¿½Ç·ï¿½ï¿½ï¿½ï¿½ï¿½Í¼Æ¬Ô­ï¿½ï¿½ï¿½ï¿½Ð¡
     /// </summary>
     public bool IsSetNativeSize;
 

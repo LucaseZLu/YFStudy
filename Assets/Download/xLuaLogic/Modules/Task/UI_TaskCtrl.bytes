@@ -8,12 +8,12 @@ end
 
 function UI_TaskCtrl.OnOpen(userData)
     UI_TaskView.txtTaskName.text = "youyouTest";
-    --local row= TaskDBModel.GetList()
-    --for i = 1, #row do
-    --    local entity = rows[i]
-    --    print(entity.Id)
-    --    print(entity.Name)
-    --end
+    local row= TaskDBModel.GetList()
+    for i = 1, #row do
+        local entity = rows[i]
+        print(entity.Id)
+        print(entity.Name)
+    end
 end
 
 function UI_TaskCtrl.OnClose()

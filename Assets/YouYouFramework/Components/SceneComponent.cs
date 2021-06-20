@@ -6,12 +6,12 @@ using UnityEngine;
 namespace YouYou
 {
     /// <summary>
-    /// ³¡¾°×é¼ş
+    /// åœºæ™¯ç»„ä»¶
     /// </summary>
     public class SceneComponent : YouYouBaseComponent, IUpdateComponent
     {
         /// <summary>
-        /// ³¡¾°¹ÜÀíÆ÷
+        /// åœºæ™¯ç®¡ç†å™¨
         /// </summary>
         private YouYouSceneManager m_YouYouSceneManager;
 
@@ -23,11 +23,11 @@ namespace YouYou
         }
 
         /// <summary>
-        /// ¼ÓÔØ³¡¾°
+        /// åŠ è½½åœºæ™¯
         /// </summary>
-        /// <param name="sceneId">³¡¾°±àºÅ</param>
-        /// <param name="showLoadingForm">ÊÇ·ñÏÔÊ¾Loading</param>
-        /// <param name="onComplete">¼ÓÔØÍê±Ï</param>
+        /// <param name="sceneId">åœºæ™¯ç¼–å·</param>
+        /// <param name="showLoadingForm">æ˜¯å¦æ˜¾ç¤ºLoading</param>
+        /// <param name="onComplete">åŠ è½½å®Œæ¯•</param>
         public void LoadScene(int sceneId, bool showLoadingForm = false, BaseAction onComplete = null)
         {
             m_YouYouSceneManager.LoadScene(sceneId, showLoadingForm, onComplete);

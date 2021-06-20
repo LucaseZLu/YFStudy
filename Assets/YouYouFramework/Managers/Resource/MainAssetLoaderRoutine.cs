@@ -52,9 +52,20 @@ namespace YouYou
         /// <param name="assetFullName">资源路径</param>
         public void Load(AssetCategory assetCategory, string assetFullName, BaseAction<ResourceEntity> onComplete = null)
         {
+#if DISABLE_ASSETBUNDLE&&UNITY_EDITOR
+            Debug.LogError("取池");
+            m_CurrResourceEntity = GameEntry.Pool.DequeueClassObject<ResourceEntity>();
+            m_CurrResourceEntity.Category = assetCategory;
+            m_CurrResourceEntity.IsAssetBundle = false;
+            m_CurrResourceEntity.ResourceName = assetFullName;
+            m_CurrResourceEntity.Target = UnityEditor.AssetDatabase.LoadAssetAtPath<GameObject>(assetFullName);
+            if (onComplete != null) onComplete(m_CurrResourceEntity);
+#else
             m_OnComplete = onComplete;
             m_CurrAssetEntity = GameEntry.Resource.ResourceLoaderManager.GetAssetEntity(assetCategory, assetFullName);
             LoadDependsAsset();
+#endif
+
         }
 
         /// <summary>
@@ -81,6 +92,14 @@ namespace YouYou
                 //3.加载资源
                 GameEntry.Resource.ResourceLoaderManager.LoadAsset(m_CurrAssetEntity.AssetFullName, bundle, onComplete: (UnityEngine.Object obj) =>
                 {
+                    //4.再次检查 很重要 不检查引用计数会出错
+                    m_CurrResourceEntity = GameEntry.Pool.PoolManager.AssetPool[m_CurrAssetEntity.Category].Spawn(m_CurrAssetEntity.AssetFullName);
+                    if (m_CurrResourceEntity != null)
+                    {
+                        m_OnComplete?.Invoke(m_CurrResourceEntity);
+                        return;
+                    }
+                    
                     m_CurrResourceEntity = GameEntry.Pool.DequeueClassObject<ResourceEntity>();
                     m_CurrResourceEntity.Category = m_CurrAssetEntity.Category;
                     m_CurrResourceEntity.IsAssetBundle = false;

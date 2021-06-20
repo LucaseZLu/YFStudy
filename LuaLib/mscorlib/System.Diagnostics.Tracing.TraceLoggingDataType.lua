@@ -1,0 +1,43 @@
+---@class System.Diagnostics.Tracing.TraceLoggingDataType : System.Enum
+---@field public Nil System.Diagnostics.Tracing.TraceLoggingDataType @static
+---@field public Utf16String System.Diagnostics.Tracing.TraceLoggingDataType @static
+---@field public MbcsString System.Diagnostics.Tracing.TraceLoggingDataType @static
+---@field public Int8 System.Diagnostics.Tracing.TraceLoggingDataType @static
+---@field public UInt8 System.Diagnostics.Tracing.TraceLoggingDataType @static
+---@field public Int16 System.Diagnostics.Tracing.TraceLoggingDataType @static
+---@field public UInt16 System.Diagnostics.Tracing.TraceLoggingDataType @static
+---@field public Int32 System.Diagnostics.Tracing.TraceLoggingDataType @static
+---@field public UInt32 System.Diagnostics.Tracing.TraceLoggingDataType @static
+---@field public Int64 System.Diagnostics.Tracing.TraceLoggingDataType @static
+---@field public UInt64 System.Diagnostics.Tracing.TraceLoggingDataType @static
+---@field public Float System.Diagnostics.Tracing.TraceLoggingDataType @static
+---@field public Double System.Diagnostics.Tracing.TraceLoggingDataType @static
+---@field public Boolean32 System.Diagnostics.Tracing.TraceLoggingDataType @static
+---@field public Binary System.Diagnostics.Tracing.TraceLoggingDataType @static
+---@field public Guid System.Diagnostics.Tracing.TraceLoggingDataType @static
+---@field public FileTime System.Diagnostics.Tracing.TraceLoggingDataType @static
+---@field public SystemTime System.Diagnostics.Tracing.TraceLoggingDataType @static
+---@field public HexInt32 System.Diagnostics.Tracing.TraceLoggingDataType @static
+---@field public HexInt64 System.Diagnostics.Tracing.TraceLoggingDataType @static
+---@field public CountedUtf16String System.Diagnostics.Tracing.TraceLoggingDataType @static
+---@field public CountedMbcsString System.Diagnostics.Tracing.TraceLoggingDataType @static
+---@field public Struct System.Diagnostics.Tracing.TraceLoggingDataType @static
+---@field public Char16 System.Diagnostics.Tracing.TraceLoggingDataType @static
+---@field public Char8 System.Diagnostics.Tracing.TraceLoggingDataType @static
+---@field public Boolean8 System.Diagnostics.Tracing.TraceLoggingDataType @static
+---@field public HexInt8 System.Diagnostics.Tracing.TraceLoggingDataType @static
+---@field public HexInt16 System.Diagnostics.Tracing.TraceLoggingDataType @static
+---@field public Utf16Xml System.Diagnostics.Tracing.TraceLoggingDataType @static
+---@field public MbcsXml System.Diagnostics.Tracing.TraceLoggingDataType @static
+---@field public CountedUtf16Xml System.Diagnostics.Tracing.TraceLoggingDataType @static
+---@field public CountedMbcsXml System.Diagnostics.Tracing.TraceLoggingDataType @static
+---@field public Utf16Json System.Diagnostics.Tracing.TraceLoggingDataType @static
+---@field public MbcsJson System.Diagnostics.Tracing.TraceLoggingDataType @static
+---@field public CountedUtf16Json System.Diagnostics.Tracing.TraceLoggingDataType @static
+---@field public CountedMbcsJson System.Diagnostics.Tracing.TraceLoggingDataType @static
+---@field public HResult System.Diagnostics.Tracing.TraceLoggingDataType @static
+---@field public value__ number
+local m = {}
+
+System.Diagnostics.Tracing.TraceLoggingDataType = m
+return m

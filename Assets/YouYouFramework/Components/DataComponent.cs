@@ -25,7 +25,7 @@ namespace YouYou
         public SysDataManager SysDataManager
         {
             get;
-            private set;
+            private set; 
         }
 
         /// <summary>

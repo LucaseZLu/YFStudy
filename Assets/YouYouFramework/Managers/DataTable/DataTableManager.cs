@@ -80,8 +80,8 @@ namespace YouYou
             Sys_SoundDBModel.LoadData();
             Sys_StorySoundDBModel.LoadData();
             Sys_UIFormDBModel.LoadData();
-            // Sys_SceneDBModel.LoadData();
-            // Sys_SceneDetailDBModel.LoadData();
+            Sys_SceneDBModel.LoadData();
+            Sys_SceneDetailDBModel.LoadData();
 
             ChapterDBModel.LoadData();
            // GameLevelDBModel.LoadData();
@@ -117,11 +117,15 @@ namespace YouYou
         public void GetDataTableBuffer(string tableName, BaseAction<byte[]> onComplete)
         {
 #if DISABLE_ASSETBUNDLE
-            byte[] buffer = IOUtil.GetFileBuffer(string.Format("{0}/download/DataTable/{1}.bytes", GameEntry.Resource.LocalFilePath, tableName));
-            if (onComplete != null)
+            GameEntry.Time.Yield(() =>
             {
-                onComplete(buffer);
-            }
+                byte[] buffer = IOUtil.GetFileBuffer(string.Format("{0}/download/DataTable/{1}.bytes", GameEntry.Resource.LocalFilePath, tableName));
+                if (onComplete != null)
+                {
+                    onComplete(buffer);
+                }
+            });
+
 #else
             GameEntry.Resource.ResourceLoaderManager.LoadAsset(GameEntry.Resource.GetLastPathName(tableName), m_DataTableBundle, onComplete: (UnityEngine.Object obj) =>
             {

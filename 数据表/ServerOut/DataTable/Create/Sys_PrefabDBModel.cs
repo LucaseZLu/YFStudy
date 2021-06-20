@@ -1,6 +1,6 @@
 //===================================================
 //作    者：边涯  http://www.u3dol.com
-//创建时间：2020-09-03 01:38:03
+//创建时间：2021-06-19 18:56:09
 //备    注：此代码为工具生成 请勿手工修改
 //===================================================
 using YouYouServer.Core.DataTableBase;
@@ -31,8 +31,13 @@ namespace YouYouServer.Model.DataTable
                 Sys_PrefabEntity entity = new Sys_PrefabEntity();
                 entity.Id = ms.ReadInt();
                 entity.Desc = ms.ReadUTF8String();
+                entity.AssetCategory = ms.ReadInt();
                 entity.AssetPath = ms.ReadUTF8String();
-                entity.PoolId = ms.ReadInt();
+                entity.PoolId = (byte)ms.ReadByte();
+                entity.CullDespawned = (byte)ms.ReadByte();
+                entity.CullAbove = ms.ReadInt();
+                entity.CullDelay = ms.ReadInt();
+                entity.CullMaxPerPass = ms.ReadInt();
 
                 m_List.Add(entity);
                 m_Dic[entity.Id] = entity;

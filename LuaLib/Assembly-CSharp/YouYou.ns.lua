@@ -1,0 +1,2 @@
+---@class YouYou
+YouYou = {}

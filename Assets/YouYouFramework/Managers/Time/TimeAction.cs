@@ -6,12 +6,12 @@ using UnityEngine;
 namespace YouYou
 {
     /// <summary>
-    /// ¶¨Ê±Æ÷
+    /// å®šæ—¶å™¨
     /// </summary>
     public class TimeAction
     {
         /// <summary>
-        /// ÊÇ·ñÔËĞĞÖĞ
+        /// æ˜¯å¦è¿è¡Œä¸­
         /// </summary>
         public bool IsRuning
         {
@@ -20,51 +20,66 @@ namespace YouYou
         }
 
         /// <summary>
-        /// µ±Ç°ÔËĞĞµÄÊ±¼ä
+        /// æ˜¯å¦æš‚åœ
+        /// </summary>
+        public bool m_IsPause = false;
+
+        /// <summary>
+        /// å½“å‰è¿è¡Œçš„æ—¶é—´
         /// </summary>
         private float m_CurrRunTime;
 
         /// <summary>
-        /// µ±Ç°Ñ­»·´ÎÊı
+        /// å½“å‰å¾ªç¯æ¬¡æ•°
         /// </summary>
         private int m_CurrLoop;
 
         /// <summary>
-        /// ÑÓ³ÙÊ±¼ä
+        /// å»¶è¿Ÿæ—¶é—´
         /// </summary>
         private float m_DelayTime;
 
         /// <summary>
-        /// ¼ä¸ô£¨Ãë£©
+        /// é—´éš”ï¼ˆç§’ï¼‰
         /// </summary>
         private float m_Interval;
 
         /// <summary>
-        /// Ñ­»·´ÎÊı(-1±íÊ¾ ÎŞÏŞÑ­»· 0Ò²»áÑ­»·Ò»´Î)
+        /// å¾ªç¯æ¬¡æ•°(-1è¡¨ç¤º æ— é™å¾ªç¯ 0ä¹Ÿä¼šå¾ªç¯ä¸€æ¬¡)
         /// </summary>
         private int m_Loop;
 
         /// <summary>
-        /// ¿ªÊ¼ÔËĞĞ
+        /// æœ€åçš„æš‚åœæ—¶é—´
+        /// </summary>
+        private float m_LasetPauseTime;
+
+        /// <summary>
+        /// æš‚åœäº†å¤šä¹…
+        /// </summary>
+        private float m_PauseTime;
+        
+        /// <summary>
+        /// å¼€å§‹è¿è¡Œ
         /// </summary>
         private Action m_OnStar;
 
         /// <summary>
-        /// ÔËĞĞÖĞ »Øµ÷²ÎÊı±íÊ¾Ê£Óà´ÎÊı
+        /// è¿è¡Œä¸­ å›è°ƒå‚æ•°è¡¨ç¤ºå‰©ä½™æ¬¡æ•°
         /// </summary>
         private Action<int> m_OnUpdate;
 
         /// <summary>
-        /// ÔËĞĞÍê±Ï
+        /// è¿è¡Œå®Œæ¯•
         /// </summary>
         private Action m_OnComplete;
 
         /// <summary>
-        /// ³õÊ¼»¯
+        /// åˆå§‹åŒ–
         /// </summary>
-        /// <param name="delayTime">ÑÓ³ÙÊ±¼ä</param>
-        /// <param name="interval">¼ä¸ô</param>
-        /// <param name="loop">Ñ­»·´ÎÊı</param>
+        /// <param name="delayTime">å»¶è¿Ÿæ—¶é—´</param>
+        /// <param name="interval">é—´éš”</param>
+        /// <param name="loop">å¾ªç¯æ¬¡æ•°</param>
         /// <param name="onStar"></param>
         /// <param name="onUpdate"></param>
         /// <param name="onComplete"></param>
@@ -82,20 +97,31 @@ namespace YouYou
         }
 
         /// <summary>
-        /// ÔËĞĞ
+        /// è¿è¡Œ
         /// </summary>
         public void Run()
         {
-            //1.ĞèÒªÏÈ°Ñ×Ô¼º¼ÓÈëÊ±¼ä¹ÜÀíÆ÷µÄÁ´±íÖĞ
+            //1.éœ€è¦å…ˆæŠŠè‡ªå·±åŠ å…¥æ—¶é—´ç®¡ç†å™¨çš„é“¾è¡¨ä¸­
             GameEntry.Time.RegisterTimeAction(this);
 
-            //2.ÉèÖÃµ±Ç°ÔËĞĞµÄÊ±¼ä
+            //2.è®¾ç½®å½“å‰è¿è¡Œçš„æ—¶é—´
             m_CurrRunTime = Time.time;
+            
+            m_IsPause=false;
         }
 
         public void Pause()
         {
-            IsRuning = false;
+            m_LasetPauseTime = Time.time;
+            m_IsPause = true;
+            GameEntry.LogError("æš‚åœè¿è¡Œ");
+        }
+
+        public void Resume()
+        {
+            m_IsPause = false;
+            m_PauseTime = Time.time - m_LasetPauseTime;
+            GameEntry.LogError("æ¢å¤è¿è¡Œ æš‚åœäº†m_PauseTime"+m_PauseTime);
         }
 
         public void Stop()
@@ -107,21 +133,23 @@ namespace YouYou
 
             IsRuning = false;
 
-            //°Ñ×Ô¼º´Ó¶¨Ê±Æ÷Á´±íÒÆ³ı
+            //æŠŠè‡ªå·±ä»å®šæ—¶å™¨é“¾è¡¨ç§»é™¤
             GameEntry.Time.RemoveTimeAction(this);
         }
 
         /// <summary>
-        /// Ã¿Ö¡Ö´ĞĞ
+        /// æ¯å¸§æ‰§è¡Œ
         /// </summary>
         public void OnUpdate()
         {
-            if (!IsRuning && Time.time > m_CurrRunTime + m_DelayTime)
+            if (m_IsPause) return;
+            
+            if (Time.time > m_CurrRunTime+m_PauseTime + m_DelayTime)
             {
-                //µ±³ÌĞòÖ´ĞĞµ½ÕâÀïµÄÊ±ºò ±íÊ¾ÒÑ¾­µÚÒ»´Î¹ıÁËÑÓ³ÙÊ±¼ä
+                GameEntry.LogError("å½“ç¨‹åºæ‰§è¡Œåˆ°è¿™é‡Œçš„æ—¶å€™ï¼Œè¡¨æ˜å·²ç»ç¬¬ä¸€æ¬¡è¿‡äº†å»¶è¿Ÿæ—¶é—´");
                 IsRuning = true;
                 m_CurrRunTime = Time.time;
-
+                m_PauseTime=0;
                 if (m_OnStar != null)
                 {
                     m_OnStar();
@@ -130,11 +158,11 @@ namespace YouYou
 
             if (!IsRuning) return;
 
-            if (Time.time > m_CurrRunTime)
+            if (Time.time > m_CurrRunTime + m_PauseTime)
             {
                 m_CurrRunTime = Time.time + m_Interval;
-
-                //ÒÔÏÂ´úÂë ¼ä¸ôm_Interval Ê±¼ä Ö´ĞĞÒ»´Î
+                m_PauseTime = 0;
+                //ä»¥ä¸‹ä»£ç  é—´éš”m_Interval æ—¶é—´ æ‰§è¡Œä¸€æ¬¡
                 if (m_OnUpdate != null)
                 {
                     m_OnUpdate(m_Loop - m_CurrLoop);

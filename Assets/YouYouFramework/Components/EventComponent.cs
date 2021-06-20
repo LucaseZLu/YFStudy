@@ -6,12 +6,12 @@ using UnityEngine;
 namespace YouYou
 {
     /// <summary>
-    /// ÊÂ¼þ×é¼þ
+    /// ï¿½Â¼ï¿½ï¿½ï¿½ï¿½
     /// </summary>
     public class EventComponent : YouYouBaseComponent
     {
         /// <summary>
-        /// ÊÂ¼þ¹ÜÀíÆ÷
+        /// ï¿½Â¼ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
         /// </summary>
         private EventManager m_EventManager;
 
@@ -29,12 +29,12 @@ namespace YouYou
         }
 
         /// <summary>
-        /// SocketÊÂ¼þ
+        /// Socketï¿½Â¼ï¿½
         /// </summary>
         public SocketEvent SocketEvent;
 
         /// <summary>
-        /// Í¨ÓÃÊÂ¼þ
+        /// Í¨ï¿½ï¿½ï¿½Â¼ï¿½
         /// </summary>
         public CommonEvent CommonEvent;
     }

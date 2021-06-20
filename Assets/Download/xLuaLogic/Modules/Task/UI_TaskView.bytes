@@ -31,4 +31,6 @@ end
 
 function UI_TaskView.OnBeforDestroy()
     UI_TaskCtrl.OnBeforDestroy();
+    this.LuaForm=nil;
+    this.txtTaskName=nil;
 end

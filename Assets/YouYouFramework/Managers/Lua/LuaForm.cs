@@ -168,33 +168,40 @@ namespace YouYou
             onClose = null;
             onBeforDestroy = null;
 
-            //卸载图片资源
             int len = m_LuaComs.Length;
             for (int i = 0; i < len; i++)
             {
                 LuaCom com = m_LuaComs[i];
-
-                switch (com.Type)
-                {
-                    case LuaComType.Button:
-                    case LuaComType.Image:
-                    case LuaComType.YouYouImage:
-                        {
-                            Image img = com.Trans.GetComponent<Image>();
-                            img.sprite = null;
-                        }
-                        break;
-                    case LuaComType.RawImage:
-                        {
-                            RawImage img = com.Trans.GetComponent<RawImage>();
-                            img.texture = null;
-                        }
-                        break;
-                }
-
                 com.Trans = null;
                 com = null;
             }
+            //卸载图片资源
+            // int len = m_LuaComs.Length;
+            // for (int i = 0; i < len; i++)
+            // {
+            //     LuaCom com = m_LuaComs[i];
+            //
+            //     switch (com.Type)
+            //     {
+            //         case LuaComType.Button:
+            //         case LuaComType.Image:
+            //         case LuaComType.YouYouImage:
+            //             {
+            //                 Image img = com.Trans.GetComponent<Image>();
+            //                 img.sprite = null;
+            //             }
+            //             break;
+            //         case LuaComType.RawImage:
+            //             {
+            //                 RawImage img = com.Trans.GetComponent<RawImage>();
+            //                 img.texture = null;
+            //             }
+            //             break;
+            //     }
+            //
+            //     com.Trans = null;
+            //     com = null;
+            // }
         }
     }
 

@@ -781,6 +781,12 @@ public class AssetBundleWindow : EditorWindow
 
             AssetImporter import = AssetImporter.GetAtPath(newPath);
 
+            if (import == null)
+            {
+                GameEntry.LogError($"不存在路径：{folderPath}");
+                return;
+            }
+            
             AssetEntity entity = new AssetEntity();
             entity.AssetFullName = newPath.Replace("\\", "/");
             entity.Category = AssetCategory.Scenes;
@@ -789,37 +795,46 @@ public class AssetBundleWindow : EditorWindow
         }
         else
         {
-            DirectoryInfo directory = new DirectoryInfo(folderPath);
-
-            //拿到文件夹下所有文件
-            FileInfo[] arrFiles = directory.GetFiles("*", SearchOption.AllDirectories);
-
-            for (int i = 0; i < arrFiles.Length; i++)
+            try
             {
-                FileInfo file = arrFiles[i];
-                if (file.Extension == ".meta")
+                DirectoryInfo directory = new DirectoryInfo(folderPath);
+                //拿到文件夹下所有文件
+                FileInfo[] arrFiles = directory.GetFiles("*", SearchOption.AllDirectories);
+
+                for (int i = 0; i < arrFiles.Length; i++)
                 {
-                    continue;
+                    FileInfo file = arrFiles[i];
+                    if (file.Extension == ".meta")
+                    {
+                        continue;
+                    }
+
+                    string filePath = file.FullName; //全名 包含路径扩展名
+
+                    //Debug.LogError("filePath=" + filePath);
+                    int index = filePath.IndexOf("Assets\\", StringComparison.CurrentCultureIgnoreCase);
+
+                    //路径
+                    string newPath = filePath.Substring(index);
+                    if (newPath.IndexOf(".idea") != -1) //过滤掉idea文件
+                    {
+                        continue;
+                    }
+
+                    AssetEntity entity = new AssetEntity();
+                    entity.AssetFullName = newPath.Replace("\\", "/");
+                    entity.Category = GetAssetCategory(newPath.Replace(file.Name, "")); //去掉文件名，只保留路径
+                    entity.AssetBundleName = GetAssetBundleName(newPath) + ".assetbundle";
+                    tempLst.Add(entity);
                 }
-
-                string filePath = file.FullName; //全名 包含路径扩展名
-
-                //Debug.LogError("filePath=" + filePath);
-                int index = filePath.IndexOf("Assets\\", StringComparison.CurrentCultureIgnoreCase);
-
-                //路径
-                string newPath = filePath.Substring(index);
-                if (newPath.IndexOf(".idea") != -1) //过滤掉idea文件
-                {
-                    continue;
-                }
-
-                AssetEntity entity = new AssetEntity();
-                entity.AssetFullName = newPath.Replace("\\", "/");
-                entity.Category = GetAssetCategory(newPath.Replace(file.Name, "")); //去掉文件名，只保留路径
-                entity.AssetBundleName = GetAssetBundleName(newPath) + ".assetbundle";
-                tempLst.Add(entity);
             }
+            catch (Exception e)
+            {
+                GameEntry.LogError(e.Message);
+            }
+            
+
+
         }
     }
     #endregion

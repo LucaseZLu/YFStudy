@@ -333,6 +333,11 @@ namespace YouYou
             });
         }
 
+        public void UnloadGameObject(GameObject gameObject)
+        {
+            GameEntry.Pool.ReleaseInstanceResource(gameObject.GetInstanceID());
+        }
+
         /// <summary>
         /// 更新
         /// </summary>

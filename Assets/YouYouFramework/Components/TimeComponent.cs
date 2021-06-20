@@ -63,5 +63,22 @@ namespace YouYou
         {
             m_TimeManager.Dispose();
         }
+
+        #region YieldCoroutine 等一帧
+
+        public void Yield(BaseAction onComplete)
+        {
+            StartCoroutine(YieldCoroutine(onComplete));
+        }
+
+        private IEnumerator YieldCoroutine(BaseAction onComplete)
+        {
+            yield return null;
+            if (onComplete != null)
+            {
+                onComplete();
+            }
+        }
+        #endregion
     }
 }

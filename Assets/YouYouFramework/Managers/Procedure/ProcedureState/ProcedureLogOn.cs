@@ -25,14 +25,15 @@ namespace YouYou
             });
         }
 
+        private GameObject m_RoleObj;
         private void LoadRole()
         {
             GameEntry.Resource.ResourceLoaderManager.LoadMainAsset(AssetCategory.RolePrefab, string.Format("Assets/Download/Role/RolePrefab/Player/Tianshan_001/Zy_tianshan_002_yxt/Zy_tianshan_002_yxt.prefab"), (ResourceEntity resourceEntity) =>
             {
                 Debug.LogError("加载角色完毕");
 
-                GameObject obj = Object.Instantiate(resourceEntity.Target as GameObject);
-                obj.transform.position = new Vector3(166.51f, 1.454f, 170.1f);
+                m_RoleObj = Object.Instantiate(resourceEntity.Target as GameObject);
+                m_RoleObj.transform.position = new Vector3(166.51f, 1.454f, 170.1f);
             });
         }
 
@@ -43,6 +44,11 @@ namespace YouYou
             if (Input.GetKeyUp(KeyCode.D))
             {
                 LoadRole();
+            }
+            if (Input.GetKeyUp(KeyCode.E))
+            {
+                Object.Destroy(m_RoleObj);
+                GameEntry.Resource.ResourceLoaderManager.UnloadGameObject(m_RoleObj);
             }
         }
 

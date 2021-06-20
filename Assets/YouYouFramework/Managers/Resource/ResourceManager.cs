@@ -226,8 +226,9 @@ namespace YouYou
                     InitVersionFileFormStreamingAssetsToLocal();
                 }
 
-                CheckVersionChange();
+                
             }
+            CheckVersionChange();
         }
 
         /// <summary>
@@ -270,7 +271,7 @@ namespace YouYou
 
             m_LocalAssetsVersionDic = LocalAssetsManager.GetAssetBundleVersionList(ref m_LocalAssetsVersion);
 
-            CheckVersionChange();
+            //CheckVersionChange();
         }
 
         /// <summary>

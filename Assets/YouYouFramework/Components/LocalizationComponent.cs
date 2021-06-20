@@ -8,17 +8,17 @@ namespace YouYou
     public enum YouYouLanguage
     {
         /// <summary>
-        /// ÖÐÎÄ
+        /// ï¿½ï¿½ï¿½ï¿½
         /// </summary>
         Chinese = 0,
         /// <summary>
-        /// Ó¢ÎÄ
+        /// Ó¢ï¿½ï¿½
         /// </summary>
         English = 1
     }
 
     /// <summary>
-    /// ±¾µØ»¯×é¼þ
+    /// ï¿½ï¿½ï¿½Ø»ï¿½ï¿½ï¿½ï¿½
     /// </summary>
     public class LocalizationComponent : YouYouBaseComponent
     {
@@ -27,7 +27,7 @@ namespace YouYou
 
         
         /// <summary>
-        /// µ±Ç°ÓïÑÔ£¨ÒªºÍ±¾µØ»¯±íµÄÓïÑÔ×Ö¶Î Ò»ÖÂ£©
+        /// ï¿½ï¿½Ç°ï¿½ï¿½ï¿½Ô£ï¿½Òªï¿½Í±ï¿½ï¿½Ø»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ö¶ï¿½ Ò»ï¿½Â£ï¿½
         /// </summary>
         public YouYouLanguage CurrLanguage
         {
@@ -50,7 +50,7 @@ namespace YouYou
         }
 
         /// <summary>
-        /// ³õÊ¼»¯
+        /// ï¿½ï¿½Ê¼ï¿½ï¿½
         /// </summary>
         private void Init()
         {
@@ -69,7 +69,7 @@ namespace YouYou
         }
 
         /// <summary>
-        /// »ñÈ¡±¾µØ»¯ÎÄ±¾ÄÚÈÝ
+        /// ï¿½ï¿½È¡ï¿½ï¿½ï¿½Ø»ï¿½ï¿½Ä±ï¿½ï¿½ï¿½ï¿½ï¿½
         /// </summary>
         /// <param name="key"></param>
         /// <param name="args"></param>

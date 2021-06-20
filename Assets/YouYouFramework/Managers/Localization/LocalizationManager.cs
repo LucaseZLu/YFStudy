@@ -7,7 +7,7 @@ namespace YouYou
     public class LocalizationManager : ManagerBase
     {
         /// <summary>
-        /// 获取本地化文本内容
+        /// 锟斤拷取锟斤拷锟截伙拷锟侥憋拷锟斤拷锟斤拷
         /// </summary>
         /// <param name="key"></param>
         /// <param name="args"></param>

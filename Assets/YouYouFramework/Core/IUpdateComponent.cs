@@ -5,17 +5,17 @@ using UnityEngine;
 namespace YouYou
 {
     /// <summary>
-    /// ¸üÐÂ×é¼þ½Ó¿Ú
+    /// ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ó¿ï¿½
     /// </summary>
     public interface IUpdateComponent
     {
         /// <summary>
-        /// ¸üÐÂ·½·¨
+        /// ï¿½ï¿½ï¿½Â·ï¿½ï¿½ï¿½
         /// </summary>
         void OnUpdate();
 
         /// <summary>
-        /// ÊµÀý±àºÅ
+        /// Êµï¿½ï¿½ï¿½ï¿½ï¿½
         /// </summary>
         int InstanceId { get; }
     }

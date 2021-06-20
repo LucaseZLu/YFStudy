@@ -270,6 +270,10 @@ namespace YouYou
 
         void Start()
         {
+            #if UNITY_EDITOR
+            Debug.Log("测试测试测试测试测试测试UNITY_EDITORUNITY_EDITORUNITY_EDITORUNITY_EDITORUNITY_EDITOR");
+            #endif
+           
             InitBaseComponents();
         }
 

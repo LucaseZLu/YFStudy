@@ -48,20 +48,20 @@ public class TestPool : MonoBehaviour
         for (int i = 0; i < 20; i++)
         {
             yield return new WaitForSeconds(0.5f);
-
-            GameEntry.Pool.GameObjectSpawn(1, trans1, (Transform instance) =>
-            {
-                instance.transform.localPosition += new Vector3(0, 0, i * 2);
-                instance.gameObject.SetActive(true);
-                StartCoroutine(Despawn(1, instance));
-            });
-
-            GameEntry.Pool.GameObjectSpawn(2, trans2, (Transform instance) =>
-            {
-                instance.transform.localPosition += new Vector3(0, 5, i * 2);
-                instance.gameObject.SetActive(true);
-                StartCoroutine(Despawn(2, instance));
-            });
+            //
+            // GameEntry.Pool.GameObjectSpawn(1, trans1, (Transform instance) =>
+            // {
+            //     instance.transform.localPosition += new Vector3(0, 0, i * 2);
+            //     instance.gameObject.SetActive(true);
+            //     StartCoroutine(Despawn(1, instance));
+            // });
+            //
+            // GameEntry.Pool.GameObjectSpawn(2, trans2, (Transform instance) =>
+            // {
+            //     instance.transform.localPosition += new Vector3(0, 5, i * 2);
+            //     instance.gameObject.SetActive(true);
+            //     StartCoroutine(Despawn(2, instance));
+            // });
         }
     }
 
