@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 546228895
+CRC: 2778955079
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 19bb06624d96566e20c625d550b0b9d9
+    Hash: 65b89009cff0c43b4b23a9a36d9d0891
   TypeTreeHash:
     serializedVersion: 2
     Hash: d6eea2cdb046ba7c7fe3f3886765843c
@@ -23,6 +23,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Player/Shaolin_001/Ride_shaolin_kongshou/Ride_shaolin_kongshou.FBX
 Dependencies:

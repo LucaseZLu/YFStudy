@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3954101053
+CRC: 293116606
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 573ff5835df60de9f731efd66aff424b
+    Hash: 2c7d0f9b01eeccf0d53d39bc78dc9c50
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,6 +15,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Player/Opening/Back/Materials/swordjump.mat
 - Assets/Download/Role/RoleSources/Character/Player/Opening/Back/Materials/swordjump.png

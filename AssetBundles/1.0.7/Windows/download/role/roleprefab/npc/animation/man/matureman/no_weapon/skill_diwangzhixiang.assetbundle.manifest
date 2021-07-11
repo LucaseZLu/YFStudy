@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 617894503
+CRC: 647888434
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d809aec26318cdb9af9b860cd9afab4c
+    Hash: 5f49184b6590eb5395c49e071f0e517c
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Man/MatureMan/No_Weapon/Skill_Diwangzhixiang.anim
 Dependencies: []

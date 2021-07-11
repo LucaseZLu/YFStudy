@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3964775501
+CRC: 1025180430
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c16b19699266e5c396b3beb6fee46449
+    Hash: 414b52cdcd1dbd048db98b3bdf01b417
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,8 +21,9 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Man/Fat/No_Weapon/Npc_001_baobutong_003.prefab
 Dependencies:
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/man/fat/no_weapon/npc_001_baobutong_001/npc_001_baobutong_001.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/man/fat/no_weapon/npc_001_baobutong_001/materials/npc_001_baobutong_003.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/man/fat/no_weapon/npc_001_baobutong_001/npc_001_baobutong_001.assetbundle

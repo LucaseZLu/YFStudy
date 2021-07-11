@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4044278936
+CRC: 2874726359
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2c9175b8c9458d04eb4d58f90c134dcb
+    Hash: 73e035b8aea9cadfd5e8f3607cce76d2
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Man/Strong/One_Sword/Knockback_02.anim
 Dependencies: []

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1147814453
+CRC: 1320478773
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3879dd840a2f8bf4d39ce1d777afa2cc
+    Hash: beb0acc8d3e39f99dd5616a5c7ef0336
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Animal/Tiger/Npc_001_shizi_002/Npc_001_shizi_002.FBX
 Dependencies:

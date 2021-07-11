@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3338092091
+CRC: 2105225652
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 34eff7f1ffd1372179e8d500d1311d08
+    Hash: d42178432312c4bb9efbaf667beac137
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Ride/Animation/Phenix/Stand.anim
 Dependencies: []

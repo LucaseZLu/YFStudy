@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 979240834
+CRC: 269969123
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ccb29e7654282b7b83df8690bb08ca54
+    Hash: c9485f4b1f2fae5dbfd6f4f3b2f77627
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Player/Animation/Dali_001/Marry.anim
 Dependencies: []

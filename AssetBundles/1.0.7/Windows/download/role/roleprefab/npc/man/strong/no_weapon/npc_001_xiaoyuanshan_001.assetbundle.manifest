@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3304967868
+CRC: 2670129867
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 11f225c9d918b3c0d4dae5ffcc9035ee
+    Hash: e8a0ea366dfba5ff2ffda59b504983d4
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,8 +21,9 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Man/Strong/No_Weapon/Npc_001_xiaoyuanshan_001.prefab
 Dependencies:
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/man/strong/no_weapon/npc_001_xiaoyuanshan_001/npc_001_xiaoyuanshan_001.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/man/strong/no_weapon/npc_001_xiaoyuanshan_001/materials/npc_001_xiaoyuanshan_001.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/man/strong/no_weapon/npc_001_xiaoyuanshan_001/npc_001_xiaoyuanshan_001.assetbundle

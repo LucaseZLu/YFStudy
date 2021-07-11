@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2528905929
+CRC: 2368053417
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7850d9b695d0f4e6fed672246e47de24
+    Hash: c915468a80dde3f7610935ba16103736
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Man/Fat/One_Sword/Hit.anim
 Dependencies: []

@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 921486418
+CRC: 3070398458
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e35cee3d169dc655e48ca228c34f79d9
+    Hash: ec774f510b6bcb7153268121c16e1191
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 6085826552be0a05d718b228f1a7279d
+    Hash: 795a27fc024bbc2b9fd08b3858de7a04
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -27,12 +27,13 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 199
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/RoleEffectPrefab/loli_zhurongzhang_001.prefab
 Dependencies:
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_604.assetbundle
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/light_006.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/model/qibo009.assetbundle
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_566.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_534.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_566.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_604.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_608.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/light_006.assetbundle

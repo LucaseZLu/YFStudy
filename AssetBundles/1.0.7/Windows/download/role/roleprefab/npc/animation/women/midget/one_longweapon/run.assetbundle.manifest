@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 759658052
+CRC: 3837822655
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 11cbe4c2a691f20d2e99866dd43a6151
+    Hash: aa54b1f7938482d453a51fb97b3efc7e
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Women/Midget/One_LongWeapon/Run.anim
 Dependencies: []

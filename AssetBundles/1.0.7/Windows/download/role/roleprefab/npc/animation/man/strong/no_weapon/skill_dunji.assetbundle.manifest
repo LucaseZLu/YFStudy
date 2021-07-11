@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 698079551
+CRC: 840032966
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e40efa826aaad55b2ecd1e48f3698161
+    Hash: e1b4d242795503f40b507452dd430f63
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Man/Strong/No_Weapon/Skill_Dunji.anim
 Dependencies: []

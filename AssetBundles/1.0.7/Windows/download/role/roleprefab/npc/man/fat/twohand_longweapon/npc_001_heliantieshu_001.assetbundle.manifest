@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3139957773
+CRC: 476522024
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ba90e8850e477752e56f5da8270b2e59
+    Hash: da7a8832d401d853d51bbf82907ad75e
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Man/Fat/TwoHand_LongWeapon/Npc_001_heliantieshu_001.prefab
 Dependencies:

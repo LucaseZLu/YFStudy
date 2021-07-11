@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1441576557
+CRC: 802640438
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: aedba5cbfce4b2204cbb79533989c006
+    Hash: f3906a31abdd72fd81635b2f0c865ccf
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 52a414f981dc5a178b0e58574e6cbefd
+    Hash: b07e95eec8d55770ffce51414c7b0714
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -21,11 +21,12 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 199
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/RoleEffectPrefab/buff_xiangwanghai_tiaobolijian.prefab
 Dependencies:
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/model/qibo006.assetbundle
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/light_006.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_085.assetbundle
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_342_01.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_306.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_342_01.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/light_006.assetbundle

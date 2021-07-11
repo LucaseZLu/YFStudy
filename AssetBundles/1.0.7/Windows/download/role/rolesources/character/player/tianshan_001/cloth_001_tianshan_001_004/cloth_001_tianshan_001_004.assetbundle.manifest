@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1793528178
+CRC: 3766620782
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 498d834e3de2fee668c8ddd695a03f4d
+    Hash: 8858effcd7f8ca041555fb1ac6bf5da8
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,8 +21,9 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Player/Tianshan_001/Cloth_001_tianshan_001_004/Cloth_001_tianshan_001_004.FBX
 Dependencies:
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/player/tianshan_001/cloth_001_tianshan_001_004/materials/hair_tianshan_004.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/player/tianshan_001/cloth_001_tianshan_001_004/materials/cloth_001_tianshan_001_004.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/player/tianshan_001/cloth_001_tianshan_001_004/materials/hair_tianshan_004.assetbundle

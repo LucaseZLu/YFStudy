@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1049056012
+CRC: 2239137391
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 471f097a75ccd7fbf95dc580418eef49
+    Hash: 61a4e32d5a580d25a7ec596a75488f53
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Man/Strong/No_Weapon/Grow_Right.anim
 Dependencies: []

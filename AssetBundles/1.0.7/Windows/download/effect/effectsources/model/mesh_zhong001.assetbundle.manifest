@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3358580585
+CRC: 105670568
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: fa461295eda067e70b64eb2fb5b4acb1
+    Hash: ed360f683df998883c64f702d94515cd
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 35b36f5babfbffec6f91a1d6c810571d
+    Hash: f64856a3d606b613608cbf22df470c60
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -23,6 +23,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/EffectSources/model/mesh_zhong001.FBX
 Dependencies: []

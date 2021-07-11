@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1503011159
+CRC: 2328479750
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2326fe8654711b01d982ad1fef625290
+    Hash: b22bda2ac01f3bae87698171656f124d
   TypeTreeHash:
     serializedVersion: 2
     Hash: d6eea2cdb046ba7c7fe3f3886765843c
@@ -23,6 +23,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Opening/Npc_004_daozei_001.prefab
 Dependencies:

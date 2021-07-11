@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2738286763
+CRC: 1611522016
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5bb9215852e08334a1d54cccd4a761f4
+    Hash: 690f555ef4a992f38d6df897699e041b
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Animal/Tiger/Npc_001_hu_001/Npc_001_hu_001.FBX
 Dependencies:

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3369723681
+CRC: 2744658327
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f4814b85a1a10f6e15a0a810e3a4d2a5
+    Hash: 21c20f553a91bb833d7962d2ead29dd4
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Player/Animation/Xiaoyao_001/Skill_Zhurongzhang_Loop.anim
 Dependencies: []

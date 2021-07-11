@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 768194803
+CRC: 2885836662
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6bb74b292e1fd9ac834e15d733bdb00b
+    Hash: 029750509fdf4fd3f393df5af5841413
   TypeTreeHash:
     serializedVersion: 2
     Hash: 45875108e441588ead174e12e00e97b4
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 21
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Player/Opening/Player/Materials/Sz_shaolin_xsz.mat
 Dependencies:

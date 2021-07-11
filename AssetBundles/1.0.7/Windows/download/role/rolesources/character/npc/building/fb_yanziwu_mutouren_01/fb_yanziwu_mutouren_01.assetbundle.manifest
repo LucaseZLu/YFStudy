@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3929360119
+CRC: 547526825
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: bc0be6e121691dbd06dd8fafc7437891
+    Hash: 2b32ee2554c43b214e8b7f7bbf0988c8
   TypeTreeHash:
     serializedVersion: 2
     Hash: d6eea2cdb046ba7c7fe3f3886765843c
@@ -23,6 +23,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Building/fb_yanziwu_mutouren_01/fb_yanziwu_mutouren_01.FBX
 Dependencies:

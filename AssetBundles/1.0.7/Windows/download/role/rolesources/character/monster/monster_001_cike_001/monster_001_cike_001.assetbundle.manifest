@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 549802254
+CRC: 3506776899
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 73e3624c75d424fe9a02979c5d0437f9
+    Hash: 98eb61157b7514339bbb34040e8dd2be
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Monster/Monster_001_cike_001/Monster_001_cike_001.FBX
 Dependencies:

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1053874021
+CRC: 1576965742
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f8ddd81afc0dc23a72e75c4e861614de
+    Hash: de1607a4fddea685497fa9644b64d685
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Woman/MatureFemale/One_Sword/Npc_001_azhu_001.prefab
 Dependencies:

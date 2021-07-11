@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3737679813
+CRC: 2715961815
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d45ae6ef9645810b3870a393d35e0733
+    Hash: 4ec18322eed1ead1835310102d138cde
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/No_Weapon/Npc_001_jiumozhi_001/Npc_001_jiumozhi_001.FBX
 Dependencies:

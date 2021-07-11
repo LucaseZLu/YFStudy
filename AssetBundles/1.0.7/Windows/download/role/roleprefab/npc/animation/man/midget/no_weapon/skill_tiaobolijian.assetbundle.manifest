@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 695243255
+CRC: 960258096
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a9039b98d8e9b7f19416c17a1487533e
+    Hash: 3ae8fa6bb0b06efbe8758cf2e90657aa
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Man/Midget/No_Weapon/Skill_Tiaobolijian.anim
 Dependencies: []

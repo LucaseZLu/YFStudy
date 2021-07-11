@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2221273431
+CRC: 3714477803
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0b50dc103255ced4969e6a76fdd26778
+    Hash: da0628e5d9e8e2ff46543a9ae7413c20
   TypeTreeHash:
     serializedVersion: 2
     Hash: d6eea2cdb046ba7c7fe3f3886765843c
@@ -23,6 +23,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Building/Npc_001_youshishuangxiong_001_dun.prefab
 Dependencies:

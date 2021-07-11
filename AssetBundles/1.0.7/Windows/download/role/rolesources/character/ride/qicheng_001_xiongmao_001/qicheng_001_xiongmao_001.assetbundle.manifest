@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1245292786
+CRC: 2169640088
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: bfb28970528f640891f49647804da334
+    Hash: b20c1c5fa972ba6df043b76c8a215f27
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Ride/Qicheng_001_xiongmao_001/Qicheng_001_xiongmao_001.FBX
 Dependencies:

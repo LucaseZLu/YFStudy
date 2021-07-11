@@ -1,16 +1,17 @@
 ManifestFileVersion: 0
-CRC: 468508105
+CRC: 115569708
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 75cc32c867b69f1df10f85edee9ff347
+    Hash: ea54db5a98779b6583814374c8a22463
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 525b72fdacf3aef7d65f355ad8f17a96
+    Hash: b0363f7088f9761414f730641bf9a24b
 HashAppended: 0
 ClassTypes:
 - Class: 28
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/EffectSources/texture/effect_huitianmiedi.png
 Dependencies: []

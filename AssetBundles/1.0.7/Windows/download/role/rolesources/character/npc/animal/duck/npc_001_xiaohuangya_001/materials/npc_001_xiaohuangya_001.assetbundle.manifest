@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3648391860
+CRC: 2722300675
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 31bab6b9379a7efcbb5531759ab66461
+    Hash: 5f58b8a9811ffe9345a5712dc1935ba8
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,6 +15,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Animal/Duck/Npc_001_xiaohuangya_001/Materials/Npc_001_xiaohuangya_001.mat
 - Assets/Download/Role/RoleSources/Character/Npc/Animal/Duck/Npc_001_xiaohuangya_001/Materials/Npc_001_xiaohuangya_001.jpg

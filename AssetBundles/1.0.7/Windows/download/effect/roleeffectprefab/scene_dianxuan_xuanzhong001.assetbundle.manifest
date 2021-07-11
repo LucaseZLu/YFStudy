@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3454475621
+CRC: 1864069503
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 44df94e44e9aa639bc915449f0f97130
+    Hash: bd739b44aa4f8d0a4052d5272541e956
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 568bf43fb5cf90f4195ed6f07073b9b6
+    Hash: 87d8350b46029255406d612579664277
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -19,6 +19,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 199
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/RoleEffectPrefab/scene_dianxuan_xuanzhong001.prefab
 Dependencies:

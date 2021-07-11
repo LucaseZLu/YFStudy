@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2059561140
+CRC: 827756091
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 71184fc46123fb0e045b23d8f4656fc9
+    Hash: 8e352fddadb4d9a1d5c3a66bd5518c7d
   TypeTreeHash:
     serializedVersion: 2
     Hash: d6eea2cdb046ba7c7fe3f3886765843c
@@ -23,6 +23,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Building/fb_zhandou_shibei/fb_zhandou_shibei.FBX
 Dependencies:

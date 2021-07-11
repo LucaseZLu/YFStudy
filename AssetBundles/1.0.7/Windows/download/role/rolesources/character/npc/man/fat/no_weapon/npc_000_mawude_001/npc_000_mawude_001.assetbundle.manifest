@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2382297157
+CRC: 3887278429
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 737eea9d73a0f60da4e592efc9ce346f
+    Hash: 80c9351338d7f1a890bc6bd07af75f9b
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/Fat/No_Weapon/Npc_000_mawude_001/Npc_000_mawude_001.FBX
 Dependencies:

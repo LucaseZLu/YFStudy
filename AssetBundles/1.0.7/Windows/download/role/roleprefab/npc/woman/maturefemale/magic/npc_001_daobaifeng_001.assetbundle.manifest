@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2337443031
+CRC: 2810315134
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4be99c6616ca3efca979dda1a724d7b4
+    Hash: a4d9aabad2d9bea7461b9e3f5caed619
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Woman/MatureFemale/Magic/Npc_001_daobaifeng_001.prefab
 Dependencies:

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4164845557
+CRC: 4237753283
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ab5f728aa6d27160e53bc6de4a9b46db
+    Hash: b1086ac216569cf5964bc649ad917370
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Player/Animation/Xiaoyao_001/Jump_01.anim
 Dependencies: []

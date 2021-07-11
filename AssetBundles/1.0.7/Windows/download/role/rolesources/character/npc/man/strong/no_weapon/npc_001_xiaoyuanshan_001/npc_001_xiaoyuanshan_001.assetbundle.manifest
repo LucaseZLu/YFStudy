@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 279448242
+CRC: 2799873007
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d0ab0aa14f93649e727e315f4bd7cd99
+    Hash: b65f73c4df78995dc6280e0f0653fccf
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/Strong/No_Weapon/Npc_001_xiaoyuanshan_001/Npc_001_xiaoyuanshan_001.FBX
 Dependencies:

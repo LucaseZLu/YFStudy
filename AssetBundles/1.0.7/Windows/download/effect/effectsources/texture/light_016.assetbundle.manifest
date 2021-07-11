@@ -1,16 +1,17 @@
 ManifestFileVersion: 0
-CRC: 1783906611
+CRC: 2645178831
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: eef5c184498160c4e2f3262fdb887d5c
+    Hash: 6c0da02ac2b9c9b1d822a991d82bdd67
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 525b72fdacf3aef7d65f355ad8f17a96
+    Hash: b0363f7088f9761414f730641bf9a24b
 HashAppended: 0
 ClassTypes:
 - Class: 28
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/EffectSources/texture/light_016.tga
 Dependencies: []

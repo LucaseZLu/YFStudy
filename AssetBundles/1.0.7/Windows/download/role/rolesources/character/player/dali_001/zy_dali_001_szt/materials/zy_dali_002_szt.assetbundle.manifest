@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 4178813515
+CRC: 2682901052
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 525d80e04cf7c952f75bdd642fbc9f5f
+    Hash: 4aa274ea7363d6181cf9dd59f4ebcace
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,6 +15,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Player/Dali_001/Zy_dali_001_szt/Materials/Zy_dali_002_szt.tga
 - Assets/Download/Role/RoleSources/Character/Player/Dali_001/Zy_dali_001_szt/Materials/Zy_dali_002_szt.mat

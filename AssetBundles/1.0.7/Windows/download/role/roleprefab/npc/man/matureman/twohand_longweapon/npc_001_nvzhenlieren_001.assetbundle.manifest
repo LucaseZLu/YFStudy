@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1701139713
+CRC: 1775258372
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3cccf67bafe75579dcdbbfc3adfbd45a
+    Hash: 3b8639210d75fad20dbd141c08f8ef8e
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Man/MatureMan/Twohand_LongWeapon/Npc_001_nvzhenlieren_001.prefab
 Dependencies:

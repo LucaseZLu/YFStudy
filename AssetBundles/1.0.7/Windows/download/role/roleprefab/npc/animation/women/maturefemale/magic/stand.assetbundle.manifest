@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2360665593
+CRC: 26300815
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: de36982e2fc0d308f2c0227418821d4f
+    Hash: 92f32af721d345e9cb83ed714d3f3610
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Women/MatureFemale/Magic/Stand.anim
 Dependencies: []

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2876575308
+CRC: 4241417974
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 95a7994c2b3f0fa7c5ae6d2f87ebc281
+    Hash: e77d56e465fa01af518b3e73b4d37bcc
   TypeTreeHash:
     serializedVersion: 2
     Hash: d6eea2cdb046ba7c7fe3f3886765843c
@@ -23,8 +23,9 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Building/fb_zhandou_shibei.prefab
 Dependencies:
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/building/fb_zhandou_shibei/materials/fb_zhandou_shibei.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/building/fb_zhandou_shibei/fb_zhandou_shibei.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/building/fb_zhandou_shibei/materials/fb_zhandou_shibei.assetbundle

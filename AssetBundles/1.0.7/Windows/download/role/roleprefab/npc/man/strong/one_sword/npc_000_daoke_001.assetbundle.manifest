@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 164745623
+CRC: 1157271650
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9eaeb2bc0f8a8a67b927b0270a8cbee5
+    Hash: 329582e18edc62670f167d3bc6288318
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Man/Strong/One_Sword/Npc_000_daoke_001.prefab
 Dependencies:

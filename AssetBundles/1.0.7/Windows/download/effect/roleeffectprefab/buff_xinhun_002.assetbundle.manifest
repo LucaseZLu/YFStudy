@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3711733618
+CRC: 4204484570
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: edeb8d7a4feaa8be9e96c52d65015fa2
+    Hash: 0920d808e58f2836f2546795bc91a4ce
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 52a414f981dc5a178b0e58574e6cbefd
+    Hash: b07e95eec8d55770ffce51414c7b0714
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -21,9 +21,10 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 199
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/RoleEffectPrefab/buff_xinhun_002.prefab
 Dependencies:
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_173.assetbundle
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_577.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_315_01.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_577.assetbundle

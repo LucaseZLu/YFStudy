@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 350972854
+CRC: 2655993934
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0b1508cfc5aa141787f677b9a20fb72f
+    Hash: 52abdff647863f8a0d4da3b098181de5
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Man/MatureMan/No_Weapon/Npc_001_youtanzhi_001.prefab
 Dependencies:

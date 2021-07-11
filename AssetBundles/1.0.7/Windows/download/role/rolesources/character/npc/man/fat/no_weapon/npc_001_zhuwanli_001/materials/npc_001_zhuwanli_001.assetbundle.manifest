@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3007801466
+CRC: 1479839027
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f035602f80f7d27ac9948b516ee265f7
+    Hash: 2ea1821aa56951c5f2fb2cd1c9bc34c9
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,6 +15,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/Fat/No_Weapon/Npc_001_zhuwanli_001/Materials/Npc_001_zhuwanli_001.tga
 - Assets/Download/Role/RoleSources/Character/Npc/Man/Fat/No_Weapon/Npc_001_zhuwanli_001/Materials/Npc_001_zhuwanli_001.mat

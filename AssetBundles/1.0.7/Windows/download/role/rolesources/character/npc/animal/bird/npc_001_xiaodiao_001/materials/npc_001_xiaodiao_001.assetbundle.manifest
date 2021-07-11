@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 792302751
+CRC: 2310608539
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9471c3687c2fde6afc682555a2a803a4
+    Hash: e89a99d73017bf4f68ecc0dc51d8d877
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,6 +15,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Animal/Bird/Npc_001_xiaodiao_001/Materials/Npc_001_xiaodiao_001.mat
 - Assets/Download/Role/RoleSources/Character/Npc/Animal/Bird/Npc_001_xiaodiao_001/Materials/Npc_001_xiaodiao_001.tga

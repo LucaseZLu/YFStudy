@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2161814882
+CRC: 3793680083
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ef88f644eefcb97faf10b09985231e3d
+    Hash: 99c99aa017c2706dce88f9952d64a269
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Man/MatureMan/Broadsword/Npc_001_qinjiasailuoluo_001.prefab
 Dependencies:

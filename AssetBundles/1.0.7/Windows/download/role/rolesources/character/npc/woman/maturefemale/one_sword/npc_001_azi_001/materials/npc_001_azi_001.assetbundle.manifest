@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2778493555
+CRC: 4105007192
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9a37713a649c90643fef154d406a8857
+    Hash: 50e197f9a98692a08b5f7f9bb76e6932
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,7 +15,8 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Download/Role/RoleSources/Character/Npc/Woman/MatureFemale/One_Sword/Npc_001_azi_001/Materials/Npc_001_azi_001.mat
 - Assets/Download/Role/RoleSources/Character/Npc/Woman/MatureFemale/One_Sword/Npc_001_azi_001/Materials/Npc_001_azi_001.tga
+- Assets/Download/Role/RoleSources/Character/Npc/Woman/MatureFemale/One_Sword/Npc_001_azi_001/Materials/Npc_001_azi_001.mat
 Dependencies: []

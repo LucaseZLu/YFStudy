@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3796367158
+CRC: 3748506999
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2bc8d9f40f31c8d91b511694628e704a
+    Hash: defd7ec4cb9b97464c3c12e49de97165
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/Strong/One_Sword/Npc_001_liaobing_001/Npc_001_liaobing_001.FBX
 Dependencies:

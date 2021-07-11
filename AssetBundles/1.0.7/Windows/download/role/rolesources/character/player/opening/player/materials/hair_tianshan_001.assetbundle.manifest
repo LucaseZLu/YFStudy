@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3088011524
+CRC: 2912119686
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 36fc10ae44972eab383fa4dc1116da75
+    Hash: 80c46348ca2050975e9f19894fc34787
   TypeTreeHash:
     serializedVersion: 2
     Hash: 45875108e441588ead174e12e00e97b4
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 21
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Player/Opening/Player/Materials/Hair_tianshan_001.mat
 Dependencies:

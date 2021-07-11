@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3527402721
+CRC: 2147431923
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 637734ca2807a96f9d28ff9907c7dd08
+    Hash: 3d9cd568945b7ee75ded849fc3e92267
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Women/MatureFemale/TwoHand_LongWeapon/Hit.anim
 Dependencies: []

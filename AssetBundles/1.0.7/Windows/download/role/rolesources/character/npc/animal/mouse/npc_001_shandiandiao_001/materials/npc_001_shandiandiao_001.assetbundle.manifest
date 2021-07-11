@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2250844011
+CRC: 229162522
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8910f13ee2185aa1d2434172118af90c
+    Hash: ae504539f119e87b1d0d6ee4d7060303
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,7 +15,8 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Download/Role/RoleSources/Character/Npc/Animal/Mouse/Npc_001_shandiandiao_001/Materials/Npc_001_shandiandiao_001.jpg
 - Assets/Download/Role/RoleSources/Character/Npc/Animal/Mouse/Npc_001_shandiandiao_001/Materials/Npc_001_shandiandiao_001.mat
+- Assets/Download/Role/RoleSources/Character/Npc/Animal/Mouse/Npc_001_shandiandiao_001/Materials/Npc_001_shandiandiao_001.jpg
 Dependencies: []

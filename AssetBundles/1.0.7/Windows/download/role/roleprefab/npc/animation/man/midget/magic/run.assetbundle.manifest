@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 578548920
+CRC: 1960044734
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b79546a919dadf4e09fe77a89bd41581
+    Hash: 33536103568d2ee0589385f9c6912a9f
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Man/Midget/Magic/Run.anim
 Dependencies: []

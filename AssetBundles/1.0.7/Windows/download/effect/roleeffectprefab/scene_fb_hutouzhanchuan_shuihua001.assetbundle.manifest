@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 155770136
+CRC: 43052103
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4804ef2f6a5261a953c581358a352935
+    Hash: e5f2de9f9dc6390ac4c4ed721a836208
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 568bf43fb5cf90f4195ed6f07073b9b6
+    Hash: 87d8350b46029255406d612579664277
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -19,6 +19,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 199
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/RoleEffectPrefab/scene_fb_hutouzhanchuan_shuihua001.prefab
 Dependencies:

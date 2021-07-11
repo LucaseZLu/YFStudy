@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1925867400
+CRC: 2108086115
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 886b24a857049e678b8985a749b3b92a
+    Hash: 8ad6bf03a04f36c0676d9de2e09875ed
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Man/Midget/Skill/Skill_Tianzhufozhi.anim
 Dependencies: []

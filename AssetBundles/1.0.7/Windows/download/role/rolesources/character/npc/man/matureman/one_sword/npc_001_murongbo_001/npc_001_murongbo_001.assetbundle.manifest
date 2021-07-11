@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3667278006
+CRC: 2985361508
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 766d9b7606ff4285d09c08654a482368
+    Hash: 127c1291a510784d1405c3bbe5b765e1
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/One_Sword/Npc_001_murongbo_001/Npc_001_murongbo_001.FBX
 Dependencies:

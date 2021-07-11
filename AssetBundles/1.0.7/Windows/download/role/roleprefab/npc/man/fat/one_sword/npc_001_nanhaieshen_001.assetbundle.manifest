@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1946770117
+CRC: 3259825713
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: dd2911d87a930b4666d61f7257383aef
+    Hash: 6874a2ffbc07d8eab030871e3f9a76fe
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Man/Fat/One_Sword/Npc_001_nanhaieshen_001.prefab
 Dependencies:

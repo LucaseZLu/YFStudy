@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3625522130
+CRC: 4062911404
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a8bed1967d32f25900ccc68ecf759a72
+    Hash: 115bccb5fe871d1ffbd113e335d5f073
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Player/Animation/Tianshan_001/Dash.anim
 Dependencies: []

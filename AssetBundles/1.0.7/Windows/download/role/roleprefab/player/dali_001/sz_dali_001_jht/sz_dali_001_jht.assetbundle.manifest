@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3045378030
+CRC: 112545697
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 33770d6def028116373c595f71414056
+    Hash: 59f4c01b06fb97e17e127a468cf12fef
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Player/Dali_001/Sz_dali_001_jht/Sz_dali_001_jht.prefab
 Dependencies:

@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 444301379
+CRC: 3472728171
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: cfef4a1b7bb8abc5e59b4c33936e4043
+    Hash: b7b59713981ae9b0e676289107144b33
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,6 +15,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/No_Weapon/Npc_002_daozei_001/Materials/Npc_001_daozei_001.mat
 - Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/No_Weapon/Npc_002_daozei_001/Materials/Npc_001_daozei_001.tga

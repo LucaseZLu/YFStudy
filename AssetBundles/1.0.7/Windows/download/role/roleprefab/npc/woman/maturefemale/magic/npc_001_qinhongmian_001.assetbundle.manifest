@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3270265810
+CRC: 1433042518
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 776cc1aeaea39c305a17d3defd8120ad
+    Hash: bfa688988130a8ce83a76848fbb370ab
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Woman/MatureFemale/Magic/Npc_001_qinhongmian_001.prefab
 Dependencies:

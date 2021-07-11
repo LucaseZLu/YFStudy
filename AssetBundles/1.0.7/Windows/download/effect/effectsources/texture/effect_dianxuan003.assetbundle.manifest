@@ -1,16 +1,17 @@
 ManifestFileVersion: 0
-CRC: 682911613
+CRC: 2234086874
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 66131c9a471aa908cdd08a63034636e0
+    Hash: 5f33ed476e26583985e13c2d7b0f869a
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 525b72fdacf3aef7d65f355ad8f17a96
+    Hash: b0363f7088f9761414f730641bf9a24b
 HashAppended: 0
 ClassTypes:
 - Class: 28
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/EffectSources/texture/effect_dianxuan003.tga
 Dependencies: []

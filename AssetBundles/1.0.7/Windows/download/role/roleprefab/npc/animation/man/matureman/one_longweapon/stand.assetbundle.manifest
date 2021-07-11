@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3451440260
+CRC: 3252381491
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: dc96287d6177cd8fe09a32b89e747b27
+    Hash: ee3972813a170f42f6f5b12d7d449c0a
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Man/MatureMan/One_LongWeapon/Stand.anim
 Dependencies: []

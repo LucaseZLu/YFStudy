@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1817189875
+CRC: 3421174997
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b504fc7750b05213f183f855895778ff
+    Hash: fd9fb9aa3e0bd8690f198156c85106c2
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animal/Duck/Npc_001_xiaohuangya_001.prefab
 Dependencies:

@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 684600678
+CRC: 381979767
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3d4b8ecd0160e29bb229ee29452e8807
+    Hash: 6f34afa5bbd21845af1a9ff11b4b7d80
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 568bf43fb5cf90f4195ed6f07073b9b6
+    Hash: 87d8350b46029255406d612579664277
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -19,8 +19,9 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 199
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/RoleEffectPrefab/baoshi_zhuangbei01_003.prefab
 Dependencies:
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/light_001_02.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_315_01.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/light_001_02.assetbundle

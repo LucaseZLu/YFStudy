@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2442003307
+CRC: 1947213488
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8d096262f71c207e1f9e1dd641f327d9
+    Hash: 470dec14115c6d2074865d9bbafffce0
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 52a414f981dc5a178b0e58574e6cbefd
+    Hash: b07e95eec8d55770ffce51414c7b0714
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 199
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/RoleEffectPrefab/ui_baoji_001.prefab
 Dependencies:

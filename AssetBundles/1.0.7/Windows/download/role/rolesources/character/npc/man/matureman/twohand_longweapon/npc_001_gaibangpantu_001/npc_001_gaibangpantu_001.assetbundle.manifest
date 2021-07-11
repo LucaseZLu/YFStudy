@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3036254521
+CRC: 2892323025
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ad43f7d07513a60d5fb67fe2c400cc68
+    Hash: 719e62a3c16071b9c8a77d21975e9ccd
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/Twohand_LongWeapon/Npc_001_gaibangpantu_001/Npc_001_gaibangpantu_001.FBX
 Dependencies:

@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 791052482
+CRC: 2459629966
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: dbfad7334ab59cb49488815402fb87e0
+    Hash: 608b43afdeffb73daf7f38afee41917d
   TypeTreeHash:
     serializedVersion: 2
-    Hash: d5efa9d08a5f6adb1210385a4e6e0ffe
+    Hash: 74518316b1cf81a4b44a87bfe14cf860
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -23,12 +23,13 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 199
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/RoleEffectPrefab/dh_tianshan.prefab
 Dependencies:
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/model/qibo006.assetbundle
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_dh_tianshan002.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_bahuangliuhe.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_dh_shalin003.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_dh_shalin005.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_dh_tianshan001.assetbundle
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_dh_shalin003.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_dh_tianshan002.assetbundle

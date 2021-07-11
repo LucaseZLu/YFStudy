@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3978080478
+CRC: 1655397081
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c77f71d98ac472ea6ce39b5ed56c7595
+    Hash: 8a1acc5db5347c1df72edd53b2b96b31
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Woman/MatureFemale/One_Sword/Npc_001_liqiushui_001.prefab
 Dependencies:

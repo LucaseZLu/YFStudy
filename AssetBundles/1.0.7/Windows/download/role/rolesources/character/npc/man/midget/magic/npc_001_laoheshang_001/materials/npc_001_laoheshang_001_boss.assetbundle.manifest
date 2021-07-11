@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1854279976
+CRC: 3282192301
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f57cbdff8fde918a36771634656807c5
+    Hash: 93a2b8452a55f6bd864f463bff825b3d
   TypeTreeHash:
     serializedVersion: 2
     Hash: 45875108e441588ead174e12e00e97b4
@@ -11,8 +11,9 @@ HashAppended: 0
 ClassTypes:
 - Class: 21
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/Midget/Magic/Npc_001_laoheshang_001/Materials/Npc_001_laoheshang_001_boss.mat
 Dependencies:
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/man/midget/magic/npc_001_laoheshang_001/materials/npc_001_laoheshang_001.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/effect_wufeng001.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/man/midget/magic/npc_001_laoheshang_001/materials/npc_001_laoheshang_001.assetbundle

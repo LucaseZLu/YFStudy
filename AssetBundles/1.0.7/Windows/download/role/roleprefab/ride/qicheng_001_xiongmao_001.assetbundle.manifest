@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2456761689
+CRC: 1868243181
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9aaddb5363e15af91447c8e07d57d629
+    Hash: 14832b7d0cc2607c0409f5cd7f739fea
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Ride/Qicheng_001_xiongmao_001.prefab
 Dependencies:

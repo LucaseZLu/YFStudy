@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2343370768
+CRC: 613393550
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2c2a3b0c149ef0f49bd27e85b60f1ee9
+    Hash: afc2691569d9ba00f73762683eb0d66b
   TypeTreeHash:
     serializedVersion: 2
     Hash: 45875108e441588ead174e12e00e97b4
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 21
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/EffectSources/texture/mateials/effect_shuyepiaoluo001.mat
 Dependencies:

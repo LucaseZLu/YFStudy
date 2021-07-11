@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 741527258
+CRC: 3622339561
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1e078eedbd1d8e92d3a96183a121ebe1
+    Hash: b126fd928d7b2effe1ff56eb8fbeb11b
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Player/Animation/Xiaoyao_001/Skill_Beimingshengong_End.anim
 Dependencies: []

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1401682291
+CRC: 2062905105
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2ccf0c1f7bb1a0534b45115dc42849f4
+    Hash: cf98203eb3e9217a29d747797a80e8ab
   TypeTreeHash:
     serializedVersion: 2
     Hash: d6eea2cdb046ba7c7fe3f3886765843c
@@ -23,6 +23,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Player/Opening/Player/dali.FBX
 Dependencies:

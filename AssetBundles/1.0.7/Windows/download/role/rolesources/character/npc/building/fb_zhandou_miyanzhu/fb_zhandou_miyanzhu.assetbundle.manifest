@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1831575391
+CRC: 731210323
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ca2d8a04ea432e25d955ab098deebba9
+    Hash: cca65063b0a3ba3cf9f10ab37bcfe4ee
   TypeTreeHash:
     serializedVersion: 2
     Hash: d6eea2cdb046ba7c7fe3f3886765843c
@@ -23,6 +23,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Building/fb_zhandou_miyanzhu/fb_zhandou_miyanzhu.FBX
 Dependencies:

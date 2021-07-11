@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3220609473
+CRC: 3462984774
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: bb661745956d49b97b8f1c38923435ac
+    Hash: d55eba3726dc6f0631dbc324f15ccf8a
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,8 +21,9 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Player/Dali_001/Sz_dali_001_zshf/Sz_dali_001_zshf.prefab
 Dependencies:
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/player/dali_001/sz_dali_001_zshf/sz_dali_001_zshf.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/player/dali_001/sz_dali_001_zshf/materials/sz_dali_001_zshf.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/player/dali_001/sz_dali_001_zshf/sz_dali_001_zshf.assetbundle

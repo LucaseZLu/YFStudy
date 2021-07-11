@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 939859588
+CRC: 2991957775
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a080b00f1c10394c202cf7b23cf3a3fe
+    Hash: 6e0b7e29e70a32136703ae53293200fe
   TypeTreeHash:
     serializedVersion: 2
-    Hash: d5efa9d08a5f6adb1210385a4e6e0ffe
+    Hash: 74518316b1cf81a4b44a87bfe14cf860
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -23,12 +23,13 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 199
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/RoleEffectPrefab/dh_xiaoyao.prefab
 Dependencies:
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/model/qibo006.assetbundle
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_dh_tianshan002.assetbundle
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_huitianmiedi.assetbundle
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_dh_shalin005.assetbundle
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_dh_xiaoyao001.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_dh_shalin003.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_dh_shalin005.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_dh_tianshan002.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_dh_xiaoyao001.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_huitianmiedi.assetbundle

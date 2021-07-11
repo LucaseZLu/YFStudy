@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1353831385
+CRC: 786659711
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b324c71bd9aa32543e8b3405cc3ca620
+    Hash: eb6e89186555cddd9adc895179403711
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Player/Xiaoyao_001/Sz_xiaoyao_001_tst/Sz_xiaoyao_001_tst.FBX
 Dependencies:

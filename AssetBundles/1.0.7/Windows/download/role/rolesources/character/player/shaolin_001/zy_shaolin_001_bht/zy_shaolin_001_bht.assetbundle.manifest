@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1379891234
+CRC: 3841417689
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: cd94096a9ef535b2a97b6ee265f90e25
+    Hash: 25ac63b57b2b0cdf74e72b35078135a7
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Player/Shaolin_001/Zy_shaolin_001_bht/Zy_shaolin_001_bht.FBX
 Dependencies:

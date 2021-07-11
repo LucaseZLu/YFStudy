@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4056654933
+CRC: 613060328
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 21da7bb49c8a0fae9b3a22d7c3fb6018
+    Hash: 5e009ce72eee56ab3025a7a3c6c9a281
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8542ed9d93673e256be30bb0523839d9
@@ -23,6 +23,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 111
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Building/Npc_001_jiutan_001.prefab
 Dependencies:

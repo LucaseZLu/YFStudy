@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 374015599
+CRC: 2585090473
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f90d6fb2f0b44f49ad87dd0bd60d9252
+    Hash: 6cac44f8c62d5e85bf31f58b3e6b804e
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Man/MatureMan/No_Weapon/Skill_Dahaiwuliang.anim
 Dependencies: []

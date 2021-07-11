@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3108146917
+CRC: 554786533
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d116c5c320bd45bb72139a70d2e60d57
+    Hash: a486e2ec3792d51e117f68f4ccad36e8
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Player/Animation/Shaolin_001/Skill_ShiHouGong.anim
 Dependencies: []

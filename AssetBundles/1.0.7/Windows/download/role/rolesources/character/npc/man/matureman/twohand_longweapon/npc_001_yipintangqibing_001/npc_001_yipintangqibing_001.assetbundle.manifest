@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3351491008
+CRC: 2260187371
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: aeecac017c1a66fbf2769da056c939bd
+    Hash: a82b495360f3d234eda2de46414218b3
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/Twohand_LongWeapon/Npc_001_yipintangqibing_001/Npc_001_yipintangqibing_001.FBX
 Dependencies:

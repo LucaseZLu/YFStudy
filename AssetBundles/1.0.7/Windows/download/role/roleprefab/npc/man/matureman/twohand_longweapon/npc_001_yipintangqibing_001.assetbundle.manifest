@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1376997196
+CRC: 3977821338
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2ab1a3df1199bdc716b823cb1fdd85b3
+    Hash: 3fece05be7a83dc88f1d3ecc856721d7
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,8 +21,9 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Man/MatureMan/Twohand_LongWeapon/Npc_001_yipintangqibing_001.prefab
 Dependencies:
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/man/matureman/twohand_longweapon/npc_001_yipintangqibing_001/npc_001_yipintangqibing_001.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/man/matureman/twohand_longweapon/npc_001_yipintangqibing_001/materials/npc_001_yipintangqibing_001.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/man/matureman/twohand_longweapon/npc_001_yipintangqibing_001/npc_001_yipintangqibing_001.assetbundle

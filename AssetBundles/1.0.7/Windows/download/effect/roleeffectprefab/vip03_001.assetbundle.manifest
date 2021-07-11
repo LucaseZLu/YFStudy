@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 543905470
+CRC: 1222263936
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 52c62dc49066b3a4051cdb3fb89a7679
+    Hash: 4525e6a58664d4c90c30a6020d89850c
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 52a414f981dc5a178b0e58574e6cbefd
+    Hash: b07e95eec8d55770ffce51414c7b0714
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 199
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/RoleEffectPrefab/vip03_001.prefab
 Dependencies:

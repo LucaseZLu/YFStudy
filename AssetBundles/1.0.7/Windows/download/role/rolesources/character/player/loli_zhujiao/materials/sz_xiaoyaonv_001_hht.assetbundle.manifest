@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3100635104
+CRC: 2058338474
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 26569cb7d2a6b6f6ca69fa970877ce58
+    Hash: e2333f13c594119744c5885e50b6a2d5
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,8 +15,9 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Download/Role/RoleSources/Character/Player/Loli_zhujiao/Materials/Sz_xiaoyaonv_001_hht.mat
 - Assets/Download/Role/RoleSources/Character/Player/Loli_zhujiao/Materials/Sz_xiaoyaonv_001_hht.tga
+- Assets/Download/Role/RoleSources/Character/Player/Loli_zhujiao/Materials/Sz_xiaoyaonv_001_hht.mat
 Dependencies:
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/player/xiaoyao_001/cloth_001_xiaoyao_001_004/materials/cloth_001_xiaoyao_001_004.assetbundle

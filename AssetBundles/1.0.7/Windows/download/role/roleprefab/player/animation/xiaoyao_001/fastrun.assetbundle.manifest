@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2608908653
+CRC: 303363931
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 645e3557cf16a81a000aad78cb575fc5
+    Hash: f514f146d875725cfc6b6308247ab4d4
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Player/Animation/Xiaoyao_001/Fastrun.anim
 Dependencies: []

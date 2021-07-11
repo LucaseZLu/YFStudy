@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 520290118
+CRC: 865213757
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b12ae41f037491e41fc737256b033a05
+    Hash: 66c21d06308c0882d5cd40d7df991d15
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,8 +21,9 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Man/Special/Npc_001_xiaoxueren_001.prefab
 Dependencies:
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/man/special/npc_001_xiaoxueren_001/npc_001_xiaoxueren_001.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/man/special/npc_001_xiaoxueren_001/materials/npc_001_xiaoxueren_001.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/man/special/npc_001_xiaoxueren_001/npc_001_xiaoxueren_001.assetbundle

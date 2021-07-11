@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3529459238
+CRC: 1765490619
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3fbb4b955df38f9844924dd7029d2eb8
+    Hash: a02b0800158a2b3af9449123e48c235e
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Man/Midget/Magic/Npc_001_laoheshang_001.prefab
 Dependencies:

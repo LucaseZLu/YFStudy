@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3910237356
+CRC: 3913962941
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2096e986bae719c67108fe0991da3b70
+    Hash: 2a2ed1073e807c056d9de907352cade7
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Man/MatureMan/Twohand_LongWeapon/Npc_001_songbing_001.prefab
 Dependencies:

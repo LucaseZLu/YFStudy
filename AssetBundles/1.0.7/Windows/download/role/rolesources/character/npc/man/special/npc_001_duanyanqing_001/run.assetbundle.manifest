@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4160801934
+CRC: 3628438519
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f20323cf83cd46ef5376c3d7bafc4651
+    Hash: 0a278f6934d6a69247af8477373a9bbf
   TypeTreeHash:
     serializedVersion: 2
     Hash: d6eea2cdb046ba7c7fe3f3886765843c
@@ -23,6 +23,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/Special/Npc_001_duanyanqing_001/run.FBX
 Dependencies:

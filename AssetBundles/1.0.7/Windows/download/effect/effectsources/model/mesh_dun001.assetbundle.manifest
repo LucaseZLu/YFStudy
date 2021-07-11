@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1496132250
+CRC: 2321621339
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b584552bcf0318010b059188576040a1
+    Hash: e27f8ed92c0fb950950067351a3a22eb
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 35b36f5babfbffec6f91a1d6c810571d
+    Hash: f64856a3d606b613608cbf22df470c60
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -23,6 +23,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/EffectSources/model/mesh_dun001.FBX
 Dependencies: []

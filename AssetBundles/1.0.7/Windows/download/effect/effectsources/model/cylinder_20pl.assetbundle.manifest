@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 206461811
+CRC: 214174874
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ee795bbc26b989ef7064689b982e59d8
+    Hash: d75a7a1e7c475685e826d16a0eb31acd
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 35b36f5babfbffec6f91a1d6c810571d
+    Hash: f64856a3d606b613608cbf22df470c60
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -23,6 +23,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/EffectSources/model/cylinder_20pl.fbx
 Dependencies: []

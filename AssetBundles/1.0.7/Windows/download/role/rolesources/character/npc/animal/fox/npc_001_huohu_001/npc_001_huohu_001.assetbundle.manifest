@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3441697242
+CRC: 2971405406
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: bdedd58e7179b3a55cef0750769a18a3
+    Hash: f124657d073414d295e6518bf6f4ba65
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Animal/Fox/Npc_001_huohu_001/Npc_001_huohu_001.FBX
 Dependencies:

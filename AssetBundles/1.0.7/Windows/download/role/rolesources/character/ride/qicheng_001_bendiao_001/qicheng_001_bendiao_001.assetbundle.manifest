@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3209106457
+CRC: 1140964082
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 62d7b00da1cded80906ebbec994862fe
+    Hash: 8a5426d67d60151a7e270da506dd6284
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Ride/Qicheng_001_bendiao_001/Qicheng_001_bendiao_001.FBX
 Dependencies:

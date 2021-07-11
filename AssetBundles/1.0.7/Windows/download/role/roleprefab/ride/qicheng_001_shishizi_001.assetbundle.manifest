@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2656570819
+CRC: 3861381031
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 757f477bf21bd92e24a96def6f10d9f7
+    Hash: df64ba53da9d683c94ab89710ff659e2
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 76fc89a6f1690aef51c6400f8788e2e5
+    Hash: 67a065d6263c47eff7a0f236cc3587ae
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -29,10 +29,11 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 199
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Ride/Qicheng_001_shishizi_001.prefab
 Dependencies:
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_342_02.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/light_019_01.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/ride/qicheng_001_shishizi_001/materials/qicheng_001_shishizi_001.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/ride/qicheng_001_shishizi_001/qicheng_001_shishizi_001.assetbundle
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_342_02.assetbundle

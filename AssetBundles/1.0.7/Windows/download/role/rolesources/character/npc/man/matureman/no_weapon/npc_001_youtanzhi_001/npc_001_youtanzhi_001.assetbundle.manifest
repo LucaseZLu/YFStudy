@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1089172948
+CRC: 1423529545
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e2cadca289fa963c8b18618d03ee247e
+    Hash: 6fa86e43298f94e2cb684373630f33bd
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/No_Weapon/Npc_001_youtanzhi_001/Npc_001_youtanzhi_001.FBX
 Dependencies:

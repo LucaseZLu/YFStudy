@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1718786507
+CRC: 4004818216
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2968bb8df065d9216c9f710f7e99caff
+    Hash: 577a4138fcb7ecaa4692eb276343c9fe
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,7 +15,8 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/No_Weapon/Npc_001_youtanzhi_001/Materials/Npc_001_youtanzhi_001.tga
 - Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/No_Weapon/Npc_001_youtanzhi_001/Materials/Npc_001_youtanzhi_001.mat
+- Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/No_Weapon/Npc_001_youtanzhi_001/Materials/Npc_001_youtanzhi_001.tga
 Dependencies: []

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3613632962
+CRC: 4214538744
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: fb65c1052c22dc1f853005dbc47f359c
+    Hash: 6784704cc40862ad4152fca853f7ca7d
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Man/Fat/One_Sword/Dead.anim
 Dependencies: []

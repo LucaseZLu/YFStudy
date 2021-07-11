@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2657614079
+CRC: 2821091135
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 53a24175626dad1293fdf149e8f4b827
+    Hash: 159e55f694bccc08e166d70a19104219
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Women/MatureFemale/One_Sword/Attack_Stand.anim
 Dependencies: []

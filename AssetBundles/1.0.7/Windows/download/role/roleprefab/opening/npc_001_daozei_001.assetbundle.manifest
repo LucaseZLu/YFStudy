@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 330039895
+CRC: 1912500741
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 273496fcdb656752d2fab3a7c262fda8
+    Hash: f9bd2978ffd0da56bc2745e9f694575a
   TypeTreeHash:
     serializedVersion: 2
     Hash: d6eea2cdb046ba7c7fe3f3886765843c
@@ -23,8 +23,9 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Opening/Npc_001_daozei_001.prefab
 Dependencies:
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/player/opening/npc/npc_001_daozei_001.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/player/opening/npc/materials/npc_001_daozei_001.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/player/opening/npc/npc_001_daozei_001.assetbundle

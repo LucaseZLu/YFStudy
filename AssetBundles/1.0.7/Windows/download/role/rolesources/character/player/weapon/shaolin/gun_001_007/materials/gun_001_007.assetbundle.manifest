@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 718691388
+CRC: 1369835907
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3cae2d77534fb50136718a4a483eb8d1
+    Hash: 659dbe2af9553446f06c61d30b9b59eb
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,6 +15,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Player/Weapon/Shaolin/Gun_001_007/Materials/Gun_001_007.jpg
 - Assets/Download/Role/RoleSources/Character/Player/Weapon/Shaolin/Gun_001_007/Materials/Gun_001_007.mat

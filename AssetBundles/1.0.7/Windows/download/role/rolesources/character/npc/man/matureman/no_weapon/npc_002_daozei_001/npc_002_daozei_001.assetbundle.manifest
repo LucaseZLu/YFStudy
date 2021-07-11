@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1879916255
+CRC: 961013419
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 34284759caf9db8f18aa912e0b4453ae
+    Hash: aee4529e9cd47df609a7be4413d732f4
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/No_Weapon/Npc_002_daozei_001/Npc_002_daozei_001.FBX
 Dependencies:

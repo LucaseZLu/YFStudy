@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1554746196
+CRC: 2200199202
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 88a87cc1bc77aac92807f3bdd2607352
+    Hash: d644ed08a1c1cbdb51186c300567c40f
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,6 +15,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/EffectSources/texture/mateials/effect_fu002_01.mat
 Dependencies:

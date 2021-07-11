@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3240616038
+CRC: 832442200
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ea78580d5421a51b09239843e38eeade
+    Hash: cd4708d48638e86f6fac8d0393f957a6
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Player/Animation/Xiaoyao_001/Run.anim
 Dependencies: []

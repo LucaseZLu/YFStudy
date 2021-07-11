@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2815394612
+CRC: 1755466771
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 508c3e9fcbc4e8cb0d5e703dd9fc1458
+    Hash: 3573fe9fbfd406a0f7db96fb0c81eb5f
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 43
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/EffectSources/model/mesh_fenghuang_001.FBX
 Dependencies:

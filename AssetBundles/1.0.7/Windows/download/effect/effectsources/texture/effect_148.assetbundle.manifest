@@ -1,16 +1,17 @@
 ManifestFileVersion: 0
-CRC: 1177625820
+CRC: 4054487527
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 45ef3f4e4909070cdd49fc2029ebd2d3
+    Hash: 1840c8cbf9bef639fcbac1396307b2c5
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 525b72fdacf3aef7d65f355ad8f17a96
+    Hash: b0363f7088f9761414f730641bf9a24b
 HashAppended: 0
 ClassTypes:
 - Class: 28
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/EffectSources/texture/effect_148.png
 Dependencies: []

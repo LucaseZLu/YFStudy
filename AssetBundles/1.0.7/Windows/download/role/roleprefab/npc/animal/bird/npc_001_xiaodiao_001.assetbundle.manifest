@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 181712120
+CRC: 2335284115
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a0cba0553ec030b75840a85f306e0cec
+    Hash: cc0aafb20cc42a353df6fc9ee1aeecfb
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,8 +21,9 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animal/Bird/Npc_001_xiaodiao_001.prefab
 Dependencies:
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/animal/bird/npc_001_xiaodiao_001/npc_001_xiaodiao_001.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/animal/bird/npc_001_xiaodiao_001/materials/npc_001_xiaodiao_001.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/animal/bird/npc_001_xiaodiao_001/npc_001_xiaodiao_001.assetbundle

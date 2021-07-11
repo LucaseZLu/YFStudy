@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2319156716
+CRC: 455607297
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 325584ba140109b965ce79d3c92a5aa9
+    Hash: c256555809659654c503a60f7d2f9fd4
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Man/Strong/No_Weapon/Attack_Stand.anim
 Dependencies: []

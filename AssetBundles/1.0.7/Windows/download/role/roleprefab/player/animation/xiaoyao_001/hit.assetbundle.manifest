@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3476720062
+CRC: 943649917
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8ebc03b21fb0e7a5b2d8ecffe64f279f
+    Hash: ce44d521ab0b1b52a01e346dd27063b0
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Player/Animation/Xiaoyao_001/Hit.anim
 Dependencies: []

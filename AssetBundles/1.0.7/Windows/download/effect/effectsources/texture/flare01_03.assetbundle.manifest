@@ -1,16 +1,17 @@
 ManifestFileVersion: 0
-CRC: 3047979165
+CRC: 1430006286
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b25bd7e66e1e14aa84fca9a52b7e6067
+    Hash: 1e484e768f8895a7664682ac1f2579d3
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 525b72fdacf3aef7d65f355ad8f17a96
+    Hash: b0363f7088f9761414f730641bf9a24b
 HashAppended: 0
 ClassTypes:
 - Class: 28
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/EffectSources/texture/flare01_03.png
 Dependencies: []

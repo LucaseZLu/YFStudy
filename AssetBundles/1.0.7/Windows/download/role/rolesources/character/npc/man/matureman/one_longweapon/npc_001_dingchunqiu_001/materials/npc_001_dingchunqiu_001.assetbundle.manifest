@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 4096883959
+CRC: 2510521986
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4f3e00729186de4dcea783f2bbff1f63
+    Hash: 794320ced6ff292a3122a58ae472abf8
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,6 +15,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/One_LongWeapon/Npc_001_dingchunqiu_001/Materials/Npc_001_dingchunqiu_001.tga
 - Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/One_LongWeapon/Npc_001_dingchunqiu_001/Materials/Npc_001_dingchunqiu_001.mat

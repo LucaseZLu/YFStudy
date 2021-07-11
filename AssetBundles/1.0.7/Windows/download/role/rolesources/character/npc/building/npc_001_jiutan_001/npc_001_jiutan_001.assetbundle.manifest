@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1899085174
+CRC: 2777507410
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 812807ef8b5f3d6839d547f84e374441
+    Hash: d17c4eae38109515ad8020cdf8b0c025
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8542ed9d93673e256be30bb0523839d9
@@ -23,6 +23,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 111
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Building/Npc_001_jiutan_001/Npc_001_jiutan_001.FBX
 Dependencies:

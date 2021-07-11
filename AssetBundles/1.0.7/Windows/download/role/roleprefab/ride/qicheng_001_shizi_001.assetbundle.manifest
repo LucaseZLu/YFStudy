@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3984210223
+CRC: 1354320092
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 89db17ab5c5f85a8903ca5bab57436e9
+    Hash: 99dfc4865029143ef83d313a75208583
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Ride/Qicheng_001_shizi_001.prefab
 Dependencies:

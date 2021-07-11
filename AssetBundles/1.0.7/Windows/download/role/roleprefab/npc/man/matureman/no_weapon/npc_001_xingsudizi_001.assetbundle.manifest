@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 900756122
+CRC: 1226229040
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c08d351a50e86222c18d05bbbbb2f8fa
+    Hash: bbbdd6bde985f8ddda49d466d69916ed
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Man/MatureMan/No_Weapon/Npc_001_xingsudizi_001.prefab
 Dependencies:

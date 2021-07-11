@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1743093433
+CRC: 1313109714
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f08c4152a2fb813e626bc54b4c964b88
+    Hash: 79c1b3e5b1271606d7c3c1110cf8f0d8
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,6 +15,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/EffectSources/texture/mateials/effect_fz001_01.mat
 Dependencies:

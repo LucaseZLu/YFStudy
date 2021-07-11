@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3583901372
+CRC: 1271265012
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c27a26609d5292df96f369102e349968
+    Hash: cf1a77ed7e1089360b2d0df27ed81fe5
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Women/Loli/No_Weapon/Run.anim
 Dependencies: []

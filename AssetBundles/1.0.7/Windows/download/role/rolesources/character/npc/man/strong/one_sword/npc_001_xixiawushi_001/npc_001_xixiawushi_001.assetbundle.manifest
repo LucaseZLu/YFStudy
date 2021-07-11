@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 565127064
+CRC: 3679863655
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: fa26bd55873e8ffadf182e65e52b7bf5
+    Hash: e2866e9e14915e781a4b8ed164679866
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/Strong/One_Sword/Npc_001_xixiawushi_001/Npc_001_xixiawushi_001.FBX
 Dependencies:

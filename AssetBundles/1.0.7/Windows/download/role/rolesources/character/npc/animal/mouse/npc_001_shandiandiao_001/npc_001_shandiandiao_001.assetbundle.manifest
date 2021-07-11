@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2796708886
+CRC: 430635737
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: de5b72f5a896bfa9803b280e9b9bc005
+    Hash: 1302901ffe04d1ddc29b91b59da2500d
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Animal/Mouse/Npc_001_shandiandiao_001/Npc_001_shandiandiao_001.FBX
 Dependencies:

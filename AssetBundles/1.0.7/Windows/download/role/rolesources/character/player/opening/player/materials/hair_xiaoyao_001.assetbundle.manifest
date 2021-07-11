@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 587172647
+CRC: 4161187272
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e34599481cdb7d7250954aa423c1e0d5
+    Hash: b750af4a24eb209a372208a99eb862dd
   TypeTreeHash:
     serializedVersion: 2
     Hash: 45875108e441588ead174e12e00e97b4
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 21
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Player/Opening/Player/Materials/Hair_xiaoyao_001.mat
 Dependencies: []

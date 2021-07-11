@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 729925484
+CRC: 116082099
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b7f39bb7a70ba3475084a8d71dfa7129
+    Hash: 8517e10adb83d237d49bb05c945d31a0
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Woman/Loli/One_Sword/Npc_001_zhongling_001/Npc_001_zhongling_001.FBX
 Dependencies:

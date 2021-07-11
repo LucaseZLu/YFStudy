@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 999334425
+CRC: 3166863949
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d184ad9447ae6d67f8258270e968ffc3
+    Hash: 9b08a5b8ad17a2c6342ae4b6540e9a14
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,7 +15,8 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Download/Role/RoleSources/Character/Ride/Qicheng_001_baima_001/Materials/Qicheng_001_baima_002.tga
 - Assets/Download/Role/RoleSources/Character/Ride/Qicheng_001_baima_001/Materials/Qicheng_001_baima_002.mat
+- Assets/Download/Role/RoleSources/Character/Ride/Qicheng_001_baima_001/Materials/Qicheng_001_baima_002.tga
 Dependencies: []

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1507895663
+CRC: 221187910
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ac20e8cc74e622a56829b30d910eaf96
+    Hash: 25eabf4f57eb35e5e242a9826ef5320a
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Man/Special/Attack_01.anim
 Dependencies: []

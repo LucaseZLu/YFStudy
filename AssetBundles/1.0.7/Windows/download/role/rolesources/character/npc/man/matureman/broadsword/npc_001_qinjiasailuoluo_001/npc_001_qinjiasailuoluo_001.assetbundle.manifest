@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3192387403
+CRC: 2048905875
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ebff3cad516c31926a8d61b6ec115bd9
+    Hash: a6fc22a09b98c3f410976dce4c1348d2
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/Broadsword/Npc_001_qinjiasailuoluo_001/Npc_001_qinjiasailuoluo_001.FBX
 Dependencies:

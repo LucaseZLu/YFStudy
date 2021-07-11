@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3779782295
+CRC: 3288531226
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f707c0d9b24fc0d8ff813003119d0fda
+    Hash: a7eaf68f9d8efde8c2cead522a0b2938
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Women/MatureFemale/TwoHand_LongWeapon/Knockback_01.anim
 Dependencies: []

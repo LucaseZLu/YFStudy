@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2167069788
+CRC: 783036798
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5d97ae3a6484a3b7890184958de8e7a3
+    Hash: 0269128f2662fbc9a9508fd1356c3af2
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Player/Xiaoyao_001/Zy_xiaoyao_001_hyt/Zy_xiaoyao_001_hyt.prefab
 Dependencies:

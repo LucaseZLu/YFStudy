@@ -1,19 +1,20 @@
 ManifestFileVersion: 0
-CRC: 3237358864
+CRC: 2990128678
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7056619e954e14c92fb683b14130bb8d
+    Hash: 957662902db0704f2f8d1f63318445c5
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 51c330083d5400b0454ce4c6d8549953
+    Hash: dec3e2af1faec76e8a64c5d552cb672c
 HashAppended: 0
 ClassTypes:
 - Class: 21
   Script: {instanceID: 0}
 - Class: 28
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Download/Role/RoleSources/Character/Monster/Monster_001_cike_001/Materials/Monster_001_cike_001.mat
 - Assets/Download/Role/RoleSources/Character/Monster/Monster_001_cike_001/Materials/Monster_001_cike_001.tga
+- Assets/Download/Role/RoleSources/Character/Monster/Monster_001_cike_001/Materials/Monster_001_cike_001.mat
 Dependencies: []

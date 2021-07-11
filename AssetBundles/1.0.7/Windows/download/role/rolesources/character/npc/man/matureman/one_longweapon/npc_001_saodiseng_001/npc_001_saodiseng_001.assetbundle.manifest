@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 707146735
+CRC: 3470070650
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: baa11dbb4868e1e6009a5996ad97fd35
+    Hash: d8c915b43ac57762161cd680810e2a31
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/One_LongWeapon/Npc_001_saodiseng_001/Npc_001_saodiseng_001.FBX
 Dependencies:

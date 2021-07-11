@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2469151927
+CRC: 2540912099
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 041c7178dd7f75e6b5ec10fd399dad40
+    Hash: 825b5eacba480430128fc7fcc5fa2d36
   TypeTreeHash:
     serializedVersion: 2
     Hash: d6eea2cdb046ba7c7fe3f3886765843c
@@ -23,6 +23,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/Special/Npc_001_duanyanqing_001/stand.FBX
 Dependencies:

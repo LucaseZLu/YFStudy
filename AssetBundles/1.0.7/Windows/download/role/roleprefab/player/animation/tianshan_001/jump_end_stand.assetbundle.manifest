@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2955955543
+CRC: 1944844646
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: cda206ff1eaf71a21786eb5342ac3d75
+    Hash: e235087acad0302da92821d5363ca9d2
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Player/Animation/Tianshan_001/Jump_End_Stand.anim
 Dependencies: []

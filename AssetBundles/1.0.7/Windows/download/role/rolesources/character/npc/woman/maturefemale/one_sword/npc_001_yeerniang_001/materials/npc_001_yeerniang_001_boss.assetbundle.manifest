@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2451058856
+CRC: 3312646788
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f57c6584e57de516db01ce9f149495c6
+    Hash: a1b83450b393462c1d9a6652060f1165
   TypeTreeHash:
     serializedVersion: 2
     Hash: 45875108e441588ead174e12e00e97b4
@@ -11,8 +11,9 @@ HashAppended: 0
 ClassTypes:
 - Class: 21
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Woman/MatureFemale/One_Sword/Npc_001_yeerniang_001/Materials/Npc_001_yeerniang_001_boss.mat
 Dependencies:
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/woman/maturefemale/one_sword/npc_001_yeerniang_001/materials/npc_001_yeerniang_001.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/effect_wufeng001.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/woman/maturefemale/one_sword/npc_001_yeerniang_001/materials/npc_001_yeerniang_001.assetbundle

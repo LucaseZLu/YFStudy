@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1513783626
+CRC: 3409323474
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b6c614313cb70c9a707c690f0dfc080e
+    Hash: dd001912dbc69456e3ac91c5ba097ead
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,6 +15,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/Strong/Twohand_LongWeapon/Npc_001_kurongdashi_001/Materials/Npc_001_kurongdashi_001.mat
 - Assets/Download/Role/RoleSources/Character/Npc/Man/Strong/Twohand_LongWeapon/Npc_001_kurongdashi_001/Materials/Npc_001_kurongdashi_001.tga

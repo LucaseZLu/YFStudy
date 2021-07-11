@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3900752252
+CRC: 1218451742
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a331b82948fca48fc27d147bb9c44ea5
+    Hash: f90d86799fa8c6bf1790701cf61627b1
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Women/Loli/Skill/Skill_Shengsifu.anim
 Dependencies: []

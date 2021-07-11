@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 521538866
+CRC: 3161468210
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3a5a8611b04b76f206985522822fa071
+    Hash: 48ca53719b25667be345640c4aec58da
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Player/Animation/Tianshan_001/Fastrun_Right.anim
 Dependencies: []

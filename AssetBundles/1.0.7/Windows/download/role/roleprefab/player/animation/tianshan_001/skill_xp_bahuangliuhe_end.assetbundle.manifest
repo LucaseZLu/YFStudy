@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2916801510
+CRC: 2241562379
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 661b8f5f03dd6276ece00c3f249caf32
+    Hash: ffaa7927d37835d2f6194e31df23cc68
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Player/Animation/Tianshan_001/Skill_Xp_Bahuangliuhe_End.anim
 Dependencies: []

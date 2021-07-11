@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2748991472
+CRC: 385227474
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: bf2411394026c06caf46daae118a64d4
+    Hash: 3b663f91b22605f8414c712400b6ea78
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Player/Animation/Xiaoyao_001/Qinggong_01.anim
 Dependencies: []

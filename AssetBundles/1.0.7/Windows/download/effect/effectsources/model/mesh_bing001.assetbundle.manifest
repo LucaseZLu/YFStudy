@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1295423996
+CRC: 3545426013
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e715e89b3706f5e4405aebd1e0bf9b20
+    Hash: e880843a491ce5bd6342f7413007a4e0
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 43
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/EffectSources/model/mesh_bing001.FBX
 Dependencies:

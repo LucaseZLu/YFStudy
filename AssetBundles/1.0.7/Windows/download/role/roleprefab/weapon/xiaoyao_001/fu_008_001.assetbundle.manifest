@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2156740111
+CRC: 832300483
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 58cc6a246e08b1488638100311a4c5ca
+    Hash: 60a4a681e8ffc9e7aa8102417e894fa4
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -21,9 +21,10 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 43
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Weapon/Xiaoyao_001/Fu_008_001.prefab
 Dependencies:
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/player/weapon/xiaoyao/fu_008_001/materials/fu_008_001_1.assetbundle
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/player/weapon/xiaoyao/fu_008_001/materials/fu_001_001.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/player/weapon/xiaoyao/fu_008_001/fu_008_001.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/player/weapon/xiaoyao/fu_008_001/materials/fu_001_001.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/player/weapon/xiaoyao/fu_008_001/materials/fu_008_001_1.assetbundle

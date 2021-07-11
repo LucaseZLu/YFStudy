@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 570195165
+CRC: 4143606372
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 816d50d4c9a26b2553c54eb8586c6c56
+    Hash: 22b224423d6d58f32417b3ad3832a0ad
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8542ed9d93673e256be30bb0523839d9
@@ -23,6 +23,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 111
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Player/Weapon/Tianshan/Dao_003_001/Dao_003_001.FBX
 Dependencies:

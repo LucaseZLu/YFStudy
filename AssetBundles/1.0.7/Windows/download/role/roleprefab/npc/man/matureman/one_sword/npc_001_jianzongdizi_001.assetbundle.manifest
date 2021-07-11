@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1094062027
+CRC: 2955101570
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 95a3235752f028a500fd7f24ec7e3260
+    Hash: 86e2f11e1c8a391887799b6a51b4672e
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Man/MatureMan/One_Sword/Npc_001_jianzongdizi_001.prefab
 Dependencies:

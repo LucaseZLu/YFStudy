@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4097423225
+CRC: 3834028564
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: df7392c7d833bed616cc552beb59f999
+    Hash: e81c285650b49019498d2d78837511b5
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Man/Strong/Twohand_LongWeapon/Attack.anim
 Dependencies: []

@@ -1,16 +1,17 @@
 ManifestFileVersion: 0
-CRC: 3781709991
+CRC: 3494886460
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7d7e1fe1bb7a84e4b6f04ce552832a4a
+    Hash: e13b5bf6f06b3950728334d480fc7eb1
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 525b72fdacf3aef7d65f355ad8f17a96
+    Hash: b0363f7088f9761414f730641bf9a24b
 HashAppended: 0
 ClassTypes:
 - Class: 28
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/EffectSources/texture/effect_512.png
 Dependencies: []

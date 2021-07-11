@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1481374958
+CRC: 4107826038
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8707b590f4c2186effd4ba0c4bf70663
+    Hash: 20b2a04e566efe58e54ce6a50312e3e3
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,7 +15,8 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/One_LongWeapon/Npc_003_laifu_001/Materials/npc_003_laifu_001.mat
 - Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/One_LongWeapon/Npc_003_laifu_001/Materials/Npc_003_laifu_001.tga
+- Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/One_LongWeapon/Npc_003_laifu_001/Materials/npc_003_laifu_001.mat
 Dependencies: []

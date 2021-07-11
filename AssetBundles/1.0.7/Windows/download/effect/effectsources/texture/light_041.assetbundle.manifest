@@ -1,16 +1,17 @@
 ManifestFileVersion: 0
-CRC: 2453189757
+CRC: 1912671203
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: bac69e1486564e59f3783e2c8248f201
+    Hash: a460477d7183d5a92774bc2000293ab2
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 525b72fdacf3aef7d65f355ad8f17a96
+    Hash: b0363f7088f9761414f730641bf9a24b
 HashAppended: 0
 ClassTypes:
 - Class: 28
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/EffectSources/texture/light_041.png
 Dependencies: []

@@ -1,16 +1,17 @@
 ManifestFileVersion: 0
-CRC: 4227469196
+CRC: 1254743405
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 966dea10dc680cee3e58a26123c003e8
+    Hash: 25ab57b71ce9b9030095c95c7b307543
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 525b72fdacf3aef7d65f355ad8f17a96
+    Hash: b0363f7088f9761414f730641bf9a24b
 HashAppended: 0
 ClassTypes:
 - Class: 28
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/EffectSources/texture/effect_312.tga
 Dependencies: []

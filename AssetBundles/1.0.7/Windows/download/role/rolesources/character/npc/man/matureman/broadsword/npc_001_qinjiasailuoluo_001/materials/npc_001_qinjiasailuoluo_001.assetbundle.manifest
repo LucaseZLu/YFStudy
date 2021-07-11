@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1487753123
+CRC: 3881108168
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 85c51fc516c0bc0caef16a76392f8989
+    Hash: 8e46e7937971bace270988f06c998900
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,6 +15,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/Broadsword/Npc_001_qinjiasailuoluo_001/Materials/Npc_001_qinjiasailuoluo_001.tga
 - Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/Broadsword/Npc_001_qinjiasailuoluo_001/Materials/Npc_001_qinjiasailuoluo_001.mat

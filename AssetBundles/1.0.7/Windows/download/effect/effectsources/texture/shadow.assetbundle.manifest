@@ -1,16 +1,17 @@
 ManifestFileVersion: 0
-CRC: 3818190185
+CRC: 2513223251
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 47a5f03fc633b97219bf121a083bfac6
+    Hash: 9c1e27e676ba3e2244a115bc25120b54
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 525b72fdacf3aef7d65f355ad8f17a96
+    Hash: b0363f7088f9761414f730641bf9a24b
 HashAppended: 0
 ClassTypes:
 - Class: 28
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/EffectSources/texture/shadow.TGA
 Dependencies: []

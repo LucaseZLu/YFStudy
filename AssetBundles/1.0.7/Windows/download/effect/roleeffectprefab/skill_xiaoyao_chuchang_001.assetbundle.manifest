@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3346768969
+CRC: 2123928020
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 12644a9deb2d935ac57899327883f153
+    Hash: 0be7867b9091d146e60964362911e007
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 568bf43fb5cf90f4195ed6f07073b9b6
+    Hash: 87d8350b46029255406d612579664277
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -19,6 +19,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 199
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/RoleEffectPrefab/skill_xiaoyao_chuchang_001.prefab
 Dependencies:

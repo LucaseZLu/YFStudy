@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2665657986
+CRC: 727414919
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 146b30988a7dfefac012f5050ec04b5c
+    Hash: ca5fb21476125f504d6a3c90bfe88c25
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,7 +15,8 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Download/Role/RoleSources/Character/Npc/Building/fb_banghui_jubaopen/Materials/fb_banghui_jubaopen01.mat
 - Assets/Download/Role/RoleSources/Character/Npc/Building/fb_banghui_jubaopen/Materials/fb_banghui_jubaopen01.jpg
+- Assets/Download/Role/RoleSources/Character/Npc/Building/fb_banghui_jubaopen/Materials/fb_banghui_jubaopen01.mat
 Dependencies: []

@@ -120,6 +120,7 @@ namespace YouYou
                 {
                     GameObjectPoolEntity gameObjectPoolEntity = m_SpawnPoolDic[entity.PoolId];
                     Transform prefab = ((GameObject) resourceEntity.Target).transform;
+                    //使用预设编号 当做池ID
                     PathologicalGames.PrefabPool prefabPool = gameObjectPoolEntity.Pool.GetPrefabPool(entity.Id);
 
                     if (prefabPool == null)

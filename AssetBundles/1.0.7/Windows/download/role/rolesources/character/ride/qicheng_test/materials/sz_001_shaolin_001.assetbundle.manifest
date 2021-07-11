@@ -1,18 +1,19 @@
 ManifestFileVersion: 0
-CRC: 2190383213
+CRC: 401755282
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 93778f9ec10c14d632637bd0857e29fa
+    Hash: fb1ec2d823f0a087f0ce74994e48171e
   TypeTreeHash:
     serializedVersion: 2
-    Hash: a4e20c9d8e7103fcef39ad820c79bacf
+    Hash: 5651999fa58938ac55fc849c3d2539bc
 HashAppended: 0
 ClassTypes:
 - Class: 21
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Ride/Qicheng_Test/Materials/sz_001_shaolin_001.mat
 Dependencies: []

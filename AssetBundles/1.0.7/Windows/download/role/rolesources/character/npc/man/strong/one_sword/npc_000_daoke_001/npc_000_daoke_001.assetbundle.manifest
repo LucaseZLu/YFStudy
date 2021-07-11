@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 748256393
+CRC: 2416384114
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 26cc11a6870d79f69eaa74e49a9b58e4
+    Hash: 34a2535341833960472271607b9fbdd0
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/Strong/One_Sword/Npc_000_daoke_001/Npc_000_daoke_001.FBX
 Dependencies:

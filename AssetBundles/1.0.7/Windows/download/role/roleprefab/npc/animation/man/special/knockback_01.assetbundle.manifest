@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 287430118
+CRC: 3491211821
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 248ae42a23a9f3d1f33d788aad72dc90
+    Hash: 55ca8b31285ac7646b8e8e99806e3c62
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Man/Special/Knockback_01.anim
 Dependencies: []

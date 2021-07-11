@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2952403668
+CRC: 2202594435
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 625142dd12412e40ebc4fa1253661611
+    Hash: fe85b0382f8d4721fd57a92469820703
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,7 +15,8 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Download/Role/RoleSources/Character/Player/Weapon/Tianshan/Dao_008_001/Materials/Dao_008_001.mat
 - Assets/Download/Role/RoleSources/Character/Player/Weapon/Tianshan/Dao_008_001/Materials/Dao_008_001.jpg
+- Assets/Download/Role/RoleSources/Character/Player/Weapon/Tianshan/Dao_008_001/Materials/Dao_008_001.mat
 Dependencies: []

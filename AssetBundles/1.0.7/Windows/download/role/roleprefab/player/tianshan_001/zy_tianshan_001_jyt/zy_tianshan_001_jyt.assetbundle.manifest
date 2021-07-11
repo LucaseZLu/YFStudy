@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1901400073
+CRC: 2498404771
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f5d838f7bf4b3e87ae09d73fa44e5661
+    Hash: 8b187f62aef1af51acccdff4f5d7c87a
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Player/Tianshan_001/Zy_tianshan_001_jyt/Zy_tianshan_001_jyt.prefab
 Dependencies:

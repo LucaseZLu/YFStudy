@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1310281367
+CRC: 4172573250
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: de35458888f9f0deee8a2694ac6ad3e1
+    Hash: a6a21b59a4c66d7ab7a9978731e91fbd
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Man/MatureMan/Twohand_LongWeapon/Npc_001_quanguanqing_001.prefab
 Dependencies:

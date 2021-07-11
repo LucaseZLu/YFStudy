@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1086059247
+CRC: 3508308960
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4f4e4f3abfd90bf1bc60ae5c55988ee0
+    Hash: e79f7347a0c8122594ee67adface3829
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,7 +15,8 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/Twohand_LongWeapon/Npc_001_songbing_001/Materials/Npc_001_songbing_001.mat
 - Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/Twohand_LongWeapon/Npc_001_songbing_001/Materials/Npc_001_songbing_001.jpg
+- Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/Twohand_LongWeapon/Npc_001_songbing_001/Materials/Npc_001_songbing_001.mat
 Dependencies: []

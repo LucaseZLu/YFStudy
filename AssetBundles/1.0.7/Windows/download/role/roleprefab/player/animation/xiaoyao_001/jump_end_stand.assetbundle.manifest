@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 977356298
+CRC: 3190522661
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a1fdcb514a8ff6820bcead062db0b004
+    Hash: 05f512d8a30f07c36d0f1e71d5362a6e
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Player/Animation/Xiaoyao_001/Jump_End_Stand.anim
 Dependencies: []

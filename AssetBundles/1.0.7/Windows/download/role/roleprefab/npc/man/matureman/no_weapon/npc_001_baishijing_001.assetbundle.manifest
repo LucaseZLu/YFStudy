@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2736638003
+CRC: 1298437857
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: edfb0db9fe6684b6da3e80ad09883308
+    Hash: d390a11f41664ab1d009288c1d05fee2
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Man/MatureMan/No_Weapon/Npc_001_baishijing_001.prefab
 Dependencies:

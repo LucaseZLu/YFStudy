@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1900198805
+CRC: 1126201561
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: dff8b938703422088151e2731a1f6021
+    Hash: 6bd1369f9bba51eacf53c3e44cc55e07
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Man/MatureMan/One_Sword/Npc_001_dingchunqiu_001/Dead.anim
 Dependencies: []

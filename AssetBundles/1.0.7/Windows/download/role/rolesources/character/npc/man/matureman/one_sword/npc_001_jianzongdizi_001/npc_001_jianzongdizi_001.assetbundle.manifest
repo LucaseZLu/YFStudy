@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4119507045
+CRC: 3569400575
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: cbfb0f6b504e40db61eda54cdd5c9e54
+    Hash: 8a4f3933773f7bdaf6b7388fa12a1220
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/One_Sword/Npc_001_jianzongdizi_001/Npc_001_jianzongdizi_001.FBX
 Dependencies:

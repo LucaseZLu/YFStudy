@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2257490345
+CRC: 1328941462
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a04cceb9ac3a9d57fc2ffe4ff06f19a0
+    Hash: 1613c5b9a2b19bbb0aa0dd5217fa432e
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Woman/MatureFemale/Magic/Npc_001_ganbaobao_001/Npc_001_ganbaobao_001.FBX
 Dependencies:

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3584916389
+CRC: 3931401909
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 04e27e1a29f69ecd3ee19904f0cb0c96
+    Hash: 8659a88aed3bb419025c19315383cefa
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Women/MatureFemale/Magic/Skill_Shechangxiexin.anim
 Dependencies: []

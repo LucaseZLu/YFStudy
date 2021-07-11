@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 428835055
+CRC: 880184149
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0a141bb19d8b6df5aef383d9a554c474
+    Hash: 3094056d37ded44182857179162cf6d4
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,6 +15,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/EffectSources/texture/mateials/effect_zhong001.mat
 Dependencies:

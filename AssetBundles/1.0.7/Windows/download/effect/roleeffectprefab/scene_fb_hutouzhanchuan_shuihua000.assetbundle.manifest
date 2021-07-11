@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 581600748
+CRC: 3971262899
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e7b5884d9c293b0a039086e61d6e805f
+    Hash: d49aff6359ad1a74b961a3c5f315c9cc
   TypeTreeHash:
     serializedVersion: 2
     Hash: 90c842aa54c4b1d02c188cf3c20cd62a
@@ -23,8 +23,9 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: dad03ea456ca8af42bdfebac890c329c, type: 3}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/RoleEffectPrefab/scene_fb_hutouzhanchuan_shuihua000.prefab
 Dependencies:
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_water07.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/model/plane00.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_water07.assetbundle

@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 225295710
+CRC: 1193628400
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7250c3d968a45d215c7c835fc3acbcb6
+    Hash: 14202f3f61148f0de9d95e50898cc9f4
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 35b36f5babfbffec6f91a1d6c810571d
+    Hash: f64856a3d606b613608cbf22df470c60
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -23,6 +23,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/EffectSources/model/qibo009.FBX
 Dependencies: []

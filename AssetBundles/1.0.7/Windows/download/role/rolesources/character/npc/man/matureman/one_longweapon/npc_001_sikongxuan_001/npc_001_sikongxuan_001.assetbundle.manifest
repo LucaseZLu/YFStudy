@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 121978287
+CRC: 4260855259
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 40ca97eaa4a18555d8785329659b31d0
+    Hash: 4e1b1ae612f145cb03ab68faf5d8b8ec
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/One_LongWeapon/Npc_001_sikongxuan_001/Npc_001_sikongxuan_001.FBX
 Dependencies:

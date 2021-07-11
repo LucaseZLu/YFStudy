@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 857362078
+CRC: 3926396337
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3449d82f27458c0944492e16626cce24
+    Hash: 0d6ab8809a1e63c5cd5bbafda1fc874f
   TypeTreeHash:
     serializedVersion: 2
     Hash: d303bc8b19b23f845f6df398d419366d
@@ -27,10 +27,11 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Man/MatureMan/No_Weapon/Npc_Yanmenguan_matureman.prefab
 Dependencies:
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/man/matureman/no_weapon/npc_yanmenguan_matureman/npc_yanmenguan_matureman.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/model/shadow.assetbundle
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/man/matureman/no_weapon/npc_yanmenguan_matureman/materials/npc_001_daozei_001.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/roleprefab/npc/animation/man/matureman/no_weapon/yanmenguan_fight.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/man/matureman/no_weapon/npc_yanmenguan_matureman/materials/npc_001_daozei_001.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/man/matureman/no_weapon/npc_yanmenguan_matureman/npc_yanmenguan_matureman.assetbundle

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4090193356
+CRC: 1325248340
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ba2a18f50355acc31a96ff3949fbc895
+    Hash: e4b3af46cb18236d7838cccca5112e47
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Woman/MatureFemale/Magic/Npc_001_ganbaobao_001.prefab
 Dependencies:

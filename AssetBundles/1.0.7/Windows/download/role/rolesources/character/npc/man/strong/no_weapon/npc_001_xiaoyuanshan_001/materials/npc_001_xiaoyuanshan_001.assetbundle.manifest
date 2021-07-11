@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3412409554
+CRC: 2399161422
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5bf736ba23380b40ac2ed83d492ebc5b
+    Hash: 4ba24f65100af339255dc5e2a4883bbd
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,7 +15,8 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Download/Role/RoleSources/Character/Npc/Man/Strong/No_Weapon/Npc_001_xiaoyuanshan_001/Materials/Npc_001_xiaoyuanshan_001.mat
 - Assets/Download/Role/RoleSources/Character/Npc/Man/Strong/No_Weapon/Npc_001_xiaoyuanshan_001/Materials/Npc_001_xiaoyuanshan_001.jpg
+- Assets/Download/Role/RoleSources/Character/Npc/Man/Strong/No_Weapon/Npc_001_xiaoyuanshan_001/Materials/Npc_001_xiaoyuanshan_001.mat
 Dependencies: []

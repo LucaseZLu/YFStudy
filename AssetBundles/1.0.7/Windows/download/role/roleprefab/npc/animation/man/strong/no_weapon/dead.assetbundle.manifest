@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3498151877
+CRC: 3763725930
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 10830ae6027dc6976fd9114c2ebcaff8
+    Hash: 288d2359bdb832c577828a56c4e5a8ce
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Man/Strong/No_Weapon/Dead.anim
 Dependencies: []

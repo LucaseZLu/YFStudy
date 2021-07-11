@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3399317871
+CRC: 464440394
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b150d424d95e5974805ef86f3b099a6c
+    Hash: 09d7b1c062613bcc7ea5a50c6030bed3
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/Broadsword/Npc_001_daozei_001/Npc_001_daozei_001.FBX
 Dependencies:

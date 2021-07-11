@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 45785617
+CRC: 1785428829
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 72e9641be731317056305eacce2053dd
+    Hash: 802dff8f8c0185bdc878ef39bdf1d4d3
   TypeTreeHash:
     serializedVersion: 2
     Hash: d6eea2cdb046ba7c7fe3f3886765843c
@@ -23,6 +23,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Player/Opening/Player/shaolin.FBX
 Dependencies:

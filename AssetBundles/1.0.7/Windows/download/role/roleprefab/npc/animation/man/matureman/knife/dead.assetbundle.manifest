@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3303814894
+CRC: 3336682873
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 77f23e120b433f3c66ed687f5c490cc9
+    Hash: d70f8722311c6d8fa002909154cfff48
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Man/MatureMan/Knife/Dead.anim
 Dependencies: []

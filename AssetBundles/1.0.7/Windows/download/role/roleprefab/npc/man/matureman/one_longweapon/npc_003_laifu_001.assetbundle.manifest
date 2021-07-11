@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3570079373
+CRC: 4294819652
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 161ee193750f2fded71aaf1799524df9
+    Hash: 8b92d67f53bb4c68bfff5e29033ed832
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,8 +21,9 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Man/MatureMan/One_LongWeapon/Npc_003_laifu_001.prefab
 Dependencies:
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/man/matureman/one_longweapon/npc_003_laifu_001/npc_003_laifu_001.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/man/matureman/one_longweapon/npc_003_laifu_001/materials/npc_003_laifu_001.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/man/matureman/one_longweapon/npc_003_laifu_001/npc_003_laifu_001.assetbundle

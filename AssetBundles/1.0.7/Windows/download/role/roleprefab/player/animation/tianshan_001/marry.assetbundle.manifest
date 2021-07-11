@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2723734990
+CRC: 1043975550
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: eb09e9ce80c4080804c9bd743a7d69c4
+    Hash: 160fb780553bb762d564ebc0f4d21abe
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Player/Animation/Tianshan_001/Marry.anim
 Dependencies: []

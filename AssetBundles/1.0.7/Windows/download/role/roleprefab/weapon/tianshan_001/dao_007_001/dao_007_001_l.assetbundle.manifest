@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4211553011
+CRC: 2042633526
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8fea01fb214a4a6dcdd6d402a8857378
+    Hash: 4666cc6ebbf30dbceb7dd5a0111bb2af
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -21,8 +21,9 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 43
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Weapon/Tianshan_001/Dao_007_001/Dao_007_001_L.prefab
 Dependencies:
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/player/weapon/tianshan/dao_007_001/materials/dao_007_001.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/player/weapon/tianshan/dao_007_001/dao_007_001.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/player/weapon/tianshan/dao_007_001/materials/dao_007_001.assetbundle

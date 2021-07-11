@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2175104034
+CRC: 3660624521
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: aac8faa9b4513e227e3e7bdc40de38d6
+    Hash: b30e6776f27df04327f736729d4b380b
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Player/Animation/Tianshan_001/Skill_Yihuajiemu.anim
 Dependencies: []

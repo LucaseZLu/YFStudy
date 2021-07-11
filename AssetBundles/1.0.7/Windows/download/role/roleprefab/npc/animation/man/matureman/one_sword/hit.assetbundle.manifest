@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2714340700
+CRC: 1577934113
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d953c6ed78e5977e916c8af75025693d
+    Hash: 11c05a66b205e10bc5f6e105eeeee60f
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Man/MatureMan/One_Sword/Hit.anim
 Dependencies: []

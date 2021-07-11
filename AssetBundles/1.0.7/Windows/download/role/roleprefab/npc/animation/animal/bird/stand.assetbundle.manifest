@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1790549414
+CRC: 2993811330
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ffa0a50adb85b34c86377aee5971cecf
+    Hash: 790543bb34166ae40e241c40db939c0a
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Animal/Bird/Stand.anim
 Dependencies: []

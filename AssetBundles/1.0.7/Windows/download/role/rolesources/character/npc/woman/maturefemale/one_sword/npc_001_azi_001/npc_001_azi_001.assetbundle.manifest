@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4281499960
+CRC: 683872368
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 23738af6da3ef6512446437d509e690c
+    Hash: f4f959fec455e9f966983e52de5a33fd
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Woman/MatureFemale/One_Sword/Npc_001_azi_001/Npc_001_azi_001.FBX
 Dependencies:

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2145916856
+CRC: 465746671
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1efe511beec01db65501168489daa2df
+    Hash: ccad07ac2cefc4cb81a2411bb578997e
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Women/Loli/No_Weapon/Attack_Stand.anim
 Dependencies: []

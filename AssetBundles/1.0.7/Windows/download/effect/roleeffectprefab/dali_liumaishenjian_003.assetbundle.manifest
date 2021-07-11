@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1331640029
+CRC: 3662023004
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2bdf1b26897328c415edde059819d998
+    Hash: 0c7adc8ea107b4e7bb8c92cf84880bc2
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 6085826552be0a05d718b228f1a7279d
+    Hash: 795a27fc024bbc2b9fd08b3858de7a04
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -27,11 +27,12 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 199
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/RoleEffectPrefab/dali_liumaishenjian_003.prefab
 Dependencies:
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_dao002.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/model/circle02_3m.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_580.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_611_01.assetbundle
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/model/circle02_3m.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_641_01.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_dao002.assetbundle

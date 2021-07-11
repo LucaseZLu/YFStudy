@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3865885536
+CRC: 2606993574
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a8a1afd2e2551c7a2bba81d1c6f44443
+    Hash: 9758919cb366b20744937db0ae985e6c
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Women/Loli/No_Weapon/Skill_Bahuangliuhe.anim
 Dependencies: []

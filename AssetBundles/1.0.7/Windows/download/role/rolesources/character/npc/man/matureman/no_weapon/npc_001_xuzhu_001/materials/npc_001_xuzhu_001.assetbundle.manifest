@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2422181428
+CRC: 3246889332
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c5d7dc55a6ef1e3247d5c43810d42d72
+    Hash: 9a7ca934a5131c8d6e261a83037497a2
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,7 +15,8 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/No_Weapon/Npc_001_xuzhu_001/Materials/Npc_001_xuzhu_001.mat
 - Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/No_Weapon/Npc_001_xuzhu_001/Materials/Npc_001_xuzhu_001.tga
+- Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/No_Weapon/Npc_001_xuzhu_001/Materials/Npc_001_xuzhu_001.mat
 Dependencies: []

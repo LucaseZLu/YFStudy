@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1407204259
+CRC: 1364546141
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4b56ae97e91e286bf97399b16b645339
+    Hash: 07912c04f0b111e1ec0cbfae0e908bf6
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,8 +21,9 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Player/Shaolin_001/Zy_shaolin_001_lht/Zy_shaolin_001_lht.prefab
 Dependencies:
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/player/shaolin_001/zy_shaolin_001_lht/zy_shaolin_001_lht.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/player/shaolin_001/zy_shaolin_001_lht/materials/zy_shaolin_001_lht.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/player/shaolin_001/zy_shaolin_001_lht/zy_shaolin_001_lht.assetbundle

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 643050790
+CRC: 2880409336
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6c88d03fc94ef0b6dab532e08da58d7e
+    Hash: 874ba8b108e48a2b72c36d912a566c08
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Player/Animation/Shaolin_001/Skill_Mohewuliang.anim
 Dependencies: []

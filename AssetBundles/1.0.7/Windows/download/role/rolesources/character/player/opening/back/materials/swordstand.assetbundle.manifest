@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2765557991
+CRC: 2403577904
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 908a65b68a464137f10af2d869d04b0d
+    Hash: 23fe9e01eaf94f1b07ca657b0a7452bd
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,6 +15,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Player/Opening/Back/Materials/swordstand.mat
 - Assets/Download/Role/RoleSources/Character/Player/Opening/Back/Materials/swordstand.png

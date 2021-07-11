@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2263428451
+CRC: 2206244313
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8948a0264881e92dc57e3f45b66e6bcb
+    Hash: 1753f1176c65da41a022073eb5f88790
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 52a414f981dc5a178b0e58574e6cbefd
+    Hash: b07e95eec8d55770ffce51414c7b0714
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 199
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/RoleEffectPrefab/scene_huopen001.prefab
 Dependencies:

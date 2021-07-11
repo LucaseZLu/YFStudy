@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1262333483
+CRC: 2854283788
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ea8353eff2222705903c065cea9bf476
+    Hash: f2d707397021dc4a6805ca6936ea7c51
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Woman/MatureFemale/One_Sword/Npc_001_muwanqing_001/Npc_001_muwanqing_001.FBX
 Dependencies:

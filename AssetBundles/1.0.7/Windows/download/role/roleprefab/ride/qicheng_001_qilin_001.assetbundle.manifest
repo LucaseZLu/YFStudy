@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2172626521
+CRC: 1611991266
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a238f0923fe3c747c06b7eea888835e6
+    Hash: 901ed9feb83d0b1b5234157ef6659e0d
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 0cb3b683c28d1913e5141b9223aaae59
+    Hash: 81dd3ec29569dac87087754f8de0e23b
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -25,11 +25,12 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 199
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Ride/Qicheng_001_qilin_001.prefab
 Dependencies:
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/model/qibo006.assetbundle
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/ride/qicheng_001_qilin_001/materials/qicheng_001_qilin_001.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_091.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/light_003.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/ride/qicheng_001_qilin_001/materials/qicheng_001_qilin_001.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/ride/qicheng_001_qilin_001/qicheng_001_qilin_001.assetbundle

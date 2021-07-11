@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2936952286
+CRC: 1637187624
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1b235548d607dfc12e87c85dacfa24e6
+    Hash: 42fff63896a1d6f969d88b4af3b42319
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Player/Animation/Xiaoyao_001/Ride_Stand.anim
 Dependencies: []

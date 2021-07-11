@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1204274862
+CRC: 3946570692
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 96499d04f8fd6b6816276b63837fe667
+    Hash: 67d8aed62aed571c51437bcf99e4848d
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Man/MatureMan/One_Sword/Npc_001_simalin_001.prefab
 Dependencies:

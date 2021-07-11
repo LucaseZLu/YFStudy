@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3345611482
+CRC: 1869918906
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c36de92b0556bda9ec42c1145229e397
+    Hash: 4cc08c0682e533efa389d0151e837d1b
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,8 +21,9 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animal/Mouse/Npc_001_shandiandiao_001.prefab
 Dependencies:
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/animal/mouse/npc_001_shandiandiao_001/npc_001_shandiandiao_001.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/animal/mouse/npc_001_shandiandiao_001/materials/npc_001_shandiandiao_001.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/animal/mouse/npc_001_shandiandiao_001/npc_001_shandiandiao_001.assetbundle

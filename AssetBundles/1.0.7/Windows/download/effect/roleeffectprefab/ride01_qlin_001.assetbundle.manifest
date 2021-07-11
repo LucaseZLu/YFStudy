@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2545278369
+CRC: 2540372487
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e1a9bbd6cadfeaa2eb8c63e7fe5e3a00
+    Hash: a298a6e26fe090c3bea0507648baa7fb
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 568bf43fb5cf90f4195ed6f07073b9b6
+    Hash: 87d8350b46029255406d612579664277
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -19,6 +19,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 199
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/RoleEffectPrefab/ride01_qlin_001.prefab
 Dependencies:

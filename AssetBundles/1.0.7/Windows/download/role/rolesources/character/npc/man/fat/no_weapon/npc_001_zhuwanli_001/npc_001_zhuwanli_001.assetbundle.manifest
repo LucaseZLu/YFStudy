@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2631188520
+CRC: 1631550292
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4232e25de6b4e1d43457ef6728f90334
+    Hash: c8ea97cefc2029b192ee7f73a25ce8b2
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/Fat/No_Weapon/Npc_001_zhuwanli_001/Npc_001_zhuwanli_001.FBX
 Dependencies:

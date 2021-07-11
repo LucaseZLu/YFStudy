@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2045127439
+CRC: 220949216
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8bc31832e2fe149c8c45f4056dd5d0e0
+    Hash: 294dd3e35b82f42f2072532313ae09ae
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/Magic/Npc_001_yuanguqihun_001/Npc_001_yuanguqihun_001.FBX
 Dependencies:

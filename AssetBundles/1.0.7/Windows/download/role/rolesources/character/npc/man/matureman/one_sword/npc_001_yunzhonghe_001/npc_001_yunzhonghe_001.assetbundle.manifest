@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1385388598
+CRC: 1815140211
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 253c4181f67876083abeec4d79e952eb
+    Hash: 0742d81ed8b049aa0e2da2493d0814d5
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/One_Sword/Npc_001_yunzhonghe_001/Npc_001_yunzhonghe_001.FBX
 Dependencies:

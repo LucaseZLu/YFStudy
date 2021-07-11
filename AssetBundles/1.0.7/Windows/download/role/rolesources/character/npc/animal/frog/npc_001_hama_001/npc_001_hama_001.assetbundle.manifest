@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1699697692
+CRC: 1184660112
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b463707fbbcbeccd66b8c5b6bb60c6a3
+    Hash: 7e7cbd55bfc235100394278965ae0afc
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Animal/Frog/Npc_001_hama_001/Npc_001_hama_001.FBX
 Dependencies:

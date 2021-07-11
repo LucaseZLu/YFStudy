@@ -1,16 +1,17 @@
 ManifestFileVersion: 0
-CRC: 1952267946
+CRC: 2537965864
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 14df3dea4763d1432e19130b904eba22
+    Hash: deeca5a759172054d3ea715ee004f2cd
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 525b72fdacf3aef7d65f355ad8f17a96
+    Hash: b0363f7088f9761414f730641bf9a24b
 HashAppended: 0
 ClassTypes:
 - Class: 28
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/EffectSources/texture/effect_wufeng001.tga
 Dependencies: []

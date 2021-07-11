@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2159987405
+CRC: 1637933351
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ff95eb84802cc3c628d1ccbec93d2b82
+    Hash: ddaf1d300c5cf8c20c6dabb4bfd8ba6e
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,8 +21,9 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Woman/MatureFemale/One_Sword/Npc_001_muwanqing_001.prefab
 Dependencies:
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/woman/maturefemale/one_sword/npc_001_muwanqing_001/npc_001_muwanqing_001.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/woman/maturefemale/one_sword/npc_001_muwanqing_001/materials/npc_001_muwanqing_001.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/woman/maturefemale/one_sword/npc_001_muwanqing_001/npc_001_muwanqing_001.assetbundle

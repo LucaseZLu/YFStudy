@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3738860847
+CRC: 445062991
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b00038928e249dd0d0e4fe02ac5b4f45
+    Hash: 82966426ada6ee2672e0a65e5ae58920
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Player/Animation/Xiaoyao_001/Skill_Hanshuangnuxue_Start.anim
 Dependencies: []

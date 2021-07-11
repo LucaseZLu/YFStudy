@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 266686122
+CRC: 2288716776
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 067a29ff26c40d8c543b97db8bc0ce19
+    Hash: 833c74ae22ce653b2ae32672588b452f
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animal/Tiger/Npc_001_shizi_002.prefab
 Dependencies:

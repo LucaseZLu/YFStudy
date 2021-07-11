@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1111882549
+CRC: 4033057040
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2c471106e3592c278641fb0d48dbce40
+    Hash: 99aaf81eb72458b775afc192bd39fd80
   TypeTreeHash:
     serializedVersion: 2
     Hash: d6eea2cdb046ba7c7fe3f3886765843c
@@ -23,6 +23,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/No_Weapon/Npc_001_zhudanchen_001/Npc_001_zhudanchen_001.FBX
 Dependencies:

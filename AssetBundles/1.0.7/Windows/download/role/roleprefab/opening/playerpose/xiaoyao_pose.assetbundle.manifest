@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2972988974
+CRC: 2133855379
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d9abda33a1b791c4cab37ac338c921a5
+    Hash: 4bcd7a911878a49d44e1dfab5c9fc791
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Opening/PlayerPose/Xiaoyao_Pose.anim
 Dependencies: []

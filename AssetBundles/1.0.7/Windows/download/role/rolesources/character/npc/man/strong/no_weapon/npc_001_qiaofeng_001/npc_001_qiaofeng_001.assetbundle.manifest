@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3845184506
+CRC: 1645409882
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9c74a9e99333fa34e3857a9b9f2f5357
+    Hash: 5e65e348e5d953d53d60debfba415156
   TypeTreeHash:
     serializedVersion: 2
     Hash: d6eea2cdb046ba7c7fe3f3886765843c
@@ -23,6 +23,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/Strong/No_Weapon/Npc_001_qiaofeng_001/Npc_001_qiaofeng_001.FBX
 Dependencies:

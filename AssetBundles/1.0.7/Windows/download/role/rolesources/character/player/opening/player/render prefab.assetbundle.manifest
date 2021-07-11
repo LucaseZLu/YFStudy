@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2118623619
+CRC: 1442089242
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 53deb445fc64f23f861e1f0ed5bdbc67
+    Hash: e4d6f7cc4dd6f3d9607ebdd2727a2655
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -21,10 +21,11 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 43
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Player/Opening/Player/Render prefab.prefab
 Dependencies:
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/player/opening/player/materials/render
-  prefab02.assetbundle
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/player/opening/player/materials/render
   prefab01.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/player/opening/player/materials/render
+  prefab02.assetbundle

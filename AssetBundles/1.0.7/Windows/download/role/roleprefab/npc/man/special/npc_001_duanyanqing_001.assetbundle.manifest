@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3564494429
+CRC: 4272884558
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a61f824eda350432d84aeb1112bad6f5
+    Hash: c5f2388bf8ad720d8d67f0fce84bab64
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Man/Special/Npc_001_duanyanqing_001.prefab
 Dependencies:

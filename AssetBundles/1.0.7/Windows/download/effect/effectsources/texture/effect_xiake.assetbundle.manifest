@@ -1,16 +1,17 @@
 ManifestFileVersion: 0
-CRC: 135108654
+CRC: 1883970158
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1aea813a8969b354773b7c8dbb850589
+    Hash: 5957212338f80fcb9e9c115ffc6e714e
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 525b72fdacf3aef7d65f355ad8f17a96
+    Hash: b0363f7088f9761414f730641bf9a24b
 HashAppended: 0
 ClassTypes:
 - Class: 28
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/EffectSources/texture/effect_xiake.tga
 Dependencies: []

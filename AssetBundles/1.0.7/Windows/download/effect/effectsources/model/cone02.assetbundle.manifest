@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2502712229
+CRC: 3020129859
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 39bc425b669ca3c8d6c6b9aa2d076353
+    Hash: 0407f1b54006959997d0e10849d9edc4
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 35b36f5babfbffec6f91a1d6c810571d
+    Hash: f64856a3d606b613608cbf22df470c60
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -23,6 +23,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/EffectSources/model/Cone02.FBX
 Dependencies: []

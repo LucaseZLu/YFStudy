@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2198890873
+CRC: 1947570747
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 97afe4f00b2ae7a0cbe031010957be85
+    Hash: 4834edb4920f261b28e37d9ee53f210b
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Man/MatureMan/No_Weapon/Yanmenguan_Fight.anim
 Dependencies: []

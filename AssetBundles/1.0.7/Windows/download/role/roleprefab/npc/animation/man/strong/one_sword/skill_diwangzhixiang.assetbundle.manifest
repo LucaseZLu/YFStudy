@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2607510989
+CRC: 1321130782
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8d3d086c6b239e06d13dc19dc43a54e7
+    Hash: d868055f26b02890a12c0b8c74cf28af
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Man/Strong/One_Sword/Skill_Diwangzhixiang.anim
 Dependencies: []

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2086601296
+CRC: 292702855
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: cca0fd8dc8430e9419396592d6b8fa6a
+    Hash: 725ac858215679251776cadeddc89095
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Man/MatureMan/Magic/Knockback_02.anim
 Dependencies: []

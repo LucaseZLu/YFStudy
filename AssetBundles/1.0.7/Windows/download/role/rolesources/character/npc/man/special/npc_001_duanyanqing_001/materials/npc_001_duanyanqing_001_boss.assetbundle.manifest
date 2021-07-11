@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3649391375
+CRC: 1373946289
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 11709e56ebfe9681fe3c30d25ed01e9e
+    Hash: 3aa10f49eee4f47a57d2733cb5ce84a8
   TypeTreeHash:
     serializedVersion: 2
     Hash: 45875108e441588ead174e12e00e97b4
@@ -11,8 +11,9 @@ HashAppended: 0
 ClassTypes:
 - Class: 21
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/Special/Npc_001_duanyanqing_001/Materials/Npc_001_duanyanqing_001_boss.mat
 Dependencies:
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/man/special/npc_001_duanyanqing_001/materials/npc_001_duanyanqing_001.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/effect_wufeng001.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/man/special/npc_001_duanyanqing_001/materials/npc_001_duanyanqing_001.assetbundle

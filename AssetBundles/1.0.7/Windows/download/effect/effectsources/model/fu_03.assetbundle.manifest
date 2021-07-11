@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2600685496
+CRC: 3739911643
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: db97a655708b98dbad575561fd550568
+    Hash: 2a3c8f69b359cbd72efe320046fcc139
   TypeTreeHash:
     serializedVersion: 2
     Hash: c6a0cadf2099d5c140bfc97a5b64da28
@@ -25,6 +25,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 111
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/EffectSources/model/Fu_03.FBX
 Dependencies:

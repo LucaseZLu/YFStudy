@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 117229040
+CRC: 87957900
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: cf11c28487c9091e6bf8a3040ca4c920
+    Hash: 70a48aca5019d47016097ac3fa0c380d
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 95522753467fe2c40ffeae69a96f6c06
+    Hash: 3f11f0752ff5b1245dcd6c7dbce7078a
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -27,6 +27,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 95
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/EffectSources/model/qizi01.FBX
 Dependencies: []

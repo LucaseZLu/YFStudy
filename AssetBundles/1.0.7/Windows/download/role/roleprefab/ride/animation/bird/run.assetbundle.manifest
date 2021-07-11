@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 239940212
+CRC: 3463406116
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 69805038bebed906e14d9971bb735555
+    Hash: a176d9404036e49527693fb871bc73be
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Ride/Animation/Bird/Run.anim
 Dependencies: []

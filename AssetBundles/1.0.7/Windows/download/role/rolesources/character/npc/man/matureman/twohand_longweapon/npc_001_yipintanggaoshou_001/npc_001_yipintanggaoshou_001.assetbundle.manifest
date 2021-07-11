@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2987055210
+CRC: 2416547443
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d47a943fbaf8e8a7ad18c549b0ed42b8
+    Hash: 0e262f78bb3eb3466b174fb09a8385fc
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/Twohand_LongWeapon/Npc_001_yipintanggaoshou_001/Npc_001_yipintanggaoshou_001.FBX
 Dependencies:

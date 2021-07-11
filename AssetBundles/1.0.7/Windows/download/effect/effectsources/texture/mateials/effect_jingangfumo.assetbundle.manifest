@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1863830147
+CRC: 4047495761
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9c8265ca5eefbb076d779490c74516ca
+    Hash: d9b9c66fbd575f3830b94f9e71595cdd
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,6 +15,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/EffectSources/texture/mateials/effect_jingangfumo.mat
 Dependencies:

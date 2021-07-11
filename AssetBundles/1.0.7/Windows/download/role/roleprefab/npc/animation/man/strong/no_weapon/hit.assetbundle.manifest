@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2995041431
+CRC: 1415836101
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4f15a9d23e9272976153f4fb0d49e49c
+    Hash: 99ce07721f847007f1f887b9cfbfe618
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Man/Strong/No_Weapon/Hit.anim
 Dependencies: []

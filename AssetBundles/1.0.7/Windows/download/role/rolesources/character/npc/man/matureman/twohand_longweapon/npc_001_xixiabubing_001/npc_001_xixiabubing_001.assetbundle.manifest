@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1778096904
+CRC: 3704086489
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 197a8414453ed7e015c89c1650c2aed3
+    Hash: 3cf9f6d1a8a28a5b71ea1dc71e7f6f63
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/Twohand_LongWeapon/Npc_001_xixiabubing_001/Npc_001_xixiabubing_001.FBX
 Dependencies:

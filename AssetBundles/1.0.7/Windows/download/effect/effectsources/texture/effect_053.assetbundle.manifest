@@ -1,16 +1,17 @@
 ManifestFileVersion: 0
-CRC: 194436613
+CRC: 3849114103
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6667a94e283bd698d3704078c7e90f56
+    Hash: 2cd338745ae7fc56f94d4a88be342ea0
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 525b72fdacf3aef7d65f355ad8f17a96
+    Hash: b0363f7088f9761414f730641bf9a24b
 HashAppended: 0
 ClassTypes:
 - Class: 28
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/EffectSources/texture/effect_053.png
 Dependencies: []

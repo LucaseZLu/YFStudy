@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3396082556
+CRC: 2965439130
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f55ef7bb9d306ed13909a58fc74e8bde
+    Hash: ccbd8f7260719884d056e0594eb236b4
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Woman/MatureFemale/One_Sword/Npc_001_azi_001.prefab
 Dependencies:

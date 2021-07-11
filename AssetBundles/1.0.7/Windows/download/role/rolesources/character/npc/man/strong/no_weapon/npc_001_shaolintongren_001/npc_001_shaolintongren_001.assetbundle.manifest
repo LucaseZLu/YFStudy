@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4164018260
+CRC: 1649042293
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 62781142ed3952eaf018886f833e60bd
+    Hash: 8f28b2b0f6eddcb1d59a6257ffd9b788
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/Strong/No_Weapon/Npc_001_shaolintongren_001/Npc_001_shaolintongren_001.FBX
 Dependencies:

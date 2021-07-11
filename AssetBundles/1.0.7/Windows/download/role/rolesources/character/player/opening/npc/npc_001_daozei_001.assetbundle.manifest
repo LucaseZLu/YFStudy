@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 655536565
+CRC: 1807261910
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8e82bd57a7df89efb7d12046ed9f63f0
+    Hash: 40c2a0ac871db86dc69ba16b0dd7150f
   TypeTreeHash:
     serializedVersion: 2
     Hash: d6eea2cdb046ba7c7fe3f3886765843c
@@ -23,6 +23,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Player/Opening/NPC/Npc_001_daozei_001.FBX
 Dependencies:

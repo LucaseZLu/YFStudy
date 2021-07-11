@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2084203793
+CRC: 3711796960
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6986633cbafc29960e07c870fe6892cb
+    Hash: 567640d0f9bf4981bee80b3affa04352
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Man/MatureMan/Skill/Skill_Zhansiqingnashou.anim
 Dependencies: []

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3044102218
+CRC: 3280633974
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 74b92eadcfd150e920cb4f03a7249697
+    Hash: c066e2bb4f4da225d224c24a59ddac11
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Ride/Qicheng_001_bendiao_001.prefab
 Dependencies:

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2435365654
+CRC: 1833361114
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5b9d7886335425b0d81ac019e67b9170
+    Hash: 4acface66bd68c89a6dd7213107743f8
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animal/Tiger/Npc_001_hu_002.prefab
 Dependencies:

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3134872082
+CRC: 2249872686
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a46d28ff45a8f48711deefc486bb5daa
+    Hash: c48638faadd931c712662f8be4382240
   TypeTreeHash:
     serializedVersion: 2
     Hash: c6a0cadf2099d5c140bfc97a5b64da28
@@ -25,6 +25,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 111
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Player/Weapon/Xiaoyao/Fu_010_002/Fu_010_002.FBX
 - Assets/Download/Role/RoleSources/Character/Player/Weapon/Xiaoyao/Fu_010_002/Fu_010_002.anim

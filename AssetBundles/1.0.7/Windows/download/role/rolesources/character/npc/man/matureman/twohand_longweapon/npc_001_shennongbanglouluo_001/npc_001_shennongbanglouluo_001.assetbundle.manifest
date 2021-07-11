@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3023447631
+CRC: 3288681925
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3877428088801b1d8a9c2e98625a372a
+    Hash: 52937252de3004502e53ba94049eb942
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/Twohand_LongWeapon/Npc_001_shennongbanglouluo_001/Npc_001_shennongbanglouluo_001.FBX
 Dependencies:

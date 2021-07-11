@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3751331463
+CRC: 3299915967
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6bfeb3b299d9d861928722045f7c335f
+    Hash: fc699fae06daeb5155e1d79cf904d659
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Man/MatureMan/Skill/Skill_Fushiwubian.anim
 Dependencies: []

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4209447244
+CRC: 1069669908
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b16c8a7c4109c3221f8ec423d3870c76
+    Hash: 5512640abe07cc0906f81d673cb1783e
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Player/Shaolin_001/Zy_shaolin_001_100t/Zy_shaolin_001_100t.prefab
 Dependencies:

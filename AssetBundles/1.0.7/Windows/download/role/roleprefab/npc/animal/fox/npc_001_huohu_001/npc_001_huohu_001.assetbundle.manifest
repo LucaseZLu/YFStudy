@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4084115814
+CRC: 3462149550
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d7dd27cc252afe95c8188957c62cec47
+    Hash: 883b969dbefba3f19909d8df656a1bfd
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,8 +21,9 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animal/Fox/Npc_001_huohu_001/Npc_001_huohu_001.prefab
 Dependencies:
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/animal/fox/npc_001_huohu_001/npc_001_huohu_001.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/animal/fox/npc_001_huohu_001/materials/npc_001_huohu_001.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/animal/fox/npc_001_huohu_001/npc_001_huohu_001.assetbundle

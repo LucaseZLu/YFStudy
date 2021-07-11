@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 900017204
+CRC: 367340566
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b992db0e504ae8839b0053980f7f510d
+    Hash: 04725c03d623a7e8111a62f05f35d9f9
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animal/Bear/Npc_001_xiong_001.prefab
 Dependencies:

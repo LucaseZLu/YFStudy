@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1065883263
+CRC: 1215618906
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3ac9bf12377be1f6bd02c93081aef01b
+    Hash: 92e56bba14822c3ebdc9ec2ad98d4035
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Man/MatureMan/One_Sword/Npc_001_murongfu_002.prefab
 Dependencies:

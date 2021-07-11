@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2971355906
+CRC: 3506550163
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: af74da1079afa3fa004f2210fbceacc9
+    Hash: 0f3c47aab71fffebdb60d7863e9cb4c8
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 52a414f981dc5a178b0e58574e6cbefd
+    Hash: b07e95eec8d55770ffce51414c7b0714
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 199
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/RoleEffectPrefab/buff_bingdong001.prefab
 Dependencies:

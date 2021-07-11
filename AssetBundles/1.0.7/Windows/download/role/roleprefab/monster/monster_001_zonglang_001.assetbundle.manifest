@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 158489634
+CRC: 66837846
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d9f41fb3d0acccd8aa13e68eb440ec95
+    Hash: fb1da39866ecd1b78489fa84131f5de4
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Monster/Monster_001_zonglang_001.prefab
 Dependencies:

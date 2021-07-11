@@ -1,18 +1,19 @@
 ManifestFileVersion: 0
-CRC: 596097290
+CRC: 663091722
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: fa16533877fbdf3d631a91750f31505f
+    Hash: 65c78ee2f2deb5b58d407c22b8d6bd64
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 51c330083d5400b0454ce4c6d8549953
+    Hash: dec3e2af1faec76e8a64c5d552cb672c
 HashAppended: 0
 ClassTypes:
 - Class: 21
   Script: {instanceID: 0}
 - Class: 28
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Building/fb_banghui_qizi01/Materials/fb_banghui_qizi04.jpg
 - Assets/Download/Role/RoleSources/Character/Npc/Building/fb_banghui_qizi01/Materials/fb_banghui_qizi04.mat

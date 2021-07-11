@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4063224921
+CRC: 2462994754
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: cd0237b5633e2309d0275c3b3ffb8784
+    Hash: 23537afac1d36d080a51ec567d36eaa4
   TypeTreeHash:
     serializedVersion: 2
     Hash: b4acd3be16b2e90d8e55e23bd1c11454
@@ -23,6 +23,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 95
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Weapon/Shaolin_001/Gun_001_001.prefab
 Dependencies:

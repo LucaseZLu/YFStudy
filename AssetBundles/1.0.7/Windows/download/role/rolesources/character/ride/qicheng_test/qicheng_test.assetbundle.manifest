@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3740990631
+CRC: 3724167166
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 76d24b535b5325eb3b6f57124d0e1831
+    Hash: 1cc00c79c8df6c7520203075b1a9f172
   TypeTreeHash:
     serializedVersion: 2
     Hash: d6eea2cdb046ba7c7fe3f3886765843c
@@ -23,6 +23,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Ride/Qicheng_Test/Qicheng_test.FBX
 Dependencies:

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1075819186
+CRC: 2363941481
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4db92ab5ed9926b29d34d8d0f2f40fbf
+    Hash: ec2560b5c849d623d6b5907509811bed
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Woman/MatureFemale/One_Sword/Npc_001_mantuoshashou_001/Npc_001_mantuoshashou_001.FBX
 Dependencies:

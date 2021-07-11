@@ -1,16 +1,17 @@
 ManifestFileVersion: 0
-CRC: 2345497675
+CRC: 3021391751
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 336af19d7c0952ab1d76cf3b39846fa2
+    Hash: 708d818dfb02602f112503e60988137e
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 525b72fdacf3aef7d65f355ad8f17a96
+    Hash: b0363f7088f9761414f730641bf9a24b
 HashAppended: 0
 ClassTypes:
 - Class: 28
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/EffectSources/texture/lighting_00/lighting_003_3.jpg
 Dependencies: []

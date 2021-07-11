@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3726490899
+CRC: 506810657
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b4617e3d04d7d61ba4937d8a9a483f30
+    Hash: 9b589925529187164786ceb4b3c63d3b
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/No_Weapon/Npc_001_simalin_002/Npc_001_simalin_002.FBX
 Dependencies:

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1096630959
+CRC: 1165256202
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0fd0c91bfde6bec6d338039aebab359b
+    Hash: 8a7e172d689685584c8c10a2c720b956
   TypeTreeHash:
     serializedVersion: 2
     Hash: c6a0cadf2099d5c140bfc97a5b64da28
@@ -25,8 +25,9 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 111
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/RoleEffectPrefab/loli_attack_fu003.prefab
 Dependencies:
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_fu002_01.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/model/fu_03.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_fu002_01.assetbundle

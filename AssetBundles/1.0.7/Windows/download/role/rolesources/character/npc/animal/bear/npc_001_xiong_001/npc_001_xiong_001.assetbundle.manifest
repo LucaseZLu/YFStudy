@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 380065677
+CRC: 3101733785
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e58888a942a6e0f7cc648e5f5e1ad04e
+    Hash: 2eb1db8ad9dd9b0f7f660643f0f44c25
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Animal/Bear/Npc_001_xiong_001/Npc_001_xiong_001.FBX
 Dependencies:

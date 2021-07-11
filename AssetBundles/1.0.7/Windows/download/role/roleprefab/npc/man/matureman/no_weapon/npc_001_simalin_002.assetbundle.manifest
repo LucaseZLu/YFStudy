@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 578662465
+CRC: 2494096332
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c738e97c4f1ff5d3c9e8f7737de64ddb
+    Hash: 2aef72bebba380893398ad11982be434
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Man/MatureMan/No_Weapon/Npc_001_simalin_002.prefab
 Dependencies:

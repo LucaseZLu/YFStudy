@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1371781236
+CRC: 2055069919
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 97c07c1a60e44e80db6f3b7798f7a085
+    Hash: 7d69e19d28a68402e772deb463ee2d53
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Man/Fat/TwoHand_LongWeapon/Dead.anim
 Dependencies: []

@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 805858347
+CRC: 3440118803
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 854f727ed5202a0af4392edb3a24f032
+    Hash: e4b8202a630db418f218e86ce6c4b448
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,6 +15,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/Twohand_LongWeapon/Npc_001_nvzhenlieren_001/Materials/Npc_001_nvzhenlieren_001.tga
 - Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/Twohand_LongWeapon/Npc_001_nvzhenlieren_001/Materials/Npc_001_nvzhenlieren_001.mat

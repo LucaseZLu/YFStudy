@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1144794574
+CRC: 3982401551
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 05b16aa9699419428c25a92ca0e8ae56
+    Hash: ff7a1df054634e47c3d8b430d80d6ad7
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animal/Bird/Npc_001_fenghuang_001.prefab
 Dependencies:

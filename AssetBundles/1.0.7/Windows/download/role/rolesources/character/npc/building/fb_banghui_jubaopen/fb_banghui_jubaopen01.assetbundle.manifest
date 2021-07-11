@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4119302372
+CRC: 2215767261
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 01cf950ee436b0e01d894fc9847a219f
+    Hash: db5f90f574d1b29a991767e840e61f72
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 43
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Building/fb_banghui_jubaopen/fb_banghui_jubaopen01.FBX
 Dependencies:

@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3349663068
+CRC: 1942625835
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 035e636321334bebadac39b0e88dc1b7
+    Hash: 0751c0f3fbca7179492c559112e40593
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 35b36f5babfbffec6f91a1d6c810571d
+    Hash: f64856a3d606b613608cbf22df470c60
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -23,6 +23,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/EffectSources/model/mesh_tielian_001.FBX
 Dependencies: []

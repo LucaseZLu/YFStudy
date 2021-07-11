@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 581524000
+CRC: 286200930
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ade84f1413377e73514f09f58977ebe1
+    Hash: 6961abd76ac76ea39e379c5ecb8034f0
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/Midget/No_Weapon/Npc_001_jianghuxieshi_001/Npc_001_jianghuxieshi_001.FBX
 Dependencies:

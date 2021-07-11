@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2783908592
+CRC: 3208974531
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: db7775c871a536aed12c8ba6f846a09c
+    Hash: 126894298bfc819ab24ce6de46c1f818
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,6 +15,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Player/Opening/Back/Materials/run.mat
 - Assets/Download/Role/RoleSources/Character/Player/Opening/Back/Materials/run.png

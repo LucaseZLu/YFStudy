@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3210300563
+CRC: 1322548759
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 040a69fe56908b95da93c8e9ee762f3f
+    Hash: 8672c6aa86315dcf5aee4dd3124599da
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 18d9bb4d47b424ec9fb3afa70ce56f07
+    Hash: c31af75079f831b04b55fc6ad0a01bd2
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -25,8 +25,9 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Download/Effect/EffectSources/model/shadow.mat
 - Assets/Download/Effect/EffectSources/model/shadow.FBX
+- Assets/Download/Effect/EffectSources/model/shadow.mat
 Dependencies:
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/shadow.assetbundle

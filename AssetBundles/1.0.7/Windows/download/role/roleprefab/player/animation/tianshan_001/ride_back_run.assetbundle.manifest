@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 221303542
+CRC: 2697667648
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2c81aa6de2da6be6fd21d882a5d6e398
+    Hash: d85efab478d5ba826f29ad71b25c2e03
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Player/Animation/Tianshan_001/Ride_Back_Run.anim
 Dependencies: []

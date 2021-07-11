@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2040046684
+CRC: 4275603308
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a9aafbeb9d75dac21dc02d7776cf26da
+    Hash: e4cf48cb89caca01b42975b9dec69a8b
   TypeTreeHash:
     serializedVersion: 2
     Hash: 90c842aa54c4b1d02c188cf3c20cd62a
@@ -23,9 +23,10 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 841b7718783fc4a41bee9448116642e0, type: 3}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/RoleEffectPrefab/scene_zudangmen_001.prefab
 Dependencies:
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/model/mesh_zudangmen.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_109.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_109_01.assetbundle
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/model/mesh_zudangmen.assetbundle

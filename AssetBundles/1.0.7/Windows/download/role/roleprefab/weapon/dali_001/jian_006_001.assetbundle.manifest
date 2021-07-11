@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4136579505
+CRC: 2515310702
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e755beaf7867bda6d37489887592f2aa
+    Hash: 2dce7c3db5fcec447080075df034389e
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8542ed9d93673e256be30bb0523839d9
@@ -23,6 +23,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 111
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Weapon/Dali_001/Jian_006_001.prefab
 Dependencies:

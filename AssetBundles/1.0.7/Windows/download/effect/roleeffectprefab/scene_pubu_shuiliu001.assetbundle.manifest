@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1518862763
+CRC: 969860325
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e498d288927221e5d6b753fd18884291
+    Hash: fda72137b299391349fd6c7638f03e86
   TypeTreeHash:
     serializedVersion: 2
     Hash: 920a31ad29d238db7f39e8ddec25dbab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 841b7718783fc4a41bee9448116642e0, type: 3}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/RoleEffectPrefab/scene_pubu_shuiliu001.prefab
 Dependencies:

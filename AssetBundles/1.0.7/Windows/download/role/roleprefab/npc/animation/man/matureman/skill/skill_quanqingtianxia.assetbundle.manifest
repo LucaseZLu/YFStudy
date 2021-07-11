@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3543301806
+CRC: 2477405592
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e3dd61751241e2933e7fb5c777547f3f
+    Hash: 2b2a020700b481fa8e74deac46866a67
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Man/MatureMan/Skill/Skill_Quanqingtianxia.anim
 Dependencies: []

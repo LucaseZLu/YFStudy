@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1636085510
+CRC: 1626402159
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 36ae39882d061e47196705d3e78548b1
+    Hash: 54782271d85333d40564c644e494decf
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 43
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/EffectSources/model/mesh_huan004.FBX
 Dependencies:

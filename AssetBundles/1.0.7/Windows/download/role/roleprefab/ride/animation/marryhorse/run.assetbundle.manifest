@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1581605701
+CRC: 2621338227
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1e96b9b4eb2623ccd9cf7190fbeb8424
+    Hash: a7a3a5017a9169d9145eafa978f7a19c
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Ride/Animation/Marryhorse/Run.anim
 Dependencies: []

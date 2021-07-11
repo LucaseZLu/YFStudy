@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2942969355
+CRC: 75268719
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 18a9eac23705ebc90fabdd8e804236e5
+    Hash: 5398878e56f44ce5df057aabccefc22a
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/Strong/No_Weapon/Npc_Yanmenguan_Strong/Npc_Yanmenguan_Strong.FBX
 Dependencies:

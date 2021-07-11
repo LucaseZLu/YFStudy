@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1902415620
+CRC: 3820934152
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a56836a7a09e4d04371de227e376b0f2
+    Hash: 08d50b1a38f203d0f285850dd3793f56
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8542ed9d93673e256be30bb0523839d9
@@ -23,8 +23,9 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 111
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Weapon/Dali_001/Jian_002_001.prefab
 Dependencies:
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/player/weapon/dali/jian_002_001/materials/jian_002_001.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/player/weapon/dali/jian_002_001/jian_002_001.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/player/weapon/dali/jian_002_001/materials/jian_002_001.assetbundle

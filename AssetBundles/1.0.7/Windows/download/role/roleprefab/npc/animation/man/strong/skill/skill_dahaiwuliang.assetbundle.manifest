@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 337831440
+CRC: 2368589929
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a465a2d2553001cf0f0d87468c6ca3b3
+    Hash: af60d933dc56e49bcaa2fdfc11642cbf
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Man/Strong/Skill/Skill_Dahaiwuliang.anim
 Dependencies: []

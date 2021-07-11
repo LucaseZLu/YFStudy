@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 373271667
+CRC: 139878896
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4fa649602ef053a3d5336fc1e19e2680
+    Hash: b152b1b7d90f45022dcfcf4c9eea9fe2
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Player/Animation/Dali_001/Fastrun.anim
 Dependencies: []

@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2148637398
+CRC: 2545194387
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 15dfab3a681ea3c20a5df6e8cd1121f9
+    Hash: 9147f20a455f77b8163482248a30e975
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,6 +15,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/EffectSources/texture/mateials/effect_433_01.mat
 Dependencies:

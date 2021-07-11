@@ -93,9 +93,12 @@ namespace YouYou
         /// <returns></returns>
         public Dictionary<string, AssetBundleInfoEntity> GetAssetBundleVersionList(ref string version)
         {
-            version = PlayerPrefs.GetString(ConstDefine.ResourceVersion);
-            string json = IOUtil.GetFileText(LocalVersionFilePath);
-            return JsonMapper.ToObject<Dictionary<string, AssetBundleInfoEntity>>(json);
+            // version = PlayerPrefs.GetString(ConstDefine.ResourceVersion);
+            // string json = IOUtil.GetFileText(LocalVersionFilePath);
+            // return JsonMapper.ToObject<Dictionary<string, AssetBundleInfoEntity>>(json);
+            byte[] buffer = IOUtil.GetFileBuffer(LocalVersionFilePath);
+            Dictionary<string, AssetBundleInfoEntity> dic = ResourceManager.GetAssetBundleVersionList(buffer, ref version);
+            return dic;
         }
         #endregion
     }

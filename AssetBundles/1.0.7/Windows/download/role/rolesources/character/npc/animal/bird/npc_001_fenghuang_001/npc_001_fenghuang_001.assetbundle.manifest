@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1471093814
+CRC: 1314668634
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b704388b77479148ab0cb8ae9de2a2a4
+    Hash: 0e1c9a1483e57fa559f8aafd83540e4c
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Animal/Bird/Npc_001_fenghuang_001/Npc_001_fenghuang_001.FBX
 Dependencies:

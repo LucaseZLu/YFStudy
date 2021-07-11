@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3471276653
+CRC: 1438599194
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 31f5ca0b5205e7cdb7351ea71ef8fdfe
+    Hash: 1d06faa1338423fbb99b08395959690f
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Player/Animation/Tianshan_001/Die.anim
 Dependencies: []

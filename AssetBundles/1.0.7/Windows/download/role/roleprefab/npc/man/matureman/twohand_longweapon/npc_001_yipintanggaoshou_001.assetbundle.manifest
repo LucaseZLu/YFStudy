@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2343090425
+CRC: 3863347569
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d89cfb9852552dea0cbfd54347d647be
+    Hash: 1f1e714fbb94669751cf976d487bcd65
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Man/MatureMan/Twohand_LongWeapon/Npc_001_yipintanggaoshou_001.prefab
 Dependencies:

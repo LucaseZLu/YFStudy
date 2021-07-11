@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3325591397
+CRC: 2161262946
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 54bcf7d0a7cc1f208afa3154bab6cced
+    Hash: 3e4127493ca8e2a9cd7f7b56371e09af
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,6 +15,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Animal/Bear/Npc_001_xiong_001/Materials/Npc_001_xiong_002.tga
 - Assets/Download/Role/RoleSources/Character/Npc/Animal/Bear/Npc_001_xiong_001/Materials/Npc_001_xiong_002.mat

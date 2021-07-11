@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1844294120
+CRC: 538152347
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7e89985ea1cfa8c98685a5226531970d
+    Hash: cc8611286102d846f9004bf40807f832
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/Special/Npc_001_xiaoxueren_001/Npc_001_xiaoxueren_001.FBX
 Dependencies:

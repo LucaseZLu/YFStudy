@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2943531078
+CRC: 3933194418
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 98ddb3e7cfed806692d4da4b112e22db
+    Hash: 06df8c51c9d505c9742e53e01d0003c8
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Man/Strong/One_Sword/Npc_001_fengboe_001.prefab
 Dependencies:

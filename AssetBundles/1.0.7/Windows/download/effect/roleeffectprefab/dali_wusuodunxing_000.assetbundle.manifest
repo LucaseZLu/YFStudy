@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 43701988
+CRC: 3941949064
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 45ea43ea50a80dc8182ab552633ac772
+    Hash: 292bff61d265f3b0e25740801f241aca
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 52a414f981dc5a178b0e58574e6cbefd
+    Hash: b07e95eec8d55770ffce51414c7b0714
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 199
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/RoleEffectPrefab/dali_wusuodunxing_000.prefab
 Dependencies:

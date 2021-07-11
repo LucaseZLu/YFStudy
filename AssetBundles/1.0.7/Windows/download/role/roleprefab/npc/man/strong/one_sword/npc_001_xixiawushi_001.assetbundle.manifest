@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2088606090
+CRC: 1419502127
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 03142103013c85b2ef8268cc85b09e34
+    Hash: 0afb7f3ad9bc09a9ebce532d895cac7a
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,8 +21,9 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Man/Strong/One_Sword/Npc_001_xixiawushi_001.prefab
 Dependencies:
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/man/strong/one_sword/npc_001_xixiawushi_001/npc_001_xixiawushi_001.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/man/strong/one_sword/npc_001_xixiawushi_001/materials/npc_001_xixiawushi_001.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/man/strong/one_sword/npc_001_xixiawushi_001/npc_001_xixiawushi_001.assetbundle

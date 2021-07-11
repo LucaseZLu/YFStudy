@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3942688454
+CRC: 3978498068
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a911f481552b1c9b75c34b7c711f7aae
+    Hash: 4c50fdcf130a4c096d2c12cbdd22111a
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,8 +21,9 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Ride/Qicheng_001_bendiao_002.prefab
 Dependencies:
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/ride/qicheng_001_bendiao_001/qicheng_001_bendiao_001.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/ride/qicheng_001_bendiao_001/materials/qicheng_001_bendiao_002.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/ride/qicheng_001_bendiao_001/qicheng_001_bendiao_001.assetbundle

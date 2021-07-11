@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2702435527
+CRC: 2287632105
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7e8e23453ddbc84ccadb64db2517fb63
+    Hash: ecedd70764dd39307bffadbdd6d508ca
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Woman/MatureFemale/One_Sword/Npc_001_liqiushui_001/Npc_001_liqiushui_001.FBX
 Dependencies:

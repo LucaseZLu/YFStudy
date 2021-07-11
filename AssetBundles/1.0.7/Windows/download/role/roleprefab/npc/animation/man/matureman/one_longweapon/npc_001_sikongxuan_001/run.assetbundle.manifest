@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3248015903
+CRC: 3199735979
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 465956e979811a1f0a57003ae9cce189
+    Hash: 803c565002f60491673fdb15c1282064
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Man/MatureMan/One_LongWeapon/Npc_001_sikongxuan_001/Run.anim
 Dependencies: []

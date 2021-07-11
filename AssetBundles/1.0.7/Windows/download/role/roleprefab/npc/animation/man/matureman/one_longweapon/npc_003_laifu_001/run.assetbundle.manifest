@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1321084341
+CRC: 451444919
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: caf008961b5772586aaa3bd9f20d0bd7
+    Hash: 0a6f0d60188a28fcb6d72cc6dbf019f6
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Man/MatureMan/One_LongWeapon/Npc_003_laifu_001/Run.anim
 Dependencies: []

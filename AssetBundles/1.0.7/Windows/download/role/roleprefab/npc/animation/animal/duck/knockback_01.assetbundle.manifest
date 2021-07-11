@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3875486589
+CRC: 718996636
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c0eb0109487f7c92e285e15a0e6d8692
+    Hash: 9a2ea1b00e825200e38843b7e70257c1
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Animal/Duck/Knockback_01.anim
 Dependencies: []

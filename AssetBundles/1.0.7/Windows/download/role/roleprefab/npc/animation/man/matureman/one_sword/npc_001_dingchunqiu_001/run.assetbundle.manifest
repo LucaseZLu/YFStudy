@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 650527786
+CRC: 3909682382
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7dfdd20e6456a23c37f540ccedd72818
+    Hash: f00cc1bd36d2367d36659db72872a889
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Man/MatureMan/One_Sword/Npc_001_dingchunqiu_001/Run.anim
 Dependencies: []

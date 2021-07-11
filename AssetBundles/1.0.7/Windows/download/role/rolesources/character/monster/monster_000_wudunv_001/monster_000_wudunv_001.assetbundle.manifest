@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3449675939
+CRC: 3314099993
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 08b0ba8f796bcbe4089607394e9a7159
+    Hash: 5afb1f092904a2d7b55888d51ef59828
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Monster/Monster_000_wudunv_001/Monster_000_wudunv_001.FBX
 Dependencies:

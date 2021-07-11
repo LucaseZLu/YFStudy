@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1415102503
+CRC: 2784287372
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 67204df7602e8efd45bc9c9de6344f9d
+    Hash: 30f71912db025f2970c0ff4843f4024c
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,8 +21,9 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Monster/Monster_001_zonglang_002.prefab
 Dependencies:
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/monster/monster_001_zonglang_001/monster_001_zonglang_001.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/monster/monster_001_zonglang_001/materials/monster_001_zonglang_002.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/monster/monster_001_zonglang_001/monster_001_zonglang_001.assetbundle

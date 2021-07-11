@@ -1,16 +1,17 @@
 ManifestFileVersion: 0
-CRC: 1250515101
+CRC: 2609417846
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d37f0afcd6a9b4ca01beb1f5555d6cba
+    Hash: a53fcfef2a0652de95aac3d9ac51c48d
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 525b72fdacf3aef7d65f355ad8f17a96
+    Hash: b0363f7088f9761414f730641bf9a24b
 HashAppended: 0
 ClassTypes:
 - Class: 28
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Player/Loli/Sz_001_xiaoyaonvhat_001_hht.tga
 Dependencies: []

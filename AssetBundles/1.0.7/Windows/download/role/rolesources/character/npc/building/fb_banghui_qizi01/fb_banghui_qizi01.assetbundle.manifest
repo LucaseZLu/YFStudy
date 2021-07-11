@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3035954684
+CRC: 4059172382
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 69f2e75d531420fed77e225a43bf284a
+    Hash: de440e3cbbd9d90ef51630e7e98789b7
   TypeTreeHash:
     serializedVersion: 2
     Hash: d6eea2cdb046ba7c7fe3f3886765843c
@@ -23,6 +23,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Building/fb_banghui_qizi01/fb_banghui_qizi01.FBX
 Dependencies:

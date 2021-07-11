@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2158321496
+CRC: 2777291480
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1049e294d6fce07e3f3139c1ad4ab1d2
+    Hash: 6ad0ae328e6aeb0bd2f3e020b5114fab
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,6 +15,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/Strong/No_Weapon/Npc_001_shaolintongren_001/Materials/Npc_001_shaolintongren_001.mat
 - Assets/Download/Role/RoleSources/Character/Npc/Man/Strong/No_Weapon/Npc_001_shaolintongren_001/Materials/Npc_001_shaolintongren_001.tga

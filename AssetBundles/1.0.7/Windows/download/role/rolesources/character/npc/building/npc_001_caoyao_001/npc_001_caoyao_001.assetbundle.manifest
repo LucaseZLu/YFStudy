@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 602577555
+CRC: 2534994548
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 10223414f882368826cb87a5f7f41e1b
+    Hash: fc13b61e0690a4b4c70f7662acfec9c3
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 43
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Building/Npc_001_caoyao_001/Npc_001_caoyao_001.FBX
 Dependencies:

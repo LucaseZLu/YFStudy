@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 160696389
+CRC: 3632262212
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3d910da20dcf1851df5c56e630eb53fb
+    Hash: 078a04875dec89e2fecd30ae391ac9c5
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,8 +21,9 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Player/Xiaoyao_001/Zy_xiaoyao_001_qyt/Zy_xiaoyao_001_qyt.prefab
 Dependencies:
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/player/xiaoyao_001/zy_xiaoyao_001_qyt/zy_xiaoyao_001_qyt.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/player/xiaoyao_001/zy_xiaoyao_001_qyt/materials/zy_xiaoyao_001_qyt.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/player/xiaoyao_001/zy_xiaoyao_001_qyt/zy_xiaoyao_001_qyt.assetbundle

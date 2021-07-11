@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1003023141
+CRC: 4225400829
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: eaec374937cf2a54a30e98e96dfa368a
+    Hash: 3d9f8061dd2023db238784c871c935ba
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/Strong/Twohand_LongWeapon/Npc_003_daozei_001/Npc_003_daozei_001.FBX
 Dependencies:

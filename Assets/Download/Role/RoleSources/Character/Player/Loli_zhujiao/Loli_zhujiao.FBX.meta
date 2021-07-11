@@ -1,131 +1,341 @@
 fileFormatVersion: 2
 guid: 4302ee7ca126eff4e96f3399da411899
 ModelImporter:
-  serializedVersion: 23
-  fileIDToRecycleName:
-    100000: Bip01
-    100002: Bip01 Head
-    100004: Bip01 L Calf
-    100006: Bip01 L Clavicle
-    100008: Bip01 L Finger0
-    100010: Bip01 L Finger01
-    100012: Bip01 L Finger1
-    100014: Bip01 L Finger11
-    100016: Bip01 L Foot
-    100018: Bip01 L Forearm
-    100020: Bip01 L Hand
-    100022: Bip01 L Thigh
-    100024: Bip01 L Toe0
-    100026: Bip01 L UpperArm
-    100028: Bip01 Neck
-    100030: Bip01 Pelvis
-    100032: Bip01 R Calf
-    100034: Bip01 R Clavicle
-    100036: Bip01 R Finger0
-    100038: Bip01 R Finger01
-    100040: Bip01 R Finger1
-    100042: Bip01 R Finger11
-    100044: Bip01 R Foot
-    100046: Bip01 R Forearm
-    100048: Bip01 R Hand
-    100050: Bip01 R Thigh
-    100052: Bip01 R Toe0
-    100054: Bip01 R UpperArm
-    100056: Bip01 Spine
-    100058: Bip01 Spine1
-    100060: Bip01 Spine2
-    100062: Bone01
-    100064: Bone01(mirrored)
-    100066: Bone02
-    100068: Bone02(mirrored)
-    100070: Bone04
-    100072: Bone04(mirrored)
-    100074: Box01
-    100076: Dummy01
-    100078: Dummy02
-    100080: //RootNode
-    100082: Sz_001_xiaoyaonv_001_hht
-    100084: Sz_001_xiaoyaonvhat_001_hht
-    400000: Bip01
-    400002: Bip01 Head
-    400004: Bip01 L Calf
-    400006: Bip01 L Clavicle
-    400008: Bip01 L Finger0
-    400010: Bip01 L Finger01
-    400012: Bip01 L Finger1
-    400014: Bip01 L Finger11
-    400016: Bip01 L Foot
-    400018: Bip01 L Forearm
-    400020: Bip01 L Hand
-    400022: Bip01 L Thigh
-    400024: Bip01 L Toe0
-    400026: Bip01 L UpperArm
-    400028: Bip01 Neck
-    400030: Bip01 Pelvis
-    400032: Bip01 R Calf
-    400034: Bip01 R Clavicle
-    400036: Bip01 R Finger0
-    400038: Bip01 R Finger01
-    400040: Bip01 R Finger1
-    400042: Bip01 R Finger11
-    400044: Bip01 R Foot
-    400046: Bip01 R Forearm
-    400048: Bip01 R Hand
-    400050: Bip01 R Thigh
-    400052: Bip01 R Toe0
-    400054: Bip01 R UpperArm
-    400056: Bip01 Spine
-    400058: Bip01 Spine1
-    400060: Bip01 Spine2
-    400062: Bone01
-    400064: Bone01(mirrored)
-    400066: Bone02
-    400068: Bone02(mirrored)
-    400070: Bone04
-    400072: Bone04(mirrored)
-    400074: Box01
-    400076: Dummy01
-    400078: Dummy02
-    400080: //RootNode
-    400082: Sz_001_xiaoyaonv_001_hht
-    400084: Sz_001_xiaoyaonvhat_001_hht
-    4300000: Box01
-    4300002: Sz_001_xiaoyaonv_001_hht
-    4300004: Sz_001_xiaoyaonvhat_001_hht
-    7400000: Skill_Xp_Loop
-    7400002: Skill_Xp_End
-    7400004: Run
-    7400006: Stand
-    7400008: Skill_01
-    7400010: Skill_02
-    7400012: Die
-    7400014: Attack_01
-    7400016: Attack_02
-    7400018: Attack_03
-    7400020: Skill_03
-    9500000: //RootNode
-    11100000: //RootNode
-    13700000: Box01
-    13700002: Sz_001_xiaoyaonv_001_hht
-    13700004: Sz_001_xiaoyaonvhat_001_hht
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Bip01
+  - first:
+      1: 100002
+    second: Bip01 Head
+  - first:
+      1: 100004
+    second: Bip01 L Calf
+  - first:
+      1: 100006
+    second: Bip01 L Clavicle
+  - first:
+      1: 100008
+    second: Bip01 L Finger0
+  - first:
+      1: 100010
+    second: Bip01 L Finger01
+  - first:
+      1: 100012
+    second: Bip01 L Finger1
+  - first:
+      1: 100014
+    second: Bip01 L Finger11
+  - first:
+      1: 100016
+    second: Bip01 L Foot
+  - first:
+      1: 100018
+    second: Bip01 L Forearm
+  - first:
+      1: 100020
+    second: Bip01 L Hand
+  - first:
+      1: 100022
+    second: Bip01 L Thigh
+  - first:
+      1: 100024
+    second: Bip01 L Toe0
+  - first:
+      1: 100026
+    second: Bip01 L UpperArm
+  - first:
+      1: 100028
+    second: Bip01 Neck
+  - first:
+      1: 100030
+    second: Bip01 Pelvis
+  - first:
+      1: 100032
+    second: Bip01 R Calf
+  - first:
+      1: 100034
+    second: Bip01 R Clavicle
+  - first:
+      1: 100036
+    second: Bip01 R Finger0
+  - first:
+      1: 100038
+    second: Bip01 R Finger01
+  - first:
+      1: 100040
+    second: Bip01 R Finger1
+  - first:
+      1: 100042
+    second: Bip01 R Finger11
+  - first:
+      1: 100044
+    second: Bip01 R Foot
+  - first:
+      1: 100046
+    second: Bip01 R Forearm
+  - first:
+      1: 100048
+    second: Bip01 R Hand
+  - first:
+      1: 100050
+    second: Bip01 R Thigh
+  - first:
+      1: 100052
+    second: Bip01 R Toe0
+  - first:
+      1: 100054
+    second: Bip01 R UpperArm
+  - first:
+      1: 100056
+    second: Bip01 Spine
+  - first:
+      1: 100058
+    second: Bip01 Spine1
+  - first:
+      1: 100060
+    second: Bip01 Spine2
+  - first:
+      1: 100062
+    second: Bone01
+  - first:
+      1: 100064
+    second: Bone01(mirrored)
+  - first:
+      1: 100066
+    second: Bone02
+  - first:
+      1: 100068
+    second: Bone02(mirrored)
+  - first:
+      1: 100070
+    second: Bone04
+  - first:
+      1: 100072
+    second: Bone04(mirrored)
+  - first:
+      1: 100074
+    second: Box01
+  - first:
+      1: 100076
+    second: Dummy01
+  - first:
+      1: 100078
+    second: Dummy02
+  - first:
+      1: 100080
+    second: //RootNode
+  - first:
+      1: 100082
+    second: Sz_001_xiaoyaonv_001_hht
+  - first:
+      1: 100084
+    second: Sz_001_xiaoyaonvhat_001_hht
+  - first:
+      4: 400000
+    second: Bip01
+  - first:
+      4: 400002
+    second: Bip01 Head
+  - first:
+      4: 400004
+    second: Bip01 L Calf
+  - first:
+      4: 400006
+    second: Bip01 L Clavicle
+  - first:
+      4: 400008
+    second: Bip01 L Finger0
+  - first:
+      4: 400010
+    second: Bip01 L Finger01
+  - first:
+      4: 400012
+    second: Bip01 L Finger1
+  - first:
+      4: 400014
+    second: Bip01 L Finger11
+  - first:
+      4: 400016
+    second: Bip01 L Foot
+  - first:
+      4: 400018
+    second: Bip01 L Forearm
+  - first:
+      4: 400020
+    second: Bip01 L Hand
+  - first:
+      4: 400022
+    second: Bip01 L Thigh
+  - first:
+      4: 400024
+    second: Bip01 L Toe0
+  - first:
+      4: 400026
+    second: Bip01 L UpperArm
+  - first:
+      4: 400028
+    second: Bip01 Neck
+  - first:
+      4: 400030
+    second: Bip01 Pelvis
+  - first:
+      4: 400032
+    second: Bip01 R Calf
+  - first:
+      4: 400034
+    second: Bip01 R Clavicle
+  - first:
+      4: 400036
+    second: Bip01 R Finger0
+  - first:
+      4: 400038
+    second: Bip01 R Finger01
+  - first:
+      4: 400040
+    second: Bip01 R Finger1
+  - first:
+      4: 400042
+    second: Bip01 R Finger11
+  - first:
+      4: 400044
+    second: Bip01 R Foot
+  - first:
+      4: 400046
+    second: Bip01 R Forearm
+  - first:
+      4: 400048
+    second: Bip01 R Hand
+  - first:
+      4: 400050
+    second: Bip01 R Thigh
+  - first:
+      4: 400052
+    second: Bip01 R Toe0
+  - first:
+      4: 400054
+    second: Bip01 R UpperArm
+  - first:
+      4: 400056
+    second: Bip01 Spine
+  - first:
+      4: 400058
+    second: Bip01 Spine1
+  - first:
+      4: 400060
+    second: Bip01 Spine2
+  - first:
+      4: 400062
+    second: Bone01
+  - first:
+      4: 400064
+    second: Bone01(mirrored)
+  - first:
+      4: 400066
+    second: Bone02
+  - first:
+      4: 400068
+    second: Bone02(mirrored)
+  - first:
+      4: 400070
+    second: Bone04
+  - first:
+      4: 400072
+    second: Bone04(mirrored)
+  - first:
+      4: 400074
+    second: Box01
+  - first:
+      4: 400076
+    second: Dummy01
+  - first:
+      4: 400078
+    second: Dummy02
+  - first:
+      4: 400080
+    second: //RootNode
+  - first:
+      4: 400082
+    second: Sz_001_xiaoyaonv_001_hht
+  - first:
+      4: 400084
+    second: Sz_001_xiaoyaonvhat_001_hht
+  - first:
+      43: 4300000
+    second: Box01
+  - first:
+      43: 4300002
+    second: Sz_001_xiaoyaonv_001_hht
+  - first:
+      43: 4300004
+    second: Sz_001_xiaoyaonvhat_001_hht
+  - first:
+      74: 7400000
+    second: Skill_Xp_Loop
+  - first:
+      74: 7400002
+    second: Skill_Xp_End
+  - first:
+      74: 7400004
+    second: Run
+  - first:
+      74: 7400006
+    second: Stand
+  - first:
+      74: 7400008
+    second: Skill_01
+  - first:
+      74: 7400010
+    second: Skill_02
+  - first:
+      74: 7400012
+    second: Die
+  - first:
+      74: 7400014
+    second: Attack_01
+  - first:
+      74: 7400016
+    second: Attack_02
+  - first:
+      74: 7400018
+    second: Attack_03
+  - first:
+      74: 7400020
+    second: Skill_03
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      111: 11100000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: Box01
+  - first:
+      137: 13700002
+    second: Sz_001_xiaoyaonv_001_hht
+  - first:
+      137: 13700004
+    second: Sz_001_xiaoyaonvhat_001_hht
   externalObjects:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: 'Material #26'
+      name: Material #26
     second: {fileID: 2100000, guid: ff931c2207fcc454c86e092578185081, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: 'Material #42'
+      name: Material #42
     second: {fileID: 2100000, guid: 4dafd0c8e4efa894ba816e936376dcee, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: 'Material #46'
+      name: Material #46
     second: {fileID: 2100000, guid: 41400751b248d7842b34f9419adac379, type: 2}
   materials:
-    importMaterials: 1
+    materialImportMode: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 0
@@ -154,6 +364,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Skill_Xp_Loop
       takeName: Take 001
+      internalID: 0
       firstFrame: 279
       lastFrame: 320
       wrapMode: 0
@@ -304,6 +515,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Skill_Xp_End
       takeName: Take 001
+      internalID: 0
       firstFrame: 320
       lastFrame: 372
       wrapMode: 0
@@ -454,6 +666,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Run
       takeName: Take 001
+      internalID: 0
       firstFrame: 10
       lastFrame: 32
       wrapMode: 0
@@ -604,6 +817,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Stand
       takeName: Take 001
+      internalID: 0
       firstFrame: 490
       lastFrame: 530
       wrapMode: 0
@@ -754,6 +968,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Skill_01
       takeName: Take 001
+      internalID: 0
       firstFrame: 397
       lastFrame: 475
       wrapMode: 0
@@ -904,6 +1119,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Skill_02
       takeName: Take 001
+      internalID: 0
       firstFrame: 1290
       lastFrame: 1373
       wrapMode: 0
@@ -1054,6 +1270,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Die
       takeName: Take 001
+      internalID: 0
       firstFrame: 970
       lastFrame: 1070
       wrapMode: 0
@@ -1204,6 +1421,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Attack_01
       takeName: Take 001
+      internalID: 0
       firstFrame: 1098
       lastFrame: 1122
       wrapMode: 0
@@ -1354,6 +1572,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Attack_02
       takeName: Take 001
+      internalID: 0
       firstFrame: 1122
       lastFrame: 1146
       wrapMode: 0
@@ -1504,6 +1723,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Attack_03
       takeName: Take 001
+      internalID: 0
       firstFrame: 1146
       lastFrame: 1172
       wrapMode: 0
@@ -1654,6 +1874,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Skill_03
       takeName: Take 001
+      internalID: 0
       firstFrame: 120
       lastFrame: 196
       wrapMode: 0
@@ -1807,34 +2028,45 @@ ModelImporter:
     globalScale: 0.01
     meshCompression: 3
     addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
     importVisibility: 0
     importBlendShapes: 1
     importCameras: 0
     importLights: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
     preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
     indexFormat: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 0
-    previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 2
     normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 1
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -1844,14 +2076,17 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 0.01
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 1
   humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
   additionalBone: 0
   userData: 
   assetBundleName: download/role/rolesources/character/player/loli_zhujiao/loli_zhujiao

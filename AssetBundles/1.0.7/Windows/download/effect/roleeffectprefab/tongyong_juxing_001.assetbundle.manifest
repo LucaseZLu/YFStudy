@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3978130830
+CRC: 464753074
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a7ee8168113f3d1275fde1780a3efafa
+    Hash: 30c580dfb40c1024835b750f5442e39a
   TypeTreeHash:
     serializedVersion: 2
     Hash: a33cf649865cb3c0056ee5671e5f04e3
@@ -19,6 +19,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 43
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/RoleEffectPrefab/tongyong_juxing_001.prefab
 Dependencies:

@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 4201546165
+CRC: 1850651533
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 321259aac8dec8142854523b36887996
+    Hash: 605391ef7bc007a4482faf7c5504fc86
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,6 +15,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Woman/MatureFemale/One_Sword/Npc_001_lingjiugongshengshi_001/Materials/Npc_001_lingjiugongshengshi_001.tga
 - Assets/Download/Role/RoleSources/Character/Npc/Woman/MatureFemale/One_Sword/Npc_001_lingjiugongshengshi_001/Materials/Npc_001_lingjiugongshengshi_001.mat

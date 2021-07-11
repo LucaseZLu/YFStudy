@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2325346713
+CRC: 596573160
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7c1e0f63f57d04d76e8f452be2f27934
+    Hash: ab53ab46de69bd44fdffb7a9d3ece29f
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Woman/MatureFemale/One_Sword/Npc_001_azhu_001/Npc_001_azhu_001.FBX
 Dependencies:

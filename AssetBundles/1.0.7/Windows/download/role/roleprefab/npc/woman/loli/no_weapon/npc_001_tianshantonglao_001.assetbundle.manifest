@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2064329438
+CRC: 7721631
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e4d73c2d3f87c0e7059446252db556e5
+    Hash: 4e1a7994666874a0e767a4e911b9af92
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Woman/Loli/No_Weapon/Npc_001_tianshantonglao_001.prefab
 Dependencies:

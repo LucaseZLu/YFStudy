@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 832848802
+CRC: 3529921373
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d0f70e81645a855ad757bdb46922e999
+    Hash: e7b50535175af891ae67eb629a0f416e
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,6 +15,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/Broadsword/Npc_001_zhongwanchou_001/Materials/npc_001_zhongwanchou_001.tga
 - Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/Broadsword/Npc_001_zhongwanchou_001/Materials/npc_001_zhongwanchou_001.mat

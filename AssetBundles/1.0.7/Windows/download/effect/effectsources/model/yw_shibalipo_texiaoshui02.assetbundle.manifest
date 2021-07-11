@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 365926515
+CRC: 1564242584
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 88f450871a0ccbb8445722c901a9ca75
+    Hash: 23d25c30fc3d237d1c50c08114eac5ac
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 35b36f5babfbffec6f91a1d6c810571d
+    Hash: f64856a3d606b613608cbf22df470c60
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -23,6 +23,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/EffectSources/model/yw_shibalipo_texiaoshui02.FBX
 Dependencies: []

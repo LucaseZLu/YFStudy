@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2995260550
+CRC: 3992326020
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1eff328dffe1f4add84f7443d64ae064
+    Hash: 9c1ed5e9845a9fcfe88969fac2e38a45
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Woman/Loli/No_Weapon/Npc_001_xiaoyaojieyin_001.prefab
 Dependencies:

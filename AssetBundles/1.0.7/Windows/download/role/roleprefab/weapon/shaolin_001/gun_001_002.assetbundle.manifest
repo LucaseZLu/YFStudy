@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1952411136
+CRC: 2022046727
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 844bb1410e638a389c15b64f93b5992b
+    Hash: 825181f8565e151b5451ecd6afa73e33
   TypeTreeHash:
     serializedVersion: 2
     Hash: b4acd3be16b2e90d8e55e23bd1c11454
@@ -23,8 +23,9 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 95
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Weapon/Shaolin_001/Gun_001_002.prefab
 Dependencies:
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/player/weapon/shaolin/gun_001_002/materials/gun_001_002.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/player/weapon/shaolin/gun_001_002/gun_001_002.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/player/weapon/shaolin/gun_001_002/materials/gun_001_002.assetbundle

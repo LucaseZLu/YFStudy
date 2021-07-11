@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1422916162
+CRC: 2767100595
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c02513ad2e5898744bd9e84117ff808d
+    Hash: bb9768fba9bc2c4f7d5f02c5b286dc05
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,6 +15,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/Strong/One_Sword/Npc_000_daoke_001/Materials/Npc_000_daoke_001.jpg
 - Assets/Download/Role/RoleSources/Character/Npc/Man/Strong/One_Sword/Npc_000_daoke_001/Materials/Npc_000_daoke_001.mat

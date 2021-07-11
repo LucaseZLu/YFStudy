@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3520778519
+CRC: 637035159
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d09d3a19090b803bea807cc3462a24a3
+    Hash: 75e771f8a044512115c13e3c7c82040c
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Man/MatureMan/Broadsword/Npc_001_daozei_001.prefab
 Dependencies:

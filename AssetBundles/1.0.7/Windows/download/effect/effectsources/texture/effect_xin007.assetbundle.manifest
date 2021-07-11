@@ -1,16 +1,17 @@
 ManifestFileVersion: 0
-CRC: 1991928883
+CRC: 1817485134
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d21ec5580061fe71933774262dd41a72
+    Hash: e55d0828690b1796850b61631c60e661
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 525b72fdacf3aef7d65f355ad8f17a96
+    Hash: b0363f7088f9761414f730641bf9a24b
 HashAppended: 0
 ClassTypes:
 - Class: 28
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/EffectSources/texture/effect_xin007.png
 Dependencies: []

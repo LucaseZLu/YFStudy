@@ -1,21 +1,47 @@
 fileFormatVersion: 2
 guid: 402d44dc89d514847bcb28ed82fbebd7
 ModelImporter:
-  serializedVersion: 23
-  fileIDToRecycleName:
-    100000: Fu_001_001
-    100002: //RootNode
-    100004: Fu_007_001_1
-    400000: Fu_001_001
-    400002: //RootNode
-    400004: Fu_007_001_1
-    2300000: Fu_001_001
-    2300002: Fu_007_001_1
-    3300000: Fu_001_001
-    3300002: Fu_007_001_1
-    4300000: Fu_007_001_1
-    4300002: Fu_001_001
-    9500000: //RootNode
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Fu_001_001
+  - first:
+      1: 100002
+    second: //RootNode
+  - first:
+      1: 100004
+    second: Fu_007_001_1
+  - first:
+      4: 400000
+    second: Fu_001_001
+  - first:
+      4: 400002
+    second: //RootNode
+  - first:
+      4: 400004
+    second: Fu_007_001_1
+  - first:
+      23: 2300000
+    second: Fu_001_001
+  - first:
+      23: 2300002
+    second: Fu_007_001_1
+  - first:
+      33: 3300000
+    second: Fu_001_001
+  - first:
+      33: 3300002
+    second: Fu_007_001_1
+  - first:
+      43: 4300000
+    second: Fu_007_001_1
+  - first:
+      43: 4300002
+    second: Fu_001_001
+  - first:
+      95: 9500000
+    second: //RootNode
   externalObjects:
   - first:
       type: UnityEngine:Material
@@ -28,7 +54,7 @@ ModelImporter:
       name: orig_Fu_007_001_1
     second: {fileID: 2100000, guid: 822e04a80187ae749a2921e90b20c3ae, type: 2}
   materials:
-    importMaterials: 1
+    materialImportMode: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 0
@@ -60,34 +86,45 @@ ModelImporter:
     globalScale: 0.01
     meshCompression: 2
     addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
     importVisibility: 0
     importBlendShapes: 1
     importCameras: 0
     importLights: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
     preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
     indexFormat: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 0
-    previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 2
     normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 1
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -97,14 +134,17 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 0.01
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 0
   humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
   additionalBone: 0
   userData: 
   assetBundleName: download/role/rolesources/character/player/weapon/xiaoyao/fu_007_001/fu_007_001

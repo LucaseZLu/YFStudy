@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2089534604
+CRC: 2161137988
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8733aead5daae6ae8474f229456edcac
+    Hash: 9da9103d6b22176b0c60797d9f52b23e
   TypeTreeHash:
     serializedVersion: 2
     Hash: d6eea2cdb046ba7c7fe3f3886765843c
@@ -23,6 +23,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/No_Weapon/Npc_001_duanyu_001/Npc_001_duanyu_001.FBX
 Dependencies:

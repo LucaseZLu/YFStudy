@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1734063577
+CRC: 1802438842
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 70c95d2c535c127a9dfd9eac7666c8aa
+    Hash: 59441793e38246f88d4d77b59567e69d
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Man/Special/Snowman/Run.anim
 Dependencies: []

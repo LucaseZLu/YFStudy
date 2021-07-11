@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1649919735
+CRC: 2976440750
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 39c79f73012cf02b073e8e2259d62166
+    Hash: c1d3f8d6fceab1e7f270b2439f976ce8
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,6 +15,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Animal/Tiger/Npc_001_shizi_002/Materials/Npc_001_shizi_002.tga
 - Assets/Download/Role/RoleSources/Character/Npc/Animal/Tiger/Npc_001_shizi_002/Materials/Npc_001_shizi_002.mat

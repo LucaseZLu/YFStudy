@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2141379205
+CRC: 406809951
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4a985d7e9af45649ceb2888411c2908a
+    Hash: a66b1b73a8caef4e4eb6ad96eac03b37
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Player/Animation/Shaolin_001/Fastrun_Right.anim
 Dependencies: []

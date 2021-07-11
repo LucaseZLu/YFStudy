@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3836978005
+CRC: 2160682094
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 13d72f5e0e8c0bdab0adef3b48dc73be
+    Hash: 4b6f47ad99836f468c0f5c90f7c0f84b
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,6 +15,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Building/Npc_001_youshishuangxiong_001_dun/Materials/Npc_001_youshishuangxiong_001.mat
 Dependencies:

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1966740880
+CRC: 4097836864
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b150444f473392f3d2581913bdb2443b
+    Hash: 608f0ccce57825274456323970ee1ad8
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/No_Weapon/Npc_001_baishijing_001/Npc_001_baishijing_001.FBX
 Dependencies:

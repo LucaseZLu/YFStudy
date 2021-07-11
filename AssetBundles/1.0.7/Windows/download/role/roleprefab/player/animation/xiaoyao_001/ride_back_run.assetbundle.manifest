@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3356069939
+CRC: 1198361682
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b75c0de77a15fc2ae2f7a64f31ba524a
+    Hash: c24c832c8ba14e8ce9542239b7d402c4
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Player/Animation/Xiaoyao_001/Ride_Back_Run.anim
 Dependencies: []

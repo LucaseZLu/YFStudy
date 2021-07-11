@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2901907335
+CRC: 3274988911
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: fcea2e4095b7b987b063822141ce8837
+    Hash: a3763013db879152d88767b298091fa9
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Man/MatureMan/One_LongWeapon/Npc_001_saodiseng_001.prefab
 Dependencies:

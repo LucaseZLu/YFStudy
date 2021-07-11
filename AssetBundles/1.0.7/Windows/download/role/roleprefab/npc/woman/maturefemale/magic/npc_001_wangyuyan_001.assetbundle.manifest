@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1871466048
+CRC: 1631222529
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: fd1d325f115fab694b0bebda1d43ab29
+    Hash: fd3dfeefe5988e15c411545caa264407
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Woman/MatureFemale/Magic/Npc_001_wangyuyan_001.prefab
 Dependencies:

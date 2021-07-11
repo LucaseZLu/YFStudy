@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3989832659
+CRC: 3102365059
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: daec9690f4c9f057b32387def756b19c
+    Hash: 7b5ec580b3ff5252a53f7cf86d31250a
   TypeTreeHash:
     serializedVersion: 2
     Hash: 45875108e441588ead174e12e00e97b4
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 21
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/EffectSources/texture/mateials/r_001.mat
 Dependencies:

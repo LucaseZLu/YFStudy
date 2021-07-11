@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3720883083
+CRC: 2470969277
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8c247e2df8389ed5cce2f3b15c3e1278
+    Hash: 4e3f5e08330774a4e1f03869116a80b3
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,6 +15,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/EffectSources/texture/mateials/effect_dao005_02.mat
 Dependencies:

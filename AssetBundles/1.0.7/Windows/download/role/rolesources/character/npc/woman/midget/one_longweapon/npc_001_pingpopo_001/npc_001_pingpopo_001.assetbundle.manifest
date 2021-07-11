@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3312378943
+CRC: 1657222576
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b777da25ee0e0d9363ad3d36d67dc170
+    Hash: 02af1392f5a64a755d13a35878112777
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Woman/Midget/One_LongWeapon/Npc_001_pingpopo_001/Npc_001_pingpopo_001.FBX
 Dependencies:

@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2929272908
+CRC: 3312770841
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1235fe12cdd31c10c8c52f94c50ac0ce
+    Hash: 7e2c9e7731450a20e9641d651acac036
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 52a414f981dc5a178b0e58574e6cbefd
+    Hash: b07e95eec8d55770ffce51414c7b0714
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 199
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/RoleEffectPrefab/scene_jinbi_001.prefab
 Dependencies:

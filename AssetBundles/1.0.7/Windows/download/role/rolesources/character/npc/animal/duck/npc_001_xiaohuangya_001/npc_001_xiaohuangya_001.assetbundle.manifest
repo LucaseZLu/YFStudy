@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2721054193
+CRC: 3947395611
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 464ad5b0953a56972534155c27bae11b
+    Hash: b06a54e47d274b3ddcf5ca04371dcec9
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Animal/Duck/Npc_001_xiaohuangya_001/Npc_001_xiaohuangya_001.FBX
 Dependencies:

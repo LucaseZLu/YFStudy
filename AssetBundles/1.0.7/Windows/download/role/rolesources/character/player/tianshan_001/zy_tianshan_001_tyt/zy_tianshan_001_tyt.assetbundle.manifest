@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3266512778
+CRC: 1179663135
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ba1e90e2fb24c1e75f2b051434340210
+    Hash: 0f414a25c1704b02e31661dd8dff4497
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Player/Tianshan_001/Zy_tianshan_001_tyt/Zy_tianshan_001_tyt.FBX
 Dependencies:

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3587929080
+CRC: 459125819
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: aec77a82c1cb61164638f74009ded0d1
+    Hash: 6ce535e40ce71cde76f4ed967e32139e
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Ride/Qicheng_001_jiehunmache_001.prefab
 Dependencies:

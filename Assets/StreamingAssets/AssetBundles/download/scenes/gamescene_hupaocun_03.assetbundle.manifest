@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 2486220586
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9eef5bc777a6af12ac1e0ed1e1524595
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 959a88d6351b72e9ed8249fa2d799fd7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Download/Scenes/GameScene_HuPaoCun_03.unity
+Dependencies:
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/cusshaders.assetbundle

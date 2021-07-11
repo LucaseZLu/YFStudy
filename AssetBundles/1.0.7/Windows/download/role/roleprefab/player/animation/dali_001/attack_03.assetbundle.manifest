@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 676182518
+CRC: 123607125
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0756e50181d5570e04b17b18672d0603
+    Hash: ec08f45a3e3d8cdaf65eabbf2e311205
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Player/Animation/Dali_001/Attack_03.anim
 Dependencies: []

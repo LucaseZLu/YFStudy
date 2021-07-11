@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2315782071
+CRC: 2507209770
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1a0692f3b33f2e5addd2f2c640e3095f
+    Hash: 5ce586cda3e4683e75d330a4ad54dbf5
   TypeTreeHash:
     serializedVersion: 2
     Hash: 45875108e441588ead174e12e00e97b4
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 21
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/EffectSources/texture/mateials/effect_water07.mat
 Dependencies:

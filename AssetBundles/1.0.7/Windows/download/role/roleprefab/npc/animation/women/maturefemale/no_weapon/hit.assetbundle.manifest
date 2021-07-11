@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 177262188
+CRC: 1832408341
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 78245ade8c6f571d66ea41d613ffd9f4
+    Hash: 4fa3ce6ed7cd0bf0902495b6b627d5f2
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Women/MatureFemale/No_Weapon/Hit.anim
 Dependencies: []

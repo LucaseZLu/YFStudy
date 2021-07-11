@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4267526209
+CRC: 784653817
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 04397929b94a221965f981aeed779ded
+    Hash: 244ad176e71b0b729359d3aba46515fa
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Man/Fat/TwoHand_LongWeapon/Stand.anim
 Dependencies: []

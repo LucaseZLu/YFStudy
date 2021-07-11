@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 846173915
+CRC: 1692646323
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e1da25344e53e35741df5d5a0ed8b26d
+    Hash: f596655a1cd006dee779c1176fc07a63
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Player/Animation/Tianshan_001/Skill_Yingdun.anim
 Dependencies: []

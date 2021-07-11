@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3247178893
+CRC: 867533631
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e039a0acbe8b539eb276193a49c2f433
+    Hash: 6eca42dd275ee4245525ef4cef38221c
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Man/MatureMan/One_Sword/Die.anim
 Dependencies: []

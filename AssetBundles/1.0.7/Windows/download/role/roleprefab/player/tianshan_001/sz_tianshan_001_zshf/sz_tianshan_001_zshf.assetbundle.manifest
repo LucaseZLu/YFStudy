@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 535102409
+CRC: 4062737963
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7f3cbc27eceaa489daf4e0ace8622101
+    Hash: 4edd8b7be0ba1858fbb01cdcb57dc801
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,8 +21,9 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Player/Tianshan_001/Sz_tianshan_001_zshf/Sz_tianshan_001_zshf.prefab
 Dependencies:
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/player/tianshan_001/sz_tianshan_001_zshf/sz_tianshan_001_zshf.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/player/tianshan_001/sz_tianshan_001_zshf/materials/sz_tianshan_001_zshf.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/player/tianshan_001/sz_tianshan_001_zshf/sz_tianshan_001_zshf.assetbundle

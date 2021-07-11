@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2684161925
+CRC: 2255790305
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e71994b4cfcf0c5f8dccd38e87908eaf
+    Hash: a77f06a397e6ba8a412a2f20e0fb1ff8
   TypeTreeHash:
     serializedVersion: 2
     Hash: d6eea2cdb046ba7c7fe3f3886765843c
@@ -23,8 +23,9 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Player/Dali_001/Sz_dali_xsz/Dali_qinggong.FBX
 Dependencies:
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/player/dali_001/sz_dali_xsz/materials/sz_dali_xsz.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/player/dali_001/sz_dali_xsz/materials/hair_dali_001.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/player/dali_001/sz_dali_xsz/materials/sz_dali_xsz.assetbundle

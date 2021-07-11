@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3696920680
+CRC: 2927182292
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 24f73f170521771e0a45689f4bf909a5
+    Hash: bf9209ceea3de07f4da38c8a12462866
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/Fat/TwoHand_LongWeapon/Npc_001_heliantieshu_001/Npc_001_heliantieshu_001.FBX
 Dependencies:

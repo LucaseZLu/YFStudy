@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 541847703
+CRC: 1213706145
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f3a31c35182af21a1e1b196fb9a0e4bd
+    Hash: 1c63253a4fbd25a298051224189be4ef
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Opening/PlayerPose/Shaolin_Pose.anim
 Dependencies: []

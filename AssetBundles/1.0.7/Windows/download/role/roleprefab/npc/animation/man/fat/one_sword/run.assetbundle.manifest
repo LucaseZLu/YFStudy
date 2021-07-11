@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1580084616
+CRC: 1790261467
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a7b32da076f560d1a50c09b49c95a55c
+    Hash: 33e54ecb199db14f8c45cae02e08603d
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Man/Fat/One_Sword/Run.anim
 Dependencies: []

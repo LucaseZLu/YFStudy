@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1828849188
+CRC: 2013893104
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9b4417499df5749be3407400e1c12ac0
+    Hash: 920182c3f14120c6f00fe393975d0d59
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Man/MatureMan/Twohand_LongWeapon/Npc_001_xixiabubing_001.prefab
 Dependencies:

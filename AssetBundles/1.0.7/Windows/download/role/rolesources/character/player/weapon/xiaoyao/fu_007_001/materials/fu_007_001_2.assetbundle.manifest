@@ -1,16 +1,17 @@
 ManifestFileVersion: 0
-CRC: 2126973926
+CRC: 2199924489
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1fab2c95f8046caa02d53c2bb3140e6f
+    Hash: ed64669b06e570aa073cecd8d40d6231
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 525b72fdacf3aef7d65f355ad8f17a96
+    Hash: b0363f7088f9761414f730641bf9a24b
 HashAppended: 0
 ClassTypes:
 - Class: 28
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Player/Weapon/Xiaoyao/Fu_007_001/Materials/Fu_007_001_2.tga
 Dependencies: []

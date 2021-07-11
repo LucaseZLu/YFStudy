@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3059368002
+CRC: 605636351
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c2bfae913ed975e76104800efe00a5ad
+    Hash: 2adbbefe0fae079fc24e0bf8c3f34b51
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animal/Tiger/Npc_001_qiongqi_001.prefab
 Dependencies:

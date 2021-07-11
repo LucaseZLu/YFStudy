@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 676402651
+CRC: 3181013710
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8e44c7de09540133bd4fe359c9df6866
+    Hash: 4f550847e97465028c6f1bee230c2640
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Woman/MatureFemale/One_Sword/Npc_001_lingjiugongbuzhong_001.prefab
 Dependencies:

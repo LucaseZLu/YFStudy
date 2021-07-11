@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1031577509
+CRC: 2030482075
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 84ac2a603fa878c6c1bc02d68b1ed5ac
+    Hash: 3dcea2e3e11d8bed912a1506c3e6fa6b
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,7 +15,8 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Download/Role/RoleSources/Character/Player/Shaolin_001/Sz_shaolin_001_jht/Materials/Sz_shaolin_001_jht.mat
 - Assets/Download/Role/RoleSources/Character/Player/Shaolin_001/Sz_shaolin_001_jht/Materials/Sz_shaolin_001_jht.tga
+- Assets/Download/Role/RoleSources/Character/Player/Shaolin_001/Sz_shaolin_001_jht/Materials/Sz_shaolin_001_jht.mat
 Dependencies: []

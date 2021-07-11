@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 117748984
+CRC: 1495020565
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 10469a35e690c3e18bb3781f46f5de80
+    Hash: c692d0c47b2b75e136886509dfd2286c
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Woman/Loli/No_Weapon/Npc_001_xiaoyaojieyin_001/Npc_001_xiaoyaojieyin_001.FBX
 Dependencies:

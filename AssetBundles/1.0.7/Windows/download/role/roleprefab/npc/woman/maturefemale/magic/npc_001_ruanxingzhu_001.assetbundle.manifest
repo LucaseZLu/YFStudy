@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4014467231
+CRC: 2920676896
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c0ad8ffd85ca945394c96a41ce1b9145
+    Hash: 69c68aa86873ea7b1f5e44d68a501d4c
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,8 +21,9 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Woman/MatureFemale/Magic/Npc_001_ruanxingzhu_001.prefab
 Dependencies:
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/woman/maturefemale/magic/npc_001_ganbaobao_001/npc_001_ganbaobao_001.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/woman/maturefemale/magic/npc_001_ganbaobao_001/materials/npc_001_ruanxingzhu_001.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/woman/maturefemale/magic/npc_001_ganbaobao_001/npc_001_ganbaobao_001.assetbundle

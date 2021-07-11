@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1582490236
+CRC: 2150384439
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d8eaee6ae40d644497dc19b965f28bc0
+    Hash: b0702e6d87e7f7e08b23f72640879872
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 52a414f981dc5a178b0e58574e6cbefd
+    Hash: b07e95eec8d55770ffce51414c7b0714
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 199
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/RoleEffectPrefab/shaolin_jingzhongzhao_000.prefab
 Dependencies:

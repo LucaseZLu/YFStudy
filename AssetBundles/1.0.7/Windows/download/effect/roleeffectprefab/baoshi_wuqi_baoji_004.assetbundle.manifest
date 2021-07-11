@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1262641555
+CRC: 3106796961
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 81f21df3ee58021b34db63a3b0ccff36
+    Hash: 75ce584c0d53657e29e7810da8c5a8be
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 018962d9c7171af8b81980e00b102ae3
+    Hash: e9b2a957bbe8b8d29ea3b4489355259d
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -23,11 +23,12 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 199
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/RoleEffectPrefab/baoshi_wuqi_baoji_004.prefab
 Dependencies:
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_624.assetbundle
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/light_019_01.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/model/qibo_di.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_563_01.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_624.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_xulie049.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/light_019_01.assetbundle

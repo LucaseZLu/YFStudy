@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3737476860
+CRC: 4049640866
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3478b3f860b2ff6d6a1fa5f6aec7728b
+    Hash: 2856b3460f325c1f5903785d66305b64
   TypeTreeHash:
     serializedVersion: 2
     Hash: d6eea2cdb046ba7c7fe3f3886765843c
@@ -23,6 +23,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Building/Npc_001_youshishuangxiong_001_dun/Npc_001_youshishuangxiong_001_dun.FBX
 Dependencies:

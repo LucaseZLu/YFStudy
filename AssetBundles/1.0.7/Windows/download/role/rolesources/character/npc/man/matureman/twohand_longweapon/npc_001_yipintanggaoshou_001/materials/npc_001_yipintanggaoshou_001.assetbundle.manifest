@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1755258097
+CRC: 4203359474
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1f2770e639c79f5d72622a1e8afc6796
+    Hash: 36c18b3df2efbe484312d660fac81183
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,7 +15,8 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/Twohand_LongWeapon/Npc_001_yipintanggaoshou_001/Materials/Npc_001_yipintanggaoshou_001.mat
 - Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/Twohand_LongWeapon/Npc_001_yipintanggaoshou_001/Materials/Npc_001_yipintanggaoshou_001.jpg
+- Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/Twohand_LongWeapon/Npc_001_yipintanggaoshou_001/Materials/Npc_001_yipintanggaoshou_001.mat
 Dependencies: []

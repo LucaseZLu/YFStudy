@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3399148707
+CRC: 2559718875
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f36a9880c2c034e6927f0439dfd41a39
+    Hash: 24ba435a3be0c23dc584dac057402dd2
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,6 +15,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/EffectSources/model/Materials/Fu_001_001.mat
 Dependencies:

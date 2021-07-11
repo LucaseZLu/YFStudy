@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1312297597
+CRC: 237338789
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e6216ca53340c1cd133e477c4c260cbc
+    Hash: fc0941831bcd23a6b36440a2f6999eb9
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8542ed9d93673e256be30bb0523839d9
@@ -23,6 +23,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 111
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Weapon/Xiaoyao_001/Fu_002_001.prefab
 Dependencies:

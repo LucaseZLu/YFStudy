@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3467373514
+CRC: 340970789
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 47bb38126946bcf63051507eb2cfb929
+    Hash: 382204aff8a2206b8b324b348a8a54d5
   TypeTreeHash:
     serializedVersion: 2
     Hash: 45875108e441588ead174e12e00e97b4
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 21
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Player/Opening/Player/Materials/Sz_xiaoyao_login.mat
 Dependencies:

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3441799250
+CRC: 1882186082
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ab8334373b223203d41c61f7ef1c1fd5
+    Hash: c4b3035daee21e0d3377bb9328b817bc
   TypeTreeHash:
     serializedVersion: 2
     Hash: 45875108e441588ead174e12e00e97b4
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 21
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/EffectSources/texture/mateials/effect_bing008.mat
 Dependencies:

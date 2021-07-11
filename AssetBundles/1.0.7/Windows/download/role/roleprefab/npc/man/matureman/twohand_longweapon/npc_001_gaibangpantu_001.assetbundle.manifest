@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3450277827
+CRC: 1533681791
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b6d101e459446121e11846daf1487a94
+    Hash: 2c870f0bde71ef210ae482998134a261
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Man/MatureMan/Twohand_LongWeapon/Npc_001_gaibangpantu_001.prefab
 Dependencies:

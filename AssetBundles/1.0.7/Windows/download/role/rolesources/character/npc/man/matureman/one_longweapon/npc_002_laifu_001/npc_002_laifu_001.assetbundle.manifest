@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3194530456
+CRC: 3766535126
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d473be0d07f2874279687c9234331c52
+    Hash: bc07b558c0da3b770b4ddd791ebab81b
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/One_LongWeapon/Npc_002_laifu_001/Npc_002_laifu_001.FBX
 Dependencies:

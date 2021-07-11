@@ -1,16 +1,17 @@
 ManifestFileVersion: 0
-CRC: 1378097407
+CRC: 3237954698
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7b033d9c7637b772f8b080328ecaa08a
+    Hash: 21107bf27ba9736f6ae3443c8c53208a
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 525b72fdacf3aef7d65f355ad8f17a96
+    Hash: b0363f7088f9761414f730641bf9a24b
 HashAppended: 0
 ClassTypes:
 - Class: 28
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/EffectSources/texture/effect_xue001.png
 Dependencies: []

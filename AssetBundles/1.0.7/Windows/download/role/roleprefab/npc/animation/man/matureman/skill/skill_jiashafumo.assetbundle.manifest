@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3665380660
+CRC: 3557530348
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a57fa38bbafe41940499a1f61b8fa475
+    Hash: 260297bdea7297d6d930cceba0035316
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Man/MatureMan/Skill/Skill_Jiashafumo.anim
 Dependencies: []

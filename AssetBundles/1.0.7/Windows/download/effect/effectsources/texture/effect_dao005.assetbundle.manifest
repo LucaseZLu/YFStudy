@@ -1,16 +1,17 @@
 ManifestFileVersion: 0
-CRC: 4171773524
+CRC: 197395854
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: cbc3dbb1fd9fcb5105ba0a381ff8f580
+    Hash: 4dc6f2c0668b5f6a4329b111de94c3de
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 525b72fdacf3aef7d65f355ad8f17a96
+    Hash: b0363f7088f9761414f730641bf9a24b
 HashAppended: 0
 ClassTypes:
 - Class: 28
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/EffectSources/texture/effect_dao005.tga
 Dependencies: []

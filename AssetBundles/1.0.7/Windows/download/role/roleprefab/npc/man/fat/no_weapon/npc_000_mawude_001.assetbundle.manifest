@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2876065143
+CRC: 752019554
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8a73b34d36c25712d78e91116b06b669
+    Hash: b8c004487af8a38570951b80ddc541b4
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Man/Fat/No_Weapon/Npc_000_mawude_001.prefab
 Dependencies:

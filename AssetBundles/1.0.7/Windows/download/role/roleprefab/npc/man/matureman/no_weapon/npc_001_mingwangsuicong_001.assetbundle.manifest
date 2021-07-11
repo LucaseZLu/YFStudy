@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4110156637
+CRC: 1366385004
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0b06f6a3d5a68036575052aa59978357
+    Hash: 1a7dec5b9a6671ce290cd12b3ccab675
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Man/MatureMan/No_Weapon/Npc_001_mingwangsuicong_001.prefab
 Dependencies:

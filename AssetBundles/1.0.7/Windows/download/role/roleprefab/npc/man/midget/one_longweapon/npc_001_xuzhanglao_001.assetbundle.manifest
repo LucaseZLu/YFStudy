@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3514890895
+CRC: 4136692208
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6d8d65b6782979b375ce8d72e0fdad2e
+    Hash: 1a69b561c238b30bebc7178670c545ce
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Man/Midget/One_LongWeapon/Npc_001_xuzhanglao_001.prefab
 Dependencies:

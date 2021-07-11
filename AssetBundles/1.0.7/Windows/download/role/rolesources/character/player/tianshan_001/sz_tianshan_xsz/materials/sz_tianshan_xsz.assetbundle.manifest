@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2833820455
+CRC: 2109640599
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a10ceef3f4e01b16249c32ac4021ba8d
+    Hash: ae3f31a9eede45fbd9d1f33345d31459
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,6 +15,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Player/Tianshan_001/Sz_tianshan_xsz/Materials/Sz_tianshan_xsz.tga
 - Assets/Download/Role/RoleSources/Character/Player/Tianshan_001/Sz_tianshan_xsz/Materials/Sz_tianshan_xsz.mat

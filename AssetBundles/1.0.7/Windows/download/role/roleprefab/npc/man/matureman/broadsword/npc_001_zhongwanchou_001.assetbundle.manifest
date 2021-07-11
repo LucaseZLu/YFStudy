@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 438058702
+CRC: 3368849701
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d3a010afca42ac1b5a7dec22fa840298
+    Hash: 5b66e7a05ecbe619e6f67f744084d7a1
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,8 +21,9 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Man/MatureMan/Broadsword/Npc_001_zhongwanchou_001.prefab
 Dependencies:
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/man/matureman/broadsword/npc_001_zhongwanchou_001/npc_001_zhongwanchou_001.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/man/matureman/broadsword/npc_001_zhongwanchou_001/materials/npc_001_zhongwanchou_001.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/man/matureman/broadsword/npc_001_zhongwanchou_001/npc_001_zhongwanchou_001.assetbundle

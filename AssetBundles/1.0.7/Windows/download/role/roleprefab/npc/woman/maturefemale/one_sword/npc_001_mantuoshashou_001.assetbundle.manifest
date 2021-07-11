@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 147035466
+CRC: 532552913
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 48e35d6800acd63aefe2ac97738e5ed4
+    Hash: 732ae3ec3cbaf6e99b91879f5ee977a4
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Woman/MatureFemale/One_Sword/Npc_001_mantuoshashou_001.prefab
 Dependencies:

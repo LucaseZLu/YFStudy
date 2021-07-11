@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1691085062
+CRC: 825488991
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1176556b4da40f3c52bdf23c4f95be3b
+    Hash: d7fc8dc19e08ad2c69145881959c57db
   TypeTreeHash:
     serializedVersion: 2
     Hash: d6eea2cdb046ba7c7fe3f3886765843c
@@ -23,9 +23,10 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Player/Loli/luoli.FBX
 Dependencies:
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/player/loli/materials/sz_001_xiaoyaonvcloth_001_hht.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/player/loli/materials/face_001_xiaoyaonv_001.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/player/loli/materials/sz_001_xiaoyaonvcloth_001_hht.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/player/loli/materials/sz_001_xiaoyaonvhat_001_hht.assetbundle

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2876088595
+CRC: 2171445930
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 57f4e2285c039b14283fced3a23c68d0
+    Hash: 00848cc4e063bfef5ef0b06fad82a370
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Women/MatureFemale/One_Sword/Dead.anim
 Dependencies: []

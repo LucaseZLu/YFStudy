@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1746978788
+CRC: 1942497458
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7d38c90e8f83121b905da9a0b265f02e
+    Hash: 90d44cd856e241fa4fc908c9fa616516
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/Midget/One_LongWeapon/Npc_001_xuzhanglao_001/Npc_001_xuzhanglao_001.FBX
 Dependencies:

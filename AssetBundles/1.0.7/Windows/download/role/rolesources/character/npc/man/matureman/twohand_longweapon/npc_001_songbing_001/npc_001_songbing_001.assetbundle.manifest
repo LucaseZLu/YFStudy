@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1246216147
+CRC: 3099028379
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5613d9f0095620084f63f91a00595673
+    Hash: 8aa49eb57fd3df5b9c11538a7bab38f9
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/Twohand_LongWeapon/Npc_001_songbing_001/Npc_001_songbing_001.FBX
 Dependencies:

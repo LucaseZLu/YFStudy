@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1916811918
+CRC: 3820539596
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b7cb2f6b9db3277f9acec80adcd6c9f2
+    Hash: fb4d4cfaddc966e54d447f0f0e214585
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Player/Animation/Tianshan_001/Attack_03.anim
 Dependencies: []

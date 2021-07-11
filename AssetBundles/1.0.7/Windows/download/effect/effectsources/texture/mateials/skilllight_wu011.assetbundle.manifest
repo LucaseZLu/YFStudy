@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2907688152
+CRC: 823826331
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f01a24df81388bbea0a982dc87a732c8
+    Hash: c63bc452ab747e9f0d54e7c724455873
   TypeTreeHash:
     serializedVersion: 2
     Hash: 45875108e441588ead174e12e00e97b4
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 21
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/EffectSources/texture/mateials/SkillLight_wu011.mat
 Dependencies:

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3091132674
+CRC: 3777268692
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9f3df2535f105da122171697b0ee356c
+    Hash: 065f3255b92c3d4ae04440653ca5658b
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Man/MatureMan/Magic/Npc_001_xiaoyaozi_001.prefab
 Dependencies:

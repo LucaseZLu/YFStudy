@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3047631527
+CRC: 5092047
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f9aa98ec502ac008d460fe565d5ccda4
+    Hash: ee6372228532f6799c6d0c1d5bd7a611
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Ride/Qicheng_001_qilin_001/Qicheng_001_qilin_001.FBX
 Dependencies:

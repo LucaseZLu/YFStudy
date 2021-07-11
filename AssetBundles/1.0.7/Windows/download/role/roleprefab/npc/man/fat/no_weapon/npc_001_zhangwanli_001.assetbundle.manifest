@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3607724057
+CRC: 3127017944
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d14154c8438f305b253ce53bf4e1bd60
+    Hash: 3df8d5b263da9299584da96fa4665e85
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,8 +21,9 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Man/Fat/No_Weapon/Npc_001_zhangwanli_001.prefab
 Dependencies:
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/man/fat/no_weapon/npc_001_zhuwanli_001/npc_001_zhuwanli_001.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/man/fat/no_weapon/npc_001_zhuwanli_001/materials/npc_001_zhuwanli_001.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/man/fat/no_weapon/npc_001_zhuwanli_001/npc_001_zhuwanli_001.assetbundle

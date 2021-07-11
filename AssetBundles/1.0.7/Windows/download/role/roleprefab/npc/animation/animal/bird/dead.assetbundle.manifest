@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3923610153
+CRC: 271790229
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b74a102d27f1cb3aafcd926e522b7406
+    Hash: 3a17678616356aa8ecb3970ab02a5108
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Animal/Bird/Dead.anim
 Dependencies: []

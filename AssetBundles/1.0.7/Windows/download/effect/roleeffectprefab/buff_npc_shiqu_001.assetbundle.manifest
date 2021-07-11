@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3574439091
+CRC: 504654860
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2cbdb6a4eff6b3efb669c48265517111
+    Hash: fe998b98ee6bb6e896f4d01fcab21bb2
   TypeTreeHash:
     serializedVersion: 2
     Hash: 27295f96fcdc2b917bd061e8817c7e02
@@ -13,6 +13,9 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 4
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/RoleEffectPrefab/buff_npc_shiqu_001.prefab
-Dependencies: []
+Dependencies:
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/light_001.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/light_006.assetbundle

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1379649013
+CRC: 4027706033
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9979c1d1d09c0a72eb320664f90774fa
+    Hash: bd950991cccbbe3a5e528f0b4a651b9d
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Player/Animation/Dali_001/Skill_Yiyangzhi.anim
 Dependencies: []

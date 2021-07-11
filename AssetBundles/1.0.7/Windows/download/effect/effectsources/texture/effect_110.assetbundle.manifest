@@ -1,16 +1,17 @@
 ManifestFileVersion: 0
-CRC: 498395769
+CRC: 970679966
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 66cfe824b4cebb67e4c7697e68869c60
+    Hash: f7a70c3ae90051b702019f72ad288cea
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 525b72fdacf3aef7d65f355ad8f17a96
+    Hash: b0363f7088f9761414f730641bf9a24b
 HashAppended: 0
 ClassTypes:
 - Class: 28
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/EffectSources/texture/effect_110.tga
 Dependencies: []

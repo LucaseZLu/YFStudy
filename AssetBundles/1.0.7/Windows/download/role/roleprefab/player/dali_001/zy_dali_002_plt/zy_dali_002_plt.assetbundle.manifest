@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2814434941
+CRC: 4257495347
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6666701863932163b8834e0e22fa16fc
+    Hash: 83fd7b773440cac1f491b676bf4040da
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Player/Dali_001/Zy_dali_002_plt/Zy_dali_002_plt.prefab
 Dependencies:

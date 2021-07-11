@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 276225129
+CRC: 2867361152
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 119dcb5b95f9633e0d0fc2485fcf1590
+    Hash: 828d4676ad55b1fb1bf60a9aed255857
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/Broadsword/Npc_001_zhongwanchou_001/Npc_001_zhongwanchou_001.FBX
 Dependencies:

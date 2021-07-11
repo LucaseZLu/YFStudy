@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4053860729
+CRC: 4054666713
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b020f0496b55f389186a591da0be466a
+    Hash: db11a31b877f5a7e77607edd5ac9eb6a
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,8 +21,9 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Woman/MatureFemale/One_Sword/Npc_001_menggu_001.prefab
 Dependencies:
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/woman/maturefemale/one_sword/npc_001_menggu_001/npc_001_menggu_001.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/woman/maturefemale/one_sword/npc_001_menggu_001/materials/npc_001_menggu_001.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/woman/maturefemale/one_sword/npc_001_menggu_001/npc_001_menggu_001.assetbundle

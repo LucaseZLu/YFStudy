@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3290641980
+CRC: 3641322176
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8ec237e45f463690b38f94b915e2a5b5
+    Hash: 92ea677ee6e4b2152d5e67bef7a21ebb
   TypeTreeHash:
     serializedVersion: 2
     Hash: 45875108e441588ead174e12e00e97b4
@@ -11,8 +11,9 @@ HashAppended: 0
 ClassTypes:
 - Class: 21
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/Strong/No_Weapon/Npc_001_youshishuangxiong_001/Materials/Npc_001_youshishuangxiong_001_boss.mat
 Dependencies:
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/man/strong/no_weapon/npc_001_youshishuangxiong_001/materials/npc_001_youshishuangxiong_001.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/effect_wufeng001.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/man/strong/no_weapon/npc_001_youshishuangxiong_001/materials/npc_001_youshishuangxiong_001.assetbundle

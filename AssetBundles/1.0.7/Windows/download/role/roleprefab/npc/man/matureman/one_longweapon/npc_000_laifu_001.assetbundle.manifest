@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2579567077
+CRC: 3868956389
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4f9a40a110e2c5c55297f61b9c6378ae
+    Hash: 057568c4944086e2a094284d3cebfd38
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Man/MatureMan/One_LongWeapon/Npc_000_laifu_001.prefab
 Dependencies:

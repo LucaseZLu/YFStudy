@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2714850067
+CRC: 1040887253
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 35ba19fa1c8fad61fd853563325a5c39
+    Hash: 89d61bbbddeb0bcbabfd366a68ee29cb
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Man/Strong/One_Sword/Npc_001_liaobing_001.prefab
 Dependencies:

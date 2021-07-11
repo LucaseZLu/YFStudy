@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4134990931
+CRC: 1200955713
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7192f883787476a6f4df9dbab7396b62
+    Hash: de31b74d74c77b33a9cbb2b12b8c9b9d
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Man/Midget/No_Weapon/Skill_Xiaorenzhixin.anim
 Dependencies: []

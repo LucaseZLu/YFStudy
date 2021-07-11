@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2801152064
+CRC: 2048087105
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a2f98f276d09021dbf0d50ed8d1aa142
+    Hash: 2dc5f20279a81d75fac527d9cdcb6a21
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Woman/MatureFemale/Magic/Npc_001_wangyuyan_001/Npc_001_wangyuyan_001.FBX
 Dependencies:

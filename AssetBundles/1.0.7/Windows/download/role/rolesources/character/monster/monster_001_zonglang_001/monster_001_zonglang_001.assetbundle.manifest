@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2754956255
+CRC: 3867849042
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4f94b7bc3e7528d34af20cfcce684736
+    Hash: c6c2dfdacf4408aa49256e57dea9ef9f
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Monster/Monster_001_zonglang_001/Monster_001_zonglang_001.FBX
 Dependencies:

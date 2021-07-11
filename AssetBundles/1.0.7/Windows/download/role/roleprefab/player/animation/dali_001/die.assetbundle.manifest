@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1744359861
+CRC: 150848963
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 03eb7aca8bf94d105a72d6adbe916e54
+    Hash: 6c86afff72756e86157b0ce5a8f5b356
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Player/Animation/Dali_001/Die.anim
 Dependencies: []

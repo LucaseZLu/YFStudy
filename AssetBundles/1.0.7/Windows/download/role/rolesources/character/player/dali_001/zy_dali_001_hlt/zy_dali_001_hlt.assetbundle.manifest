@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4212289499
+CRC: 751575166
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4d067f7876f66e5394b099db156a92ea
+    Hash: 0b60ae7ba9b3bdb66d5f6112b1445162
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Player/Dali_001/Zy_dali_001_hlt/Zy_dali_001_hlt.FBX
 Dependencies:

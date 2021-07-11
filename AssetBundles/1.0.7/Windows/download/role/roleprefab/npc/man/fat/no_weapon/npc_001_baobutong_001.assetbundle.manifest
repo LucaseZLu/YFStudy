@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4040241471
+CRC: 1646373214
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e75c5d7ac476056f4a9b2f15cd0ef517
+    Hash: 0232ecc44e9dc5b24727b361a1752d32
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Man/Fat/No_Weapon/Npc_001_baobutong_001.prefab
 Dependencies:

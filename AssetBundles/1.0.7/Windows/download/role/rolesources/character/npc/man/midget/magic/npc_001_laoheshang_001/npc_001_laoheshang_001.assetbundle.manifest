@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4238790068
+CRC: 3869513670
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e96a07aba0914e77c3a7ae84d5247720
+    Hash: ccb251fdceea74037ef1d86857f73182
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/Midget/Magic/Npc_001_laoheshang_001/Npc_001_laoheshang_001.FBX
 Dependencies:

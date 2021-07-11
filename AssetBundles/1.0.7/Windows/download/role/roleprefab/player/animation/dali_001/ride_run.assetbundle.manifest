@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2141880200
+CRC: 1525943667
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5358ba934d331984ef7cd47cee941c22
+    Hash: beb4b896b207d591055fc0258d57495f
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Player/Animation/Dali_001/Ride_Run.anim
 Dependencies: []

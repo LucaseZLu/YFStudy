@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2310690817
+CRC: 1906556455
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e0dc835040c9cf12294d33b7ebe8b725
+    Hash: 1cf4dafe640c61449cb30bdf9d80c430
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,7 +15,8 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Download/Role/RoleSources/Character/Npc/Woman/MatureFemale/One_Sword/Npc_001_lingjiugongbuzhong_001/Materials/Npc_001_lingjiugongbuzhong_002.tga
 - Assets/Download/Role/RoleSources/Character/Npc/Woman/MatureFemale/One_Sword/Npc_001_lingjiugongbuzhong_001/Materials/Npc_001_lingjiugongbuzhong_002.mat
+- Assets/Download/Role/RoleSources/Character/Npc/Woman/MatureFemale/One_Sword/Npc_001_lingjiugongbuzhong_001/Materials/Npc_001_lingjiugongbuzhong_002.tga
 Dependencies: []

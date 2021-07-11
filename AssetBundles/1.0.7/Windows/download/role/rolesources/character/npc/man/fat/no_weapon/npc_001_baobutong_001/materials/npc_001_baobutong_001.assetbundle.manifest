@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1093913247
+CRC: 1842463909
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: bcc0ef6378a1efac54de4f3bd70ad4b4
+    Hash: f79ddef79ff183ffbaa77fcd64824546
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,6 +15,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/Fat/No_Weapon/Npc_001_baobutong_001/Materials/Npc_001_baobutong_001.mat
 - Assets/Download/Role/RoleSources/Character/Npc/Man/Fat/No_Weapon/Npc_001_baobutong_001/Materials/Npc_001_baobutong_001.tga

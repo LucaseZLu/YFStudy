@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2210226304
+CRC: 556417451
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 375388f0593bc38a8e0856ac1da93926
+    Hash: 8eeebd829a7e4c65c57431eb522e8380
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Man/MatureMan/No_Weapon/Npc_001_xuzhu_001.prefab
 Dependencies:

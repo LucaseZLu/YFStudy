@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2598896352
+CRC: 2747086806
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: db27af5b97c66d7505f8398b4e503683
+    Hash: 720c6f451c3ab39532bb9f52c6f9ec9f
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Woman/MatureFemale/One_Sword/Npc_001_lingjiugongshengshi_001/Npc_001_lingjiugongshengshi_001.FBX
 Dependencies:

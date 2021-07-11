@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1793844758
+CRC: 471219946
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 36369dd4d3ab23618b165672a56198e4
+    Hash: eb0d3c3012184cf9d633cac21ff4416f
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/No_Weapon/Npc_001_xuzhu_001/Npc_001_xuzhu_001.FBX
 Dependencies:

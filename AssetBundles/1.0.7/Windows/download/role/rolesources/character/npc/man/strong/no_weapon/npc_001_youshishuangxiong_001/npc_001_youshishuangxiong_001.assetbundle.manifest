@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2707505815
+CRC: 1609685898
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: da7e54220cbf4c86b968e56da828a0c1
+    Hash: e541417bc9ea02846b048ca30a469ac6
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/Strong/No_Weapon/Npc_001_youshishuangxiong_001/Npc_001_youshishuangxiong_001.FBX
 Dependencies:

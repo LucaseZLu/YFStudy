@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4091172899
+CRC: 86286524
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 53104bf678227acbde55181325bab2b5
+    Hash: 2cedc8c9f1e062a3430a88be5f697868
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/Strong/Twohand_LongWeapon/Npc_001_kurongdashi_001/Npc_001_kurongdashi_001.FBX
 Dependencies:

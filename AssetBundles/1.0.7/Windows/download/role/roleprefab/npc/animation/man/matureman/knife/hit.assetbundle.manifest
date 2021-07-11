@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4000074643
+CRC: 2784727336
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 235dbf850416499cafca012f05e4739c
+    Hash: ea92e7ea93c5f664e0324f9feeeb47bf
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Man/MatureMan/Knife/Hit.anim
 Dependencies: []

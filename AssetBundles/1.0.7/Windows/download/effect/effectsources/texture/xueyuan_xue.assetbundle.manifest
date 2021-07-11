@@ -1,16 +1,17 @@
 ManifestFileVersion: 0
-CRC: 3546393680
+CRC: 2186438157
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9140f98a6d62386689095c6f9519a432
+    Hash: b185566cb02a100b94d0f7a25a9c464d
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 525b72fdacf3aef7d65f355ad8f17a96
+    Hash: b0363f7088f9761414f730641bf9a24b
 HashAppended: 0
 ClassTypes:
 - Class: 28
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/EffectSources/texture/xueyuan_xue.png
 Dependencies: []

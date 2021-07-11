@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1457962897
+CRC: 760750765
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 549d7f3f06cbabc2ec3f4f0bbc13f92a
+    Hash: 84b15840c2ec9584e934699edf20b699
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Man/MatureMan/Knife/Knockback_02.anim
 Dependencies: []

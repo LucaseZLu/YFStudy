@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 497014748
+CRC: 3419730420
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 956702cfd0b2ae7d91f2ceae69c5cb77
+    Hash: a8853a3dc8c72f3a04c854830c156c18
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Man/Strong/Twohand_LongWeapon/Npc_001_kurongdashi_001.prefab
 Dependencies:

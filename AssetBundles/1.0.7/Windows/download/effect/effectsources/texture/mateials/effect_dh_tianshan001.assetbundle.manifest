@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 693425124
+CRC: 1600679886
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1eb5af63b4c8b3b2872c6fbf0fd1cd56
+    Hash: f17c6b908cd69ed3d7e199bbc96a3741
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,6 +15,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/EffectSources/texture/mateials/effect_dh_tianshan001.mat
 Dependencies:

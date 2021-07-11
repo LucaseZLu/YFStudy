@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2972191016
+CRC: 1180007083
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 48857d0fa5b4322fa73e12dfce041c8f
+    Hash: 30eb3621e33b4e6547e95a62447e50ba
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,6 +15,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Building/fb_yanziwu_mutouren_01/Materials/fb_yanziwu_mutouren_01.mat
 - Assets/Download/Role/RoleSources/Character/Npc/Building/fb_yanziwu_mutouren_01/Materials/fb_yanziwu_mutouren_01.jpg

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1771566923
+CRC: 4187723841
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: dee96254ad1381ca6824eda4fdd5d35c
+    Hash: 6920e2ac26ad907ad5ef47caba909270
   TypeTreeHash:
     serializedVersion: 2
     Hash: a543ea25167c0f2458855fa0fa4327b6
@@ -15,6 +15,9 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: eb436447a25fa8e489c1ad7b581e3357, type: 3}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/RoleEffectPrefab/shouji_boss_xue_001.prefab
-Dependencies: []
+Dependencies:
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_004.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_024.assetbundle

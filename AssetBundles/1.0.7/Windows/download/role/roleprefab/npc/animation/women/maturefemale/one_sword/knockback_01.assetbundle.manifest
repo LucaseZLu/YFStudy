@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2661221166
+CRC: 1177829446
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c834f5f6761c624cb406ff9887f608ef
+    Hash: c6afd3e6e0b2f38aad316856dafede89
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Women/MatureFemale/One_Sword/Knockback_01.anim
 Dependencies: []

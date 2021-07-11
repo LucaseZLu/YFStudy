@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 4031606899
+CRC: 2938920700
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 609cfa14e840741ec6f6699ebca9d1f8
+    Hash: 5d1659b6adf9e87587688c8973bc1e74
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,6 +15,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/EffectSources/texture/mateials/effect_522_03.mat
 Dependencies:

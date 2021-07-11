@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4256284031
+CRC: 4174541768
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d805592b3f5b97bc7d1339aa7989084e
+    Hash: 9cb3407b2ed1d282b810f8458dd51930
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Man/MatureMan/Skill/Skill_Sanxiaoxiaoyao.anim
 Dependencies: []

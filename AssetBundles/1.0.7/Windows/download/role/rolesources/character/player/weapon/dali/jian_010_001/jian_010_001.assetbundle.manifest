@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3982531818
+CRC: 645347485
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ca45f57683f5d7ab30ec2412ef35fdb9
+    Hash: 02609312ebc9c6023fd33ff4381116f3
   TypeTreeHash:
     serializedVersion: 2
     Hash: 4fd6089ee756c89abace9cc27ff36415
@@ -25,6 +25,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 95
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Player/Weapon/Dali/Jian_010_001/Jian_010_001.FBX
 Dependencies:

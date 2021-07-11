@@ -1,16 +1,17 @@
 ManifestFileVersion: 0
-CRC: 4231498792
+CRC: 1387016300
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 882d457c4a863f1a1766dafeae6ebe98
+    Hash: eafd8883c5522bca926906e3abc1b839
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 525b72fdacf3aef7d65f355ad8f17a96
+    Hash: b0363f7088f9761414f730641bf9a24b
 HashAppended: 0
 ClassTypes:
 - Class: 28
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/EffectSources/texture/effect_470.png
 Dependencies: []

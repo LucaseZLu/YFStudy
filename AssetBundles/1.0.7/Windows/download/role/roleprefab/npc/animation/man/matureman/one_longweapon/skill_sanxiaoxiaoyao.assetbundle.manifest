@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 774434168
+CRC: 3331534671
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 91fc4dccf3da65872110a46e81b72c38
+    Hash: bda103af541cbaec60e9b4df6a8ac5e8
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Man/MatureMan/One_LongWeapon/Skill_Sanxiaoxiaoyao.anim
 Dependencies: []

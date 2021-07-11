@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1774601691
+CRC: 3226877239
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ca364ce0e7d14c024887a0b3e44f7f57
+    Hash: 42660809dffc3b3fcf46e207860ac59d
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -21,8 +21,9 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 43
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Player/Weapon/Xiaoyao/Fu_006_001/Fu_006_001.FBX
 Dependencies:
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/player/weapon/xiaoyao/fu_006_001/materials/fu_006_001_2.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/player/weapon/xiaoyao/fu_006_001/materials/fu_006_001_1.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/player/weapon/xiaoyao/fu_006_001/materials/fu_006_001_2.assetbundle

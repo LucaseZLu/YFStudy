@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2482617390
+CRC: 1235854468
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b89ce61b8e2dc71280f3a4532f6a0a8b
+    Hash: 086270a255a844bd0c1de92024409b81
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,8 +15,9 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/One_Sword/Npc_001_murongfu_001/Materials/Npc_001_murongfu_003.tga
 - Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/One_Sword/Npc_001_murongfu_001/Materials/Npc_001_murongfu_003.mat
+- Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/One_Sword/Npc_001_murongfu_001/Materials/Npc_001_murongfu_003.tga
 Dependencies:
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/effect_wufeng001.assetbundle

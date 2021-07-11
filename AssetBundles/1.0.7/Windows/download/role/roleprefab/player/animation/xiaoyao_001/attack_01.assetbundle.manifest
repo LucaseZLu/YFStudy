@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 181174501
+CRC: 2259761689
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ca03fce18d28da5d6eecba955c054bb4
+    Hash: a3f3b42daaa9309c9603b0beaf5d7be4
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Player/Animation/Xiaoyao_001/Attack_01.anim
 Dependencies: []

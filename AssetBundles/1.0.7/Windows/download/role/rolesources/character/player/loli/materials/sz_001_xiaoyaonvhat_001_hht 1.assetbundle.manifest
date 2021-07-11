@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1757413358
+CRC: 1568508535
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 24702099e6cc2c11cd04ba46cf1ba46f
+    Hash: 22a2f8e20ed3268804782c7c5108e869
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,6 +15,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Player/Loli/Materials/Sz_001_xiaoyaonvhat_001_hht
   1.mat

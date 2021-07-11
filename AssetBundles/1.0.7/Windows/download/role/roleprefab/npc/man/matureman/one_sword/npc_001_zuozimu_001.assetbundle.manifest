@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1902425226
+CRC: 1871263542
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2bf01b41e6d24ac4e90ddb04901fcbcc
+    Hash: bf9e221b2545f352356eaeba07c70b48
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Man/MatureMan/One_Sword/Npc_001_zuozimu_001.prefab
 Dependencies:

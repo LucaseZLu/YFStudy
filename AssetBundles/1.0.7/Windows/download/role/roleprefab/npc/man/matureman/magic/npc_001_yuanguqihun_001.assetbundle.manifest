@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1968181339
+CRC: 1846271553
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 97e4af3cba7d40a9db47c4ef890ec181
+    Hash: a7b2cc93c2a715e785728f7796332042
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Man/MatureMan/Magic/Npc_001_yuanguqihun_001.prefab
 Dependencies:

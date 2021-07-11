@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 114578386
+CRC: 524681890
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 91debda83dc6f7471e025ac7ecb6b90d
+    Hash: 330f9b4af139c332af68bfc0f299e705
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,8 +21,9 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Man/MatureMan/One_Sword/Npc_001_murongbo_001.prefab
 Dependencies:
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/man/matureman/one_sword/npc_001_murongbo_001/npc_001_murongbo_001.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/man/matureman/one_sword/npc_001_murongbo_001/materials/npc_001_murongbo_001.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/man/matureman/one_sword/npc_001_murongbo_001/npc_001_murongbo_001.assetbundle

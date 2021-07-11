@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1276573685
+CRC: 768840519
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3a01af395ebc6d6901d42a4aa1252e1c
+    Hash: f7806ed5ed1f15520b8586c2edfecfa3
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,6 +15,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/Strong/No_Weapon/Npc_Yanmenguan_Strong/Materials/Npc_001_daozei_001.tga
 - Assets/Download/Role/RoleSources/Character/Npc/Man/Strong/No_Weapon/Npc_Yanmenguan_Strong/Materials/Npc_001_daozei_001.mat

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1991196879
+CRC: 567493770
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1a1b4fb2f500fa63691829709db5b258
+    Hash: fb3bd68e40828100574bd5898b7e9d01
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/One_LongWeapon/Npc_001_dingchunqiu_001/Npc_001_dingchunqiu_001.FBX
 Dependencies:

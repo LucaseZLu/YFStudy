@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 631721051
+CRC: 2739847355
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b92d41703e553baf08595a93070ace17
+    Hash: ccc23f61825e0aebc674e4ec658c800e
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Man/MatureMan/One_Sword/Npc_001_yunzhonghe_001.prefab
 Dependencies:

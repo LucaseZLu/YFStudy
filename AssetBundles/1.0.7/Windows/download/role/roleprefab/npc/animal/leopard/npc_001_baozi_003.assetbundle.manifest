@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3917216124
+CRC: 799505269
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f4bfe4cd73b63481b908541609345f6e
+    Hash: 9357566cf7f7f9da6a63f4c8920e753b
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animal/Leopard/Npc_001_baozi_003.prefab
 Dependencies:

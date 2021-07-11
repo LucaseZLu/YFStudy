@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 359528218
+CRC: 1571847700
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c79fe46b880b3c187a414d7cfcb58812
+    Hash: 036b86f3995d91df830bd71389298643
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,6 +15,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Ride/Qicheng_001_qilin_001/Materials/Qicheng_001_qilin_001.mat
 - Assets/Download/Role/RoleSources/Character/Ride/Qicheng_001_qilin_001/Materials/Qicheng_001_qilin_001.tga

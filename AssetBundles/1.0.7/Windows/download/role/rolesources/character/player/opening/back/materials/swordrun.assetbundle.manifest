@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3001797067
+CRC: 1806271973
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e532c4d54bc427b43e6a5622f144f1f1
+    Hash: bec74c4f70b2e5765a0247edc5357fa2
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,7 +15,8 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Download/Role/RoleSources/Character/Player/Opening/Back/Materials/swordrun.png
 - Assets/Download/Role/RoleSources/Character/Player/Opening/Back/Materials/swordrun.mat
+- Assets/Download/Role/RoleSources/Character/Player/Opening/Back/Materials/swordrun.png
 Dependencies: []

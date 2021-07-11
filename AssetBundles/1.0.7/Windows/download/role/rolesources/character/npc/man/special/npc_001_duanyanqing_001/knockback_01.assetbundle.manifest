@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 931430858
+CRC: 2750077606
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 35a556b931dde4c617353f298e4ff15e
+    Hash: 542be9e1f18e4729648efb8a16579cab
   TypeTreeHash:
     serializedVersion: 2
     Hash: d6eea2cdb046ba7c7fe3f3886765843c
@@ -23,6 +23,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/Special/Npc_001_duanyanqing_001/knockback_01.FBX
 Dependencies:

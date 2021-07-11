@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1418163394
+CRC: 3583488954
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 63122359fc8afb080ad786cebe031cd9
+    Hash: 5e2482a62bf4499689f4021a956b658c
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8542ed9d93673e256be30bb0523839d9
@@ -23,8 +23,9 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 111
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Building/fb_banghui_jubaopen04.prefab
 Dependencies:
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/building/fb_banghui_jubaopen/materials/fb_banghui_jubaopen04.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/building/fb_banghui_jubaopen/fb_banghui_jubaopen01.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/building/fb_banghui_jubaopen/materials/fb_banghui_jubaopen04.assetbundle

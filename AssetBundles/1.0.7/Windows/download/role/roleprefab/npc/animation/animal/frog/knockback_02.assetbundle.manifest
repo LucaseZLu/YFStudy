@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4205759570
+CRC: 1713638537
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b60578ca214ee432bf7d720b8c558fca
+    Hash: b70ff8cf03ac1b87dd285096606d85ce
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Animal/Frog/Knockback_02.anim
 Dependencies: []

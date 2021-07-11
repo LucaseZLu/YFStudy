@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 514529008
+CRC: 1697981766
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d23153a829be61e0833511007caa322b
+    Hash: f862823e96bc7304d04bb016aece293b
   TypeTreeHash:
     serializedVersion: 2
-    Hash: ec303583e0f7d412f8f2b66e752c1b54
+    Hash: 8d98812b4c1617c0a50c83a743014a5c
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -27,9 +27,10 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Boss/Boss/BOSS.tga
-- Assets/Download/Role/RoleSources/Character/Boss/Boss/BOSS.mat
 - Assets/Download/Role/RoleSources/Character/Boss/Boss/BOSS.FBX
+- Assets/Download/Role/RoleSources/Character/Boss/Boss/BOSS.mat
 Dependencies:
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/boss/boss/materials/boss.assetbundle

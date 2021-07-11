@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1301803093
+CRC: 62780594
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 86a94bed19efdca30d8b0df0c3a92ee9
+    Hash: 1774e162a8ea5f1b2aa7ae4b82b1f6a6
   TypeTreeHash:
     serializedVersion: 2
     Hash: 45875108e441588ead174e12e00e97b4
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 21
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/EffectSources/texture/mateials/fazhen001.mat
 Dependencies:

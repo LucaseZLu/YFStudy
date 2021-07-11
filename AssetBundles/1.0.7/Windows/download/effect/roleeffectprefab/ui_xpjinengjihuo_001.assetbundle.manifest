@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 987114290
+CRC: 2916942084
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0e2ac8381abe52e4a405359fcc04e906
+    Hash: d1bee465c3c7a6e3fb61cae4308b62f9
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 52a414f981dc5a178b0e58574e6cbefd
+    Hash: b07e95eec8d55770ffce51414c7b0714
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 199
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/RoleEffectPrefab/ui_xpjinengjihuo_001.prefab
 Dependencies:

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2532616461
+CRC: 1209097572
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c2eddf88e78b8ec0190d4053abe67e56
+    Hash: c984798b8b98469498d3763d10595ba7
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/Twohand_LongWeapon/Npc_001_quanguanqing_001/Npc_001_quanguanqing_001.FBX
 Dependencies:

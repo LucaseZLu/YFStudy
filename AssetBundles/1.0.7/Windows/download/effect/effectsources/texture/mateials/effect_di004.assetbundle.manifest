@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2174480148
+CRC: 3245072303
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: bf4de62759eae8cf7449e03a071f5a9e
+    Hash: 14955e1da3fa01f4d75cac0ccf5278b1
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,6 +15,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/EffectSources/texture/mateials/effect_di004.mat
 Dependencies:

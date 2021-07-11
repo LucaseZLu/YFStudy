@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 968060813
+CRC: 3853774761
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1a70d8e0ce7bdd70db5d4cbaf834a736
+    Hash: 82aa9aaeef5f666b8c2808e603a882c2
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,9 +21,10 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Player/Xiaoyao_001/Cloth_001_xiaoyao_001_004/Cloth_001_xiaoyao_001_004.prefab
 Dependencies:
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/player/xiaoyao_001/cloth_001_xiaoyao_001_004/cloth_001_xiaoyao_001_004.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/player/xiaoyao_001/cloth_001_xiaoyao_001_004/materials/cloth_001_xiaoyao_001_004.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/player/xiaoyao_001/cloth_001_xiaoyao_001_004/materials/hair_xiaoyao_004.assetbundle
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/player/xiaoyao_001/cloth_001_xiaoyao_001_004/cloth_001_xiaoyao_001_004.assetbundle

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4222405360
+CRC: 3049980982
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: df9eb9648bbed58d34025e40928fc2ef
+    Hash: 75c1bad0c32926c129b2699f7e9a1186
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/EffectSources/Animation/Camera001.anim
 Dependencies: []

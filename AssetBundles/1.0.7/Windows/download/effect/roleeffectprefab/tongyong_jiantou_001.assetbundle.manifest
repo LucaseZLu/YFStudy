@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3877292408
+CRC: 1555292166
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 356f6f60430bb788fc0ec7314e8fb4ba
+    Hash: 1457d1a16da21eca5c948ec86ae002e2
   TypeTreeHash:
     serializedVersion: 2
     Hash: 40df7f67bec2175d976f165e3a52230a
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 43
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/RoleEffectPrefab/tongyong_jiantou_001.prefab
 Dependencies:

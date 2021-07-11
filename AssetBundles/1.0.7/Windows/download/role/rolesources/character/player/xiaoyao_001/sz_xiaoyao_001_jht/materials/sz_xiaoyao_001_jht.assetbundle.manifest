@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 4241301760
+CRC: 3452561816
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: dc71752f52c3b3c98d96e78c6ff7f275
+    Hash: 7ec98d15b428710429d2d56971508d80
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,6 +15,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Player/Xiaoyao_001/Sz_xiaoyao_001_jht/Materials/Sz_xiaoyao_001_jht.mat
 - Assets/Download/Role/RoleSources/Character/Player/Xiaoyao_001/Sz_xiaoyao_001_jht/Materials/Sz_xiaoyao_001_jht.tga

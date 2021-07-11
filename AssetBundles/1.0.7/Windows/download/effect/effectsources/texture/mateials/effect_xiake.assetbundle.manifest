@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1339477825
+CRC: 752875845
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 83f03379c7cb9135ae338440f8a2b39d
+    Hash: 988e08191d3a40fc7880ed22771a87f0
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,6 +15,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/EffectSources/texture/mateials/effect_xiake.mat
 Dependencies:

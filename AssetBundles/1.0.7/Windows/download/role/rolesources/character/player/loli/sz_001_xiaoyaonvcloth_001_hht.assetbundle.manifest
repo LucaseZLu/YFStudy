@@ -1,16 +1,17 @@
 ManifestFileVersion: 0
-CRC: 3887769969
+CRC: 3109491738
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 55ba7ff91b772223d566123a14db62ec
+    Hash: 62d2c5369347c9ea0ec4803f9c14dab5
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 525b72fdacf3aef7d65f355ad8f17a96
+    Hash: b0363f7088f9761414f730641bf9a24b
 HashAppended: 0
 ClassTypes:
 - Class: 28
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Player/Loli/Sz_001_xiaoyaonvcloth_001_hht.tga
 Dependencies: []

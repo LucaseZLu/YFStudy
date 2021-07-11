@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 4180284623
+CRC: 1730434145
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 09137ba1c49e6e390366a6140dbf9f04
+    Hash: a51239ca3643298a768e786bbcb8b885
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,8 +15,9 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/No_Weapon/Npc_001_jiumozhi_001/Materials/Npc_001_jiumozhi_001.tga
 - Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/No_Weapon/Npc_001_jiumozhi_001/Materials/Npc_001_jiumozhi_001.mat
+- Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/No_Weapon/Npc_001_jiumozhi_001/Materials/Npc_001_jiumozhi_001.tga
 Dependencies:
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/effect_wufeng001.assetbundle

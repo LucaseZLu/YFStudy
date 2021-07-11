@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 747294262
+CRC: 3546915113
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 15ecc6875041ded52afb72639e3dee9c
+    Hash: 9efd9d55bd0d816d3e158dfee7475517
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,8 +21,9 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Man/Strong/No_Weapon/Npc_004_daozei_001.prefab
 Dependencies:
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/man/strong/no_weapon/npc_004_daozei_001/npc_004_daozei_001.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/man/strong/no_weapon/npc_004_daozei_001/materials/npc_001_daozei_001.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/npc/man/strong/no_weapon/npc_004_daozei_001/npc_004_daozei_001.assetbundle

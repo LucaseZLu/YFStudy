@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2638083776
+CRC: 242780227
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ca974951e061a03fd584e5f405d1d90f
+    Hash: d8447a4505106f31db7d82e03b1be5c7
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/Twohand_LongWeapon/Npc_001_nvzhenlieren_001/Npc_001_nvzhenlieren_001.FBX
 Dependencies:

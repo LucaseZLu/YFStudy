@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2808548045
+CRC: 3375982053
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ef5132a194ea05f6d4e1e2cd88d4890b
+    Hash: 5dfee63f82579530058457d1f618382a
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,7 +15,8 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/No_Weapon/Npc_001_baishijing_001/Materials/Npc_001_baishijing_001.mat
 - Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/No_Weapon/Npc_001_baishijing_001/Materials/Npc_001_baishijing_001.tga
+- Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/No_Weapon/Npc_001_baishijing_001/Materials/Npc_001_baishijing_001.mat
 Dependencies: []

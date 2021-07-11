@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2305795482
+CRC: 3887256732
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5b84023c83e9b5278461b897361a21d2
+    Hash: 4c930b7bcbb889e69f66bdda01ba80cd
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,6 +15,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/EffectSources/model/Materials/effect_148.mat
 Dependencies:

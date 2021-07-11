@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2414968900
+CRC: 1868401881
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: db40e7a26ad7828ff8379393318f4ddc
+    Hash: 37410e0fb2c4f145b8e5dda2443ff6bb
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Ride/Qicheng_001_baima_002.prefab
 Dependencies:

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1342775542
+CRC: 1735146619
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: becfb11886f4a51d207e4c115fe98d8c
+    Hash: 8b30828af9bf166e9a354ac09acec8cb
   TypeTreeHash:
     serializedVersion: 2
     Hash: d6eea2cdb046ba7c7fe3f3886765843c
@@ -23,6 +23,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Man/MatureMan/No_Weapon/Npc_001_duanyu_001.prefab
 Dependencies:

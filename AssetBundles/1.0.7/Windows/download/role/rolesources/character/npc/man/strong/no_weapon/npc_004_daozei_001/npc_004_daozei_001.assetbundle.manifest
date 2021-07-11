@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2078951831
+CRC: 3559738994
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d81e7a7606ba928b0d8f5e6ddd1218a0
+    Hash: e35c00f8cfcb89d2fe733b935ce7de1c
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/Strong/No_Weapon/Npc_004_daozei_001/Npc_004_daozei_001.FBX
 Dependencies:

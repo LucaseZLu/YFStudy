@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 555556415
+CRC: 2557863188
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a150334735b1c0b638f9d0aa25128f18
+    Hash: d8ff30a06ac00b92e948d5f3b3020ca9
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 742b81f75e5584ca3a2847c028d685c8
+    Hash: afca19c22f3a1c0863082a46c865f040
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -21,8 +21,9 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 199
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/RoleEffectPrefab/buff_xuanyun_001.prefab
 Dependencies:
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/light_019.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_078.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/light_019.assetbundle

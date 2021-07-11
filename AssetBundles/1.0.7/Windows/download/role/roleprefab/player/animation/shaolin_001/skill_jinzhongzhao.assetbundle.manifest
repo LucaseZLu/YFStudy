@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 917406566
+CRC: 3699224377
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: afee0a6e90086fc20fcdcdc1ee15c72e
+    Hash: 273ab05d69096ff670ff8d1404b0b604
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Player/Animation/Shaolin_001/Skill_Jinzhongzhao.anim
 Dependencies: []

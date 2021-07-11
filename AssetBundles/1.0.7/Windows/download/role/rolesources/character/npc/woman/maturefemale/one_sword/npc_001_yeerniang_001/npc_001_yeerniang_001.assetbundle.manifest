@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1102916474
+CRC: 2091197639
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3b9ea172130f44c784804c43678a09dc
+    Hash: d1cdd81873db887799c4f6d039bda0d1
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Woman/MatureFemale/One_Sword/Npc_001_yeerniang_001/Npc_001_yeerniang_001.FBX
 Dependencies:

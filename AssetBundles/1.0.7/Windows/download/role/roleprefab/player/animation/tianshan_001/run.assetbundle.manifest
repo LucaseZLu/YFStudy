@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1294725503
+CRC: 91768254
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 355bed98480e7b4fc058a9e654732ae7
+    Hash: 21edb36938eb4e96c6fb551b2e0dbc65
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Player/Animation/Tianshan_001/Run.anim
 Dependencies: []

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 160131481
+CRC: 3958120915
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 57b02279048dc36e64ba97c1c1581ca4
+    Hash: acb83017e1a871391c2686cfcf79880a
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Woman/MatureFemale/One_Sword/Npc_001_yeerniang_001.prefab
 Dependencies:

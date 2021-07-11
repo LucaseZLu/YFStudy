@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1860494586
+CRC: 3564987059
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2483d904e3d9e0697256f6cfa90fd010
+    Hash: 6c4e698727eed07c3201a9ec5c3ea7e5
   TypeTreeHash:
     serializedVersion: 2
     Hash: 45875108e441588ead174e12e00e97b4
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 21
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/EffectSources/texture/mateials/effect_xin004.mat
 Dependencies:

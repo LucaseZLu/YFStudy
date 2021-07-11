@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2388068596
+CRC: 2772713031
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 309371b6ab848199c17b4cbd14cb7ff2
+    Hash: 076d329d84c66b9133f2f276f056391e
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,7 +15,8 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/No_Weapon/Npc_001_xingsudizi_001/Materials/Npc_001_xingsudizi_001.tga
 - Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/No_Weapon/Npc_001_xingsudizi_001/Materials/Npc_001_xingsudizi_001.mat
+- Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/No_Weapon/Npc_001_xingsudizi_001/Materials/Npc_001_xingsudizi_001.tga
 Dependencies: []

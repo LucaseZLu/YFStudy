@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 955340651
+CRC: 1096669386
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6b340e1a6e17c023d1c360320825bd00
+    Hash: a25442872dc736de8a2577f2b9341f4b
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8542ed9d93673e256be30bb0523839d9
@@ -23,6 +23,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 111
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Building/fb_banghui_jubaopen02.prefab
 Dependencies:

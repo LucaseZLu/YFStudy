@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1115569173
+CRC: 2240771647
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a707fa320dea77d8536eb819934f98d8
+    Hash: 01956d4f39f3455374a55d7e81efffc1
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,6 +15,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/EffectSources/texture/mateials/effect_xulie038.mat
 Dependencies:

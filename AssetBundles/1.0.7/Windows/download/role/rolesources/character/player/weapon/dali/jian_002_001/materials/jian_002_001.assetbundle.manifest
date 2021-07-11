@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 194594453
+CRC: 3107053474
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f42c52f3b0c92d5ae2918e7ce8773af6
+    Hash: 7ef75e63d3a26f4fce49b3074e832369
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,7 +15,8 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Download/Role/RoleSources/Character/Player/Weapon/Dali/Jian_002_001/Materials/Jian_002_001.mat
 - Assets/Download/Role/RoleSources/Character/Player/Weapon/Dali/Jian_002_001/Materials/Jian_002_001.tga
+- Assets/Download/Role/RoleSources/Character/Player/Weapon/Dali/Jian_002_001/Materials/Jian_002_001.mat
 Dependencies: []

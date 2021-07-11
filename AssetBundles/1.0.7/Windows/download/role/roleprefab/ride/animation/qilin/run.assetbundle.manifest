@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3852893966
+CRC: 188428001
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f5350a769cf821cd69a9dd896fea0ce4
+    Hash: 0f80118fd0cd445dd4b1d64abda9b631
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Ride/Animation/Qilin/Run.anim
 Dependencies: []

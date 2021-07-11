@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2460249471
+CRC: 2820667396
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 53c71fb4d101b184b2577839ef16766a
+    Hash: 92df8c8514c8363283b4177f4759ace1
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Woman/Loli/No_Weapon/Npc_001_tianshantonglao_001/Npc_001_tianshantonglao_001.FBX
 Dependencies:

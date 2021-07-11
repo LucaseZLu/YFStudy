@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 950793264
+CRC: 1245837716
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b61a5636ef3297eb2101cfb0764fefa9
+    Hash: 2c714fc7c5de71f25e70ae8e3fbaa511
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Player/Animation/Dali_001/Ride_Back_Stand.anim
 Dependencies: []

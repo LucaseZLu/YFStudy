@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1282145665
+CRC: 1427750406
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4e47d262220a02fc8a4e7ebda458cf5c
+    Hash: 24c95b6c6ca62ca97fe2b1437ab5db1d
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 307fb22a68ed8acea9b81494e6ed2d20
+    Hash: 4506e2cf3d5ee6f4e2b0bf56ea6ac409
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -23,9 +23,10 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 199
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/RoleEffectPrefab/scene_yanhua_s_002.prefab
 Dependencies:
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/r_016.assetbundle
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_131.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_092.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/effect_131.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/effect/effectsources/texture/mateials/r_016.assetbundle

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1380371253
+CRC: 224747275
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6a9c1735bf85403fb055f8f56b66a872
+    Hash: dad05597e3141f4c401865f078debd9e
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/Magic/Npc_001_xiaoyaozi_001/Npc_001_xiaoyaozi_001.FBX
 Dependencies:

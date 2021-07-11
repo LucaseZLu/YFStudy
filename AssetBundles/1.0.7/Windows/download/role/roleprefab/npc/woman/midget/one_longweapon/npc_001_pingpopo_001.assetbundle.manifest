@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3228076472
+CRC: 1092948437
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8c76c68411bfcbc7f460e2ab387c5f6d
+    Hash: c3f8ebc3cc06d9fb9f55bfed291e4534
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Woman/Midget/One_LongWeapon/Npc_001_pingpopo_001.prefab
 Dependencies:

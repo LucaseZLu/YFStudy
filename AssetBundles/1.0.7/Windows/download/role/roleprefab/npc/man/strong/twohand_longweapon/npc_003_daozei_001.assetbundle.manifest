@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4154147121
+CRC: 54789174
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7733818888aa45b4586625b0f9f15bdc
+    Hash: e8508f94825043fd1776cc1aed879f53
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Man/Strong/Twohand_LongWeapon/Npc_003_daozei_001.prefab
 Dependencies:

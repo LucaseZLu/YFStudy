@@ -1,16 +1,17 @@
 ManifestFileVersion: 0
-CRC: 4082428272
+CRC: 210281622
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 800cc4391503478da1924d8b8a517e31
+    Hash: 5be4b5baa56a691b14f4da848bd5770e
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 525b72fdacf3aef7d65f355ad8f17a96
+    Hash: b0363f7088f9761414f730641bf9a24b
 HashAppended: 0
 ClassTypes:
 - Class: 28
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/EffectSources/texture/effect_dh_shalin005.tga
 Dependencies: []

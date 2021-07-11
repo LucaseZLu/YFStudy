@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 226737541
+CRC: 3036845091
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a6adcaa3f5611f9392dc22aa4ed7cbd5
+    Hash: 551f5ee0eb406430fa43e0da1d74d742
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8215722b766c6decafa3f90512650b44
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,7 +15,8 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Download/Role/RoleSources/Character/Npc/Woman/Midget/One_LongWeapon/Npc_001_pingpopo_001/Materials/Npc_001_pingpopo_001.tga
 - Assets/Download/Role/RoleSources/Character/Npc/Woman/Midget/One_LongWeapon/Npc_001_pingpopo_001/Materials/Npc_001_pingpopo_001.mat
+- Assets/Download/Role/RoleSources/Character/Npc/Woman/Midget/One_LongWeapon/Npc_001_pingpopo_001/Materials/Npc_001_pingpopo_001.tga
 Dependencies: []

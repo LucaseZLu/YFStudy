@@ -1,18 +1,19 @@
 ManifestFileVersion: 0
-CRC: 802580715
+CRC: 2084835807
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2415e2e9e6f68cf12507abbad7c00c3f
+    Hash: 2d9c5328061d6e9300501c88a6d59482
   TypeTreeHash:
     serializedVersion: 2
-    Hash: a4e20c9d8e7103fcef39ad820c79bacf
+    Hash: 5651999fa58938ac55fc849c3d2539bc
 HashAppended: 0
 ClassTypes:
 - Class: 21
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Player/Loli/Materials/Face_001_xiaoyaonv_001.mat
 Dependencies: []

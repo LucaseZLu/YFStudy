@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1009306389
+CRC: 2126908253
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e078143db2ec5cb2678dba6e57e143e3
+    Hash: 552418bf42b9d3ff9973992e615d9054
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Man/MatureMan/TwoHand_LongWeapon/Hit.anim
 Dependencies: []

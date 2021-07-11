@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2205855546
+CRC: 933467335
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7f5315605dcd782ba39b9540dde683f2
+    Hash: 01ade25966dd8dbef76ed6ec87990e0c
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Man/MatureMan/Twohand_LongWeapon/Npc_001_shennongbanglouluo_002.prefab
 Dependencies:

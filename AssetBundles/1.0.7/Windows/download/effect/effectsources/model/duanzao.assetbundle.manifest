@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2897386007
+CRC: 1476341410
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0db5babfcd0e7c901314d1272124ef69
+    Hash: af79e2af893faea49ade184bbe494095
   TypeTreeHash:
     serializedVersion: 2
     Hash: d6eea2cdb046ba7c7fe3f3886765843c
@@ -23,6 +23,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/EffectSources/model/Duanzao.FBX
 Dependencies:

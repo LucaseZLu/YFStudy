@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1341666179
+CRC: 2186411560
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: bf9f6ccaff7b0c2b5286e14a1af65875
+    Hash: 3803319d88496a81fbab38e0e7559b46
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8542ed9d93673e256be30bb0523839d9
@@ -23,6 +23,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 111
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Player/Weapon/Shaolin/Gun_001_008/Gun_001_008.FBX
 Dependencies:

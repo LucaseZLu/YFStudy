@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 839002872
+CRC: 4288466633
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5fb9ccafa63fd02f7433e1ba8169d21e
+    Hash: 758fd6ac011341819443917b6d314435
   TypeTreeHash:
     serializedVersion: 2
     Hash: 45875108e441588ead174e12e00e97b4
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 21
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/Strong/One_Sword/Npc_001_fengboe_001/Materials/Npc_001_fengboe_001_boss.mat
 Dependencies:

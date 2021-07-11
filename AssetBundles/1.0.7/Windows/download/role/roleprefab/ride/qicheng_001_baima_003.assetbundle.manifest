@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1444701019
+CRC: 67324966
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3f0af7083f90f239012277c85d099b42
+    Hash: 05a3897266d8b514f6c8f9b793529f81
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,8 +21,9 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Ride/Qicheng_001_baima_003.prefab
 Dependencies:
-- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/ride/qicheng_001_baima_001/qicheng_001_baima_001.assetbundle
 - H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/ride/qicheng_001_baima_001/materials/qicheng_001_baima_003.assetbundle
+- H:/Project/Unity/YFStudy/Assets/../AssetBundles/1.0.7/Windows/download/role/rolesources/character/ride/qicheng_001_baima_001/qicheng_001_baima_001.assetbundle

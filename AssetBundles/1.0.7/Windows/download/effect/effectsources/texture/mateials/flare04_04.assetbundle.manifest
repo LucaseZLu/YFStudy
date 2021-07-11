@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3740312533
+CRC: 3797838790
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 33a9679a2a62032cb5550034f339cc3a
+    Hash: affdb1bb6ce005e3a0a18e7d9daa7d92
   TypeTreeHash:
     serializedVersion: 2
     Hash: 45875108e441588ead174e12e00e97b4
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 21
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Effect/EffectSources/texture/mateials/flare04_04.mat
 Dependencies:

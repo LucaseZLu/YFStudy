@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 564024535
+CRC: 11425421
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 187927259d95556efb506ba01a3d0acf
+    Hash: 61e4991139aa69bb7ca411035582462c
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Woman/MatureFemale/Magic/Npc_001_kangmin_001/Npc_001_kangmin_001.FBX
 Dependencies:

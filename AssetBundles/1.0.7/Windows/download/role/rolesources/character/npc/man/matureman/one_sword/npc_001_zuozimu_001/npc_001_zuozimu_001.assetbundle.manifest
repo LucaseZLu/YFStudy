@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1216961095
+CRC: 1120734154
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9edacf6ee6cf2530ee84bac74e739797
+    Hash: 5792b94a867efcde5b1f4a7967d419f2
   TypeTreeHash:
     serializedVersion: 2
     Hash: c802a704b053c3d3d492c281ae7ec2ab
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RoleSources/Character/Npc/Man/MatureMan/One_Sword/Npc_001_zuozimu_001/Npc_001_zuozimu_001.FBX
 Dependencies:

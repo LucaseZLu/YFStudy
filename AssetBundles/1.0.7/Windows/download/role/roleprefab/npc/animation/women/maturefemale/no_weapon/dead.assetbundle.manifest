@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3154845124
+CRC: 2517311101
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: cc0a9f115ef91417da2bc94e6ff35b80
+    Hash: 786d1b9d80ddeb270aea0910f7878759
   TypeTreeHash:
     serializedVersion: 2
     Hash: af57576da81d5d3ce45807ac11234de6
@@ -11,6 +11,7 @@ HashAppended: 0
 ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Download/Role/RolePrefab/Npc/Animation/Women/MatureFemale/No_Weapon/Dead.anim
 Dependencies: []
